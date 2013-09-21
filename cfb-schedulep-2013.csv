@@ -279,6 +279,11 @@
 2013,1,1605,NP,McDonald,George,T,H,"Tisch, Mica",IND,,,,New York,NY,10022,P,7,,,R0000428,Google,CORP,,,,Mountian View,CA,94043,45.00,12/3/2012,Credit Card,FUNDR,Ad Words
 2013,1,1605,NP,McDonald,George,T,H,"Whitaker, Jill",IND,,,,New York,NY,10065,P,9,,,R0001161,FedEx Office,CORP,,,,,NY,,70.77,6/14/2013,Cash,OTHER,Poster Board Mount
 2013,1,1605,NP,McDonald,George,T,H,"Zumbluskas, Michael",IND,,,,New York,NY,10028,P,10,,,R0001895,Staples,CORP,,,,New York,NY,10028,294.66,7/9/2013,Credit Card,PETIT,Supplies
+2013,1,1666,P,Salgado,Erick,J,H,"Heymann, Oswalt",IND,,,,Brooklyn,NY,11229,P,12,,,R0002121,Ocean Discount Inc,CORP,,,,Brooklyn,NY,11230,1.30,8/3/2013,Cash,OFFCE,#10 Envelopes
+2013,1,1666,P,Salgado,Erick,J,H,"Heymann, Oswalt",IND,,,,Brooklyn,NY,11229,P,12,,,R0002122,US Postal Service,CORP,,,,Brooklyn,NY,11229,6.44,8/3/2013,Cash,OFFCE,First class stamps
+2013,1,1666,P,Salgado,Erick,J,H,"Heymann, Oswalt",IND,,,,Brooklyn,NY,11229,P,12,,,R0002123,New York State Metro Transit,CORP,,,,New York,NY,10017,5.00,8/28/2013,Cash,OTHER,Subway fare
+2013,1,1666,P,Salgado,Erick,J,H,"Heymann, Oswalt",IND,,,,Brooklyn,NY,11229,P,12,,,R0002124,New York State Metro Transit,CORP,,,,New York,NY,10017,5.00,9/9/2013,Cash,OTHER,Subway fare
+2013,1,1666,P,Salgado,Erick,J,H,"Marcial, Edwin",IND,,,,New York,NY,10029,P,12,,,R0002115,Shell Oil,CORP,,,,New York,NY,10029,40.00,9/10/2013,Cash,OTHER,Gasoline
 2013,1,1666,P,Salgado,Erick,J,H,"Marcial, Edwin",IND,,,,New York,NY,10029,P,9,,,R0001549,"Espada, Jose",IND,,,,New York,NY,10029,300.00,5/26/2013,Check,OFFCE,Electricity
 2013,1,1666,P,Salgado,Erick,J,H,"Marcial, Edwin",IND,,,,New York,NY,10029,P,9,,,R0001551,Harlemfloristsupply.com,CORP,,,,New York,NY,10035,31.50,5/25/2013,Cash,FUNDR,Decoration
 2013,1,1666,P,Salgado,Erick,J,H,"Marcial, Edwin",IND,,,,New York,NY,10029,P,9,,,R0001553,Luigi's Pizza,CORP,,,,Brooklyn,NY,11229,8.00,6/22/2013,Cash,OFFCE,Food
@@ -324,10 +329,13 @@
 2013,1,1690,P,Lhota,Joseph,J,H,"COLE, ROB",IND,,,,NISKAYUNA,NY,12309,P,8,,,R0003883,"COLE, ROB",IND,,,,NISKAYUNA,NY,12309,11.87,5/8/2013,Credit Card,OTHER,TRAVEL
 2013,1,1690,P,Lhota,Joseph,J,H,"COLE, ROB",IND,,,,NISKAYUNA,NY,12309,P,9,,,R0003881,"COLE, ROB",IND,,,,NISKAYUNA,NY,12309,1939.87,5/15/2013,Credit Card,OTHER,TRAVEL
 2013,1,1690,P,Lhota,Joseph,J,H,"COLE, ROB",IND,,,,NISKAYUNA,NY,12309,P,9,,,R0011370,"COLE, ROB",IND,,,,NISKAYUNA,NY,12309,5175.65,7/10/2013,Credit Card,FUNDR,DEBATE WATCH
+2013,1,1690,P,Lhota,Joseph,J,H,"FIORE, ROBERT",IND,,,,New York,NY,10010,P,12,,,R0010728,"FIORE, ROBERT",IND,,,,New York,NY,10010,118.62,9/4/2013,Credit Card,OTHER,"SUPPLIES, TRAVEL"
+2013,1,1690,P,Lhota,Joseph,J,H,"FIORE, ROBERT",IND,,,,New York,NY,10010,P,12,,,R0011368,"FIORE, ROBERT",IND,,,,New York,NY,10010,105.08,9/9/2013,Cash,OTHER,TRAVEL
 2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,10,,,R0007582,"GIBSON, ANDREW",IND,,,,New York,NY,10010,18.75,7/16/2013,Credit Card,OTHER,PARKING
 2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,11,,,R0009314,"GIBSON, ANDREW",IND,,,,New York,NY,10010,5.00,7/29/2013,Cash,OTHER,TRAVEL
 2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,11,,,R0009316,"GIBSON, ANDREW",IND,,,,New York,NY,10010,51.00,8/17/2013,Credit Card,OTHER,TRAVEL
 2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,11,,,R0010670,"GIBSON, ANDREW",IND,,,,New York,NY,10010,69.00,8/22/2013,Credit Card,OTHER,"TRAVEL, PARKING"
+2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,12,,,R0010726,"GIBSON, ANDREW",IND,,,,New York,NY,10010,57.51,9/4/2013,Credit Card,OTHER,PARKING & GAS
 2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,9,,,R0004430,"GIBSON, ANDREW",IND,,,,New York,NY,10010,67.50,6/2/2013,Credit Card,PRINT,Sign
 2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,9,,,R0004648,"GIBSON, ANDREW",IND,,,,New York,NY,10010,40.01,6/12/2013,Credit Card,OTHER,TRAVEL
 2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,9,,,R0004833,"GIBSON, ANDREW",IND,,,,New York,NY,10010,8.00,6/19/2013,Credit Card,OTHER,TRAVEL
@@ -363,6 +371,7 @@
 2013,1,1690,P,Lhota,Joseph,J,H,"SPIELMAN, JOSHUA",IND,,,,TEANECK,NJ,07666,P,11,,,R0010724,"SPIELMAN, JOSHUA",IND,,,,TEANECK,NJ,07666,51.30,8/23/2013,Credit Card,FUNDR,TRAVEL TO FUNDRAISER
 2013,1,1690,P,Lhota,Joseph,J,H,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,P,10,,,R0007588,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,46.75,7/16/2013,Cash,PETIT,PETITION COPIES
 2013,1,1690,P,Lhota,Joseph,J,H,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,P,10,,,R0007670,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,240.00,7/18/2013,Credit Card,OTHER,EMAIL
+2013,1,1690,P,Lhota,Joseph,J,H,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,P,12,,,R0010720,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,58.00,8/31/2013,Credit Card,OTHER,TRAVEL FOR LIT
 2013,1,1690,P,Lhota,Joseph,J,H,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,P,7,,,R0002026,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,541.88,2/28/2013,Credit Card,OFFCE,Office Expenses
 2013,1,1690,P,Lhota,Joseph,J,H,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,P,8,,,R0002004,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,140.00,4/9/2013,Credit Card,OTHER,Travel Expenses
 2013,1,1690,P,Lhota,Joseph,J,H,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,P,8,,,R0002006,"TSCHIRHART, KEVIN",IND,,,,NORTHPORT,NY,11768,343.14,3/18/2013,Credit Card,OTHER,Email Marketing
@@ -416,6 +425,46 @@
 2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,11,,,R0003076,NYC Taxi,CORP,,,,,,,16.50,7/15/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,11,,,R0003078,NYC Taxi,CORP,,,,,,,11.50,7/22/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,11,,,R0003080,NYC Taxi,CORP,,,,,,,43.20,8/8/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003613,NYC Taxi,CORP,,,,,,,16.20,8/27/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003615,NYC Taxi,CORP,,,,,,,30.50,8/16/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003617,NYC Taxi,CORP,,,,,,,23.40,8/22/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003619,NYC Taxi,CORP,,,,,,,15.60,8/26/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003621,NYC Taxi,CORP,,,,,,,11.00,8/26/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003623,NYC Taxi,CORP,,,,,,,9.50,8/16/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003625,NYC Taxi,CORP,,,,,,,17.90,9/2/2013,Credit Card,WAGES,TAXI
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003627,NYC Taxi,CORP,,,,,,,27.50,9/2/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003629,NYC Taxi,CORP,,,,,,,16.80,9/1/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003631,MTA,CORP,,,,New York,ny,,22.15,8/21/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003633,NYC Taxi,CORP,,,,,,,9.50,8/19/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003635,NYC Taxi,CORP,,,,,,,14.40,9/16/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003637,NYC Taxi,CORP,,,,,,,11.90,8/20/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003639,NYC Taxi,CORP,,,,,,,19.80,9/2/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003641,NYC Taxi,CORP,,,,,,,18.00,8/26/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003643,NYC Taxi,CORP,,,,,,,25.80,8/23/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003645,NYC Taxi,CORP,,,,,,,12.00,8/21/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003647,NYC Taxi,CORP,,,,,,,18.60,8/21/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003649,NYC Taxi,CORP,,,,,,,6.50,8/26/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003651,NYC Taxi,CORP,,,,,,,12.60,8/23/2013,Credit Card,WAGES,12.60
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003653,NYC Taxi,CORP,,,,,,,12.60,8/21/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003655,NYC Taxi,CORP,,,,,,,17.40,8/25/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003661,just salad,LLC,,,,New York,NY,10016,7.07,8/19/2013,Credit Card,WAGES,food
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003663,Gansevoort park hotel,LLC,,,,New York,NY,10016,34.00,8/28/2013,Credit Card,WAGES,food
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003665,just salad,LLC,,,,New York,NY,10016,7.00,8/19/2013,Credit Card,WAGES,food
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003667,gastle car service,LLC,,,,Brooklyn,NY,11215,40.00,9/2/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003671,Wolfnights The Gourmet Wrap,CORP,,,,New York,NY,10002,18.25,9/13/2013,Credit Card,WAGES,food
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003673,cafe Au bon gout,LLC,,,,New York,NY,10001,5.00,9/2/2013,Credit Card,WAGES,food
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003675,gastle car service,LLC,,,,Brooklyn,NY,11215,116.85,9/2/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003677,Green Star Foods,CORP,,,,New York,NY,10002,11.77,8/25/2013,Credit Card,WAGES,food
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003679,Gansevoort park hotel,LLC,,,,New York,NY,10016,17.42,8/19/2013,Credit Card,WAGES,food
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003681,NYC Taxi,CORP,,,,,,,34.20,9/8/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003683,NYC Taxi,CORP,,,,,,,14.30,9/9/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003685,NYC Taxi,CORP,,,,,,,10.00,9/3/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003687,NYC Taxi,CORP,,,,,,,25.20,9/10/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003690,NYC Taxi,CORP,,,,,,,14.40,9/11/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003692,Green Star Foods,CORP,,,,New York,NY,10002,8.00,9/8/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003694,Green Star Foods,CORP,,,,New York,NY,10002,61.22,9/8/2013,Credit Card,WAGES,food
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003696,cafe Au bon gout,LLC,,,,New York,NY,10001,13.24,9/9/2013,Credit Card,WAGES,food
+2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,12,,,R0003698,cafe Au bon gout,LLC,,,,New York,NY,10001,7.50,9/9/2013,Credit Card,WAGES,food
 2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,9,,,R0003007,Amazon.com,CORP,,,,,,,144.65,6/26/2013,Credit Card,OTHER,Office food
 2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,9,,,R0003010,NYC Taxi,CORP,,,,,,,25.00,7/9/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,9,,,R0003014,NYC Taxi,CORP,,,,,,,9.00,7/3/2013,Credit Card,OTHER,Transportation
@@ -437,6 +486,49 @@
 2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,9,,,R0003093,Zaro's Bakery,CORP,,,,New York,NY,10010,22.05,7/2/2013,Credit Card,OTHER,Office Food
 2013,1,1796,P,Hidary,Jack,D,H,"Blekhman, Simon",IND,,,,New York,NY,10025,P,11,,,R0003117,NYC Taxi,CORP,,,,,,,15.00,8/13/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Blekhman, Simon",IND,,,,New York,NY,10025,P,11,,,R0003119,NYC Taxi,CORP,,,,,,,14.50,8/13/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Blekhman, Simon",IND,,,,New York,NY,10025,P,12,,,R0003369,NYC Taxi,CORP,,,,,,,27.00,8/29/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Blekhman, Simon",IND,,,,New York,NY,10025,P,12,,,R0003371,NYC Taxi,CORP,,,,,,,18.00,8/29/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Blekhman, Simon",IND,,,,New York,NY,10025,P,12,,,R0003374,Clove Lake Car Service,CORP,,,,Staten Island,NY,10301,58.00,8/25/2013,Cash,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Blekhman, Simon",IND,,,,New York,NY,10025,P,12,,,R0003377,U-Haul Moving and Storage,CORP,,,,Brooklyn,NY,11215,107.41,9/2/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Blekhman, Simon",IND,,,,New York,NY,10025,P,12,,,R0003379,BP Gas Station,CORP,,,,,,,27.01,9/2/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Blekhman, Simon",IND,,,,New York,NY,10025,P,12,,,R0003457,NYC Taxi,CORP,,,,,,,17.50,9/3/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Blekhman, Simon",IND,,,,New York,NY,10025,P,12,,,R0003459,NYC Taxi,CORP,,,,,,,26.00,9/4/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,Daniel Aronhime,CORP,,,,,,,P,12,,,R0003670,Wolfnights The Gourmet Wrap,CORP,,,,New York,NY,10002,18.25,9/13/2013,Credit Card,WAGES,food
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003482,NYC Taxi,CORP,,,,,,,10.20,8/14/2013,Credit Card,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003484,NYC Taxi,CORP,,,,,,,11.90,8/14/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003488,NYC Taxi,CORP,,,,,,,11.00,9/10/2013,Cash,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003492,NYC Taxi,CORP,,,,,,,10.00,9/7/2013,Cash,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003496,NYC Taxi,CORP,,,,,,,10.20,9/5/2013,Credit Card,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003500,NYC Taxi,CORP,,,,,,,18.00,8/31/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003502,NYC Taxi,CORP,,,,,,,31.20,9/11/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003504,NYC Taxi,CORP,,,,,,,23.00,9/7/2013,Cash,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003508,NYC Taxi,CORP,,,,,,,8.00,9/4/2013,Cash,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003512,NYC Taxi,CORP,,,,,,,13.80,9/8/2013,Credit Card,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003516,NYC Taxi,CORP,,,,,,,17.90,8/30/2013,Cash,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003520,NYC Taxi,CORP,,,,,,,20.90,9/11/2013,Credit Card,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003524,NYC Taxi,CORP,,,,,,,9.00,9/6/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003526,NYC Taxi,CORP,,,,,,,13.50,9/2/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003528,NYC Taxi,CORP,,,,,,,22.70,8/30/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003530,NYC Taxi,CORP,,,,,,,10.50,9/6/2013,Credit Card,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003532,NYC Taxi,CORP,,,,,,,12.50,8/15/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003534,NYC Taxi,CORP,,,,,,,15.50,9/4/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003536,NYC Taxi,CORP,,,,,,,31.70,9/11/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003541,NYC Taxi,CORP,,,,,,,13.20,9/3/2013,Credit Card,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003543,NYC Taxi,CORP,,,,,,,7.20,7/28/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003545,NYC Taxi,CORP,,,,,,,24.00,9/5/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003547,NYC Taxi,CORP,,,,,,,17.90,8/31/2013,Credit Card,WAGES,TAXI
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003549,NYC Taxi,CORP,,,,,,,17.90,9/12/2013,Credit Card,WAGES,tAXI
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003551,NYC Taxi,CORP,,,,,,,15.00,8/26/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003553,NYC Taxi,CORP,,,,,,,11.90,9/6/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003555,NYC Taxi,CORP,,,,,,,30.00,9/6/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003557,NYC Taxi,CORP,,,,,,,11.00,9/9/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003559,NYC Taxi,CORP,,,,,,,15.60,9/4/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003561,NYC Taxi,CORP,,,,,,,18.50,9/7/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003565,NYC Taxi,CORP,,,,,,,13.80,9/11/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003567,NYC Taxi,CORP,,,,,,,13.00,9/15/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003578,patriot parking llc,LLC,,,,New York,NY,10013,45.00,9/2/2013,Cash,WAGES,parking
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003580,kenneth cole,LLC,,,,New York,NY,10012,38.10,9/6/2013,Credit Card,OTHER,shirt
+2013,1,1796,P,Hidary,Jack,D,H,"Dewhurst, Amy V",IND,,,,Jersey City,NJ,07014,P,12,,,R0003583,CVS Pharmacy,LLC,,,,New York,NY,10003,63.22,8/31/2013,Credit Card,OFFCE,food
 2013,1,1796,P,Hidary,Jack,D,H,"Elkharrat, Jesse",IND,,,,Brooklyn,NY,11230,P,11,,,R0003130,Staples,CORP,,,,New York,NY,10003,60.75,7/29/2013,Cash,OFFCE,Petitioning expenses
 2013,1,1796,P,Hidary,Jack,D,H,"Elkharrat, Jesse",IND,,,,Brooklyn,NY,11230,P,11,,,R0003133,NYC Board of Elections,CORP,,,,Brooklyn,NY,11230,4.75,7/25/2013,Cash,OTHER,Photocopies
 2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,10,,,R0000673,NYC Taxi,CORP,,,,,,,18.50,7/12/2013,Cash,WAGES,taxi to go home
@@ -461,6 +553,17 @@
 2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,10,,,R0001232,NYC Taxi,CORP,,,,,,,27.50,7/24/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,10,,,R0001234,NYC Taxi,CORP,,,,,,,44.00,7/30/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,10,,,R0001238,The Home Depot,CORP,,,,New York,NY,10010,36.66,7/27/2013,Credit Card,OFFCE,Office Supplies
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003486,NYC Taxi,CORP,,,,,,,19.70,8/3/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003490,NYC Taxi,CORP,,,,,,,23.90,9/4/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003493,NYC Taxi,CORP,,,,,,,18.00,9/9/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003497,NYC Taxi,CORP,,,,,,,12.60,9/9/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003505,NYC Taxi,CORP,,,,,,,23.90,9/9/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003510,NYC Taxi,CORP,,,,,,,20.90,9/9/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003514,NYC Taxi,CORP,,,,,,,16.10,9/4/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003518,MTA,CORP,,,,New York,ny,,113.00,8/6/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003522,NYC Taxi,CORP,,,,,,,112.00,9/5/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003591,NYC Taxi,CORP,,,,,,,20.40,9/13/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Etropolsky, Robert",IND,,,,New York,NY,10023,P,12,,,R0003593,NYC Taxi,CORP,,,,,,,15.80,9/15/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,11,,,R0003156,NYC Taxi,CORP,,,,,,,14.50,8/9/2013,Cash,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,11,,,R0003158,NYC Taxi,CORP,,,,,,,17.50,7/30/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,11,,,R0003162,Green Star Foods,CORP,,,,New York,NY,10002,28.65,8/14/2013,Cash,OFFCE,Office food
@@ -471,11 +574,22 @@
 2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,11,,,R0003178,Green Star Foods,CORP,,,,New York,NY,10002,6.06,8/12/2013,Cash,OTHER,Office food
 2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,11,,,R0003197,McFadden's,CORP,,,,New York,NY,10017,50.09,8/14/2013,Cash,OTHER,Office Food
 2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,11,,,R0003200,US Post Office,CORP,,,,New York,NY,10002,5.60,8/21/2013,Cash,POSTA,Postage Mailing
+2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,12,,,R0003381,NYC Taxi,CORP,,,,,,,28.00,8/28/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,12,,,R0003383,NYC Taxi,CORP,,,,,,,16.00,8/27/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,12,,,R0003386,Eilat Car & Limousine Service,CORP,,,,Brooklyn,NY,11230,32.00,9/2/2013,Cash,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,12,,,R0003388,NYC Taxi,CORP,,,,,,,15.60,8/30/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,12,,,R0003461,NYC Taxi,CORP,,,,,,,37.00,9/9/2013,Cash,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,12,,,R0003562,NYC Taxi,CORP,,,,,,,15.00,9/13/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,12,,,R0003569,NYC Taxi,CORP,,,,,,,18.00,9/13/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,12,,,R0003571,NYC Taxi,CORP,,,,,,,13.50,9/13/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Mizrahi, Issac",IND,,,,Brooklyn,NY,11230,P,12,,,R0003573,MTA,CORP,,,,New York,ny,,20.00,9/13/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Morrison, Patrick",IND,,,,Brooklyn,NY,11220,P,11,,,R0003137,NYC Taxi,CORP,,,,,,,6.50,8/18/2013,Cash,OTHER,6.50
 2013,1,1796,P,Hidary,Jack,D,H,"Morrison, Patrick",IND,,,,Brooklyn,NY,11220,P,11,,,R0003139,NYC Meter parking,CORP,,,,,,,2.50,8/10/2013,Cash,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Morrison, Patrick",IND,,,,Brooklyn,NY,11220,P,11,,,R0003142,Wheeler Development,CORP,,,,Hauppauge,NY,11788,38.38,8/17/2013,Credit Card,OTHER,Transportation gas
 2013,1,1796,P,Hidary,Jack,D,H,"Morrison, Patrick",IND,,,,Brooklyn,NY,11220,P,11,,,R0003145,Hertz Car Rental,CORP,,,,New York,NY,10012,224.52,8/17/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Nunez, Andrea",IND,,,,New York,NY,10003,P,11,,,R0003151,The UPS Store,CORP,,,,New York,NY,10003,23.02,8/7/2013,Cash,CMAIL,Postage cost
+2013,1,1796,P,Hidary,Jack,D,H,"Nunez, Andrea",IND,,,,New York,NY,10003,P,12,,,R0003480,MTA,CORP,,,,New York,ny,,20.00,9/13/2013,Cash,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Nunez, Andrea",IND,,,,New York,NY,10003,P,12,,,R0003539,FedEx office,CORP,,,,New York,NY,10018,44.31,9/6/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,10,,,R0001420,Atrium Parking,CORP,,,,New York,NY,10018,48.00,7/17/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,10,,,R0001427,NY-DOT Munincipal Garage,CORP,,,,New York,NY,10002,16.50,7/22/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,10,,,R0001429,NY-DOT Munincipal Garage,CORP,,,,New York,NY,10002,26.50,8/5/2013,Credit Card,OTHER,Transportation
@@ -488,11 +602,26 @@
 2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,10,,,R0001458,NYC Meter parking,CORP,,,,,,,7.00,7/27/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,10,,,R0001461,E-Z Pass,CORP,,,,Albany,NY,12212,27.12,6/29/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,11,,,R0003147,E-Z Pass,CORP,,,,Albany,NY,12212,102.48,8/7/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,12,,,R0003595,NY-DOT Munincipal Garage,CORP,,,,New York,NY,10002,24.50,8/22/2013,Credit Card,OTHER,Parking
+2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,12,,,R0003597,NY-DOT Munincipal Garage,CORP,,,,New York,NY,10002,18.50,8/21/2013,Credit Card,OTHER,Parking
+2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,12,,,R0003599,NY-DOT Munincipal Garage,CORP,,,,New York,NY,10002,12.50,8/26/2013,Credit Card,OTHER,Parking
+2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,12,,,R0003601,NY-DOT Munincipal Garage,CORP,,,,New York,NY,10002,22.50,8/27/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,12,,,R0003604,Performance Parking,CORP,,,,New York,NY,10023,25.00,8/16/2013,Credit Card,OTHER,Parking
+2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,12,,,R0003606,Wolfnights The Gourmet Wrap,CORP,,,,New York,NY,10002,16.20,9/11/2013,Credit Card,OTHER,Lunch
+2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,12,,,R0003608,Wolfnights The Gourmet Wrap,CORP,,,,New York,NY,10002,19.15,8/26/2013,Credit Card,OTHER,Lunch
+2013,1,1796,P,Hidary,Jack,D,H,"Schwab, Clarence",IND,,,,Larchmont,NY,10538,P,12,,,R0003611,The Hummus Shop,CORP,,,,New York,NY,10002,13.07,9/11/2013,Credit Card,OTHER,Office Food
 2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,11,,,R0002819,Duane Reade,CORP,,,,New York,NY,10002,30.47,7/20/2013,Credit Card,OFFCE,office supplies
 2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,11,,,R0002827,Amazon.com,CORP,,,,,,,60.49,8/3/2013,Credit Card,OTHER,office supplies
 2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,11,,,R0002836,DNV Natural Land INC,CORP,,,,Brooklyn,NY,11238,13.50,8/3/2013,Credit Card,OTHER,intern lunch
 2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,11,,,R0002841,Eastern Car Service,CORP,,,,Brooklyn,NY,11215,61.00,7/29/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,11,,,R0002844,BP Gas Station,CORP,,,,,,,11.49,8/11/2013,Credit Card,OTHER,transportation gas
+2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,12,,,R0003465,NYC Taxi,CORP,,,,,,,19.20,9/7/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,12,,,R0003467,NYC Taxi,CORP,,,,,,,22.70,9/9/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,12,,,R0003469,NYC Taxi,CORP,,,,,,,20.50,9/4/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,12,,,R0003471,NYC Taxi,CORP,,,,,,,26.00,9/8/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,12,,,R0003473,Eastern Car Service,CORP,,,,Brooklyn,NY,11215,39.50,9/3/2013,Cash,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,12,,,R0003476,South's Bar and Restaurant,CORP,,,,New York,NY,10013,22.00,9/10/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Sweeney, Shauna",IND,,,,Brooklyn,NY,11215,P,12,,,R0003478,NYC Taxi,CORP,,,,,,,15.50,9/10/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,10,,,R0001368,NYC Taxi,CORP,,,,,,,16.38,8/1/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,11,,,R0002811,NJ TRANSIT,CORP,,,,,,,15.00,8/4/2013,Cash,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,11,,,R0002812,NJ TRANSIT,CORP,,,,,,,15.00,8/12/2013,Cash,OTHER,15.00
@@ -501,6 +630,27 @@
 2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,11,,,R0002817,NYC Taxi,CORP,,,,,,,17.40,8/7/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,11,,,R0002947,NYC Taxi,CORP,,,,,,,46.20,8/12/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,11,,,R0003116,Kossar's Bialys,CORP,,,,New York,NY,10002,12.00,8/15/2013,Cash,OTHER,Office Lunch
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003390,NYC Taxi,CORP,,,,,,,15.60,9/3/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003392,NYC Taxi,CORP,,,,,,,19.10,8/28/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003394,NYC Taxi,CORP,,,,,,,17.90,9/3/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003396,NYC Taxi,CORP,,,,,,,16.80,8/27/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003398,NYC Taxi,CORP,,,,,,,20.40,8/30/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003400,NYC Taxi,CORP,,,,,,,11.30,9/10/2013,Credit Card,OTHER,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003402,NYC Taxi,CORP,,,,,,,13.80,8/26/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003404,NYC Taxi,CORP,,,,,,,11.50,8/29/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003406,NYC Taxi,CORP,,,,,,,14.90,8/26/2013,Credit Card,WAGES,taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003408,NYC Taxi,CORP,,,,,,,17.30,9/3/2013,Credit Card,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003410,NYC Taxi,CORP,,,,,,,14.00,8/29/2013,Credit Card,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003412,NYC Taxi,CORP,,,,,,,16.10,8/28/2013,Credit Card,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003414,NYC Taxi,CORP,,,,,,,11.50,9/3/2013,Credit Card,WAGES,Taxi
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003416,Staples,CORP,,,,New York,NY,10003,8.70,9/3/2013,Credit Card,OFFCE,folders
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003418,Staples,CORP,,,,New York,NY,10003,2.18,9/3/2013,Credit Card,OFFCE,tape
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003452,NYC Taxi,CORP,,,,,,,15.60,9/9/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003463,NYC Taxi,CORP,,,,,,,15.50,9/10/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003585,NYC Taxi,CORP,,,,,,,14.00,9/10/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003587,NYC Taxi,CORP,,,,,,,14.00,9/10/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,"Tricot, Joe",IND,,,,Brooklyn,NY,11230,P,12,,,R0003589,NYC Taxi,CORP,,,,,,,9.00,9/10/2013,Credit Card,OTHER,Transportation
+2013,1,1796,P,Hidary,Jack,D,H,Wolfnights The Gourmet Wrap,CORP,,,,New York,NY,10002,P,12,,,R0003669,Wolfnights The Gourmet Wrap,CORP,,,,New York,NY,10002,18.25,9/13/2013,Credit Card,WAGES,food
 2013,1,1796,P,Hidary,Jack,D,H,"Yedid, Simon",IND,,,,Brooklyn,NY,11223,P,10,,,R0001240,Staples,CORP,,,,New York,NY,10003,35.63,7/5/2013,Cash,PETIT,Petitioning Supplies
 2013,1,1796,P,Hidary,Jack,D,H,"Yedid, Simon",IND,,,,Brooklyn,NY,11223,P,10,,,R0001243,Rite Aid Pharmacy,CORP,,,,Brooklyn,NY,11223,21.67,7/19/2013,Cash,PETIT,Petitioning Supplies
 2013,1,1796,P,Hidary,Jack,D,H,"Yedid, Simon",IND,,,,Brooklyn,NY,11223,P,10,,,R0001246,Kosher Corner,CORP,,,,Brooklyn,NY,11223,44.05,7/18/2013,Cash,OFFCE,Office Supplies
@@ -700,6 +850,9 @@
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,10,,,R0028924,U.S. Postal Service,CORP,,,,Brooklyn,NY,11201,46.00,7/1/2013,Credit Card,POSTA,100 stamps
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,10,,,R0028925,Federal Express,CORP,,,,Memphis,TN,38101,34.02,7/11/2013,Credit Card,POSTA,Mailing
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,10,,,R0028926,Federal Express,CORP,,,,Memphis,TN,38101,27.49,7/8/2013,Credit Card,POSTA,Mailing
+2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,12,,,R0032955,Federal Express,CORP,,,,Memphis,TN,38101,28.42,9/10/2013,Credit Card,OTHER,Messenger Service
+2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,12,,,R0032956,Staples,CORP,,,,Brooklyn,NY,11239,150.11,8/15/2013,Credit Card,OFFCE,Supplies
+2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,12,,,R0032957,MTA NYC Transit,CORP,,,,New York,NY,,113.00,8/5/2013,Credit Card,OTHER,Travel
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,4,,,R0019088,Staples,CORP,,,,Brooklyn,NY,11239,116.99,11/7/2011,Credit Card,OTHER,Supplies
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,4,,,R0019089,Staples,CORP,,,,Brooklyn,NY,11239,19.59,11/8/2011,Cash,OTHER,Supplies
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,4,,,R0019090,Staples,CORP,,,,Brooklyn,NY,11239,5.00,10/14/2011,Cash,OTHER,Copies
@@ -712,6 +865,7 @@
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,5,,,R0020304,U.S. Postal Service,CORP,,,,Brooklyn,NY,11201,45.00,6/13/2012,Credit Card,POSTA,mailing
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Renaud, Monique S",IND,,,,Brooklyn,NY,11211,P,6,,,R0020204,U.S. Postal Service,CORP,,,,Brooklyn,NY,11201,17.60,12/20/2012,Credit Card,POSTA,stamps
 2013,1,260,P,"Thompson, Jr.",William,C,L,Ross & Hill,PART,,,,Brooklyn,NY,11241,P,11,,,R0030880,Federal Express,CORP,,,,Memphis,TN,38101,194.21,7/15/2013,Credit Card,CMAIL,Mailing
+2013,1,260,P,"Thompson, Jr.",William,C,L,Ross & Hill,PART,,,,Brooklyn,NY,11241,P,12,,,R0032939,Federal Express,CORP,,,,Memphis,TN,38101,256.40,8/19/2013,Credit Card,POSTA,Mailing service
 2013,1,260,P,"Thompson, Jr.",William,C,L,Ross & Hill,PART,,,,Brooklyn,NY,11241,P,5,,,R0020206,Federal Express,CORP,,,,Memphis,TN,38101,212.92,1/19/2011,Cash,POSTA,Shipping fees
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Ross, James F",IND,,,,Brooklyn,NY,11231,P,5,,,R0020363,"NGP VAN, Inc.",CORP,,,,Washington,DC,20005,3050.00,6/2/2011,Credit Card,FUNDR,Database
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Ross, James F",IND,,,,Brooklyn,NY,11231,P,5,,,R0020467,Empire State Pride,CORP,,,,New York,NY,10010,750.00,10/21/2011,Credit Card,OTHER,Fall event
@@ -750,6 +904,7 @@
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Thomas, Francis",IND,,,,Brooklyn,NY,11201,P,9,,,R0026700,Best Buy,CORP,,,,New York,NY,10010,123.03,2/25/2013,Credit Card,OFFCE,Equipment
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Thomas, Francis",IND,,,,Brooklyn,NY,11201,P,9,,,R0026701,Federal Express,CORP,,,,Memphis,TN,38101,93.66,3/14/2013,Credit Card,OFFCE,Equipment
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Tisch, Merryl",IND,,,,New York,NY,10021,P,10,,,R0028967,Party Rental Ltd.,CORP,,,,Bridgehampton,NY,11932,413.72,6/12/2013,Credit Card,FUNDR,Rental tables/chairs
+2013,1,260,P,"Thompson, Jr.",William,C,L,"Wang, Charles Ya",IND,,,,Whitestone,NY,11357,P,12,,,R0032931,Hunan House Restaurant,CORP,,,,Flushing,NY,11354,425.00,8/22/2013,Credit Card,FUNDR,Food & Beverages
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Waters, Morgan",IND,,,,Park Ridge,IL,60068,P,11,,,R0031986,MTA NYC Transit,CORP,,,,New York,NY,,31.00,7/10/2013,Credit Card,OTHER,Travel/Metrocard
 2013,1,260,P,"Thompson, Jr.",William,C,L,"Weiss, Max",IND,,,,New York,NY,10016,P,10,,,R0029522,Party City,CORP,,,,New Hyde Park,NY,11042,198.31,7/18/2013,Credit Card,OTHER,Supplies
 2013,1,326,P,de Blasio,Bill,,N,"Arslanian, Kayla",IND,,,,New York,NY,10014,P,11,,,R0025836,Taxi,CORP,,,,,,,41.12,8/10/2013,Credit Card,OTHER,transportation
@@ -844,10 +999,17 @@
 2013,1,326,P,de Blasio,Bill,,N,"Fink, Avraham",IND,,,,Kew Gardens,NY,11415,P,10,,,R0023255,Verizon Wireless,CORP,,,,Newark,NJ,07101,16.26,7/22/2013,Credit Card,OFFCE,phones
 2013,1,326,P,de Blasio,Bill,,N,"Fink, Avraham",IND,,,,Kew Gardens,NY,11415,P,11,,,R0025935,Verizon,CORP,,,,Albany,NY,15124,16.26,7/26/2013,Credit Card,OFFCE,phones
 2013,1,326,P,de Blasio,Bill,,N,"Fink, Avraham",IND,,,,Kew Gardens,NY,11415,P,11,,,R0025936,Verizon,CORP,,,,Albany,NY,15124,16.26,7/26/2013,Credit Card,OFFCE,phones
+2013,1,326,P,de Blasio,Bill,,N,"Fink, Avraham",IND,,,,Kew Gardens,NY,11415,P,12,,,R0028071,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,87.08,8/22/2013,Credit Card,OFFCE,office supplies
+2013,1,326,P,de Blasio,Bill,,N,"Fink, Avraham",IND,,,,Kew Gardens,NY,11415,P,12,,,R0028073,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,152.40,8/6/2013,Credit Card,OFFCE,office supplies
+2013,1,326,P,de Blasio,Bill,,N,"Fink, Avraham",IND,,,,Kew Gardens,NY,11415,P,12,,,R0028074,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,76.20,8/13/2013,Credit Card,OFFCE,office supplies
+2013,1,326,P,de Blasio,Bill,,N,"Fink, Avraham",IND,,,,Kew Gardens,NY,11415,P,12,,,R0028077,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,79.47,8/12/2013,Credit Card,OFFCE,office supplies
+2013,1,326,P,de Blasio,Bill,,N,"Fink, Avraham",IND,,,,Kew Gardens,NY,11415,P,12,,,R0028079,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,87.08,8/15/2013,Credit Card,OFFCE,office supplies
 2013,1,326,P,de Blasio,Bill,,N,"Fink, Avraham",IND,,,,Kew Gardens,NY,11415,P,9,,,R0021652,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,32.61,6/19/2013,Credit Card,OTHER,printing
+2013,1,326,P,de Blasio,Bill,,N,"Floyd, Sean",IND,,,,New York,NY,,P,12,,,R0028124,Duane Reade,CORP,,,,New York,NY,10016,179.64,9/3/2013,Credit Card,OFFCE,office supplies
 2013,1,326,P,de Blasio,Bill,,N,"Foy, Kirsten J",IND,,,,Brooklyn,NY,11221,P,1,,,R0005517,Duane Reade,CORP,,,,New York,NY,10002,69.45,6/11/2010,Credit Card,OTHER,Meeting Supplies
 2013,1,326,P,de Blasio,Bill,,N,"Grybauskas, Stefan",IND,,,,,,,P,6,,,R0016014,Set Mobile Inc,CORP,,,,New York,NY,10036,27.22,12/5/2012,Credit Card,OFFCE,Office Supplies
 2013,1,326,P,de Blasio,Bill,,N,"Gunaratna, Mahen",IND,,,,New Rochelle,NY,10804,P,11,,,R0025954,Fedex,CORP,,,,,,,16.82,8/20/2013,Credit Card,POSTA,postage
+2013,1,326,P,de Blasio,Bill,,N,"Gunaratna, Mahen",IND,,,,New Rochelle,NY,10804,P,12,,,R0028121,Audio Implements,CORP,,,,Waukesha,WI,53186,57.64,8/28/2013,Check,OFFCE,office supplies
 2013,1,326,P,de Blasio,Bill,,N,"Gunaratna, Mahen",IND,,,,New Rochelle,NY,10804,P,8,,,R0017601,Home Depot,CORP,,,,,,,216.64,3/14/2013,Credit Card,OFFCE,Office Tables
 2013,1,326,P,de Blasio,Bill,,N,"Gunaratna, Mahen",IND,,,,New Rochelle,NY,10804,P,8,,,R0017603,Astoria BP,CORP,,,,,,,25.00,3/14/2013,Credit Card,OTHER,Gas
 2013,1,326,P,de Blasio,Bill,,N,"Gunaratna, Mahen",IND,,,,New Rochelle,NY,10804,P,8,,,R0017605,Speedy Rent A Car,CORP,,,,Brooklyn,NY,11235,118.21,3/15/2013,Credit Card,OTHER,Car Rental
@@ -898,6 +1060,8 @@
 2013,1,326,P,de Blasio,Bill,,N,"Kavanagh, Laura",IND,,,,Brooklyn,NY,11222,P,11,,,R0025941,Uber,CORP,,,,,,,39.00,8/1/2013,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Kavanagh, Laura",IND,,,,Brooklyn,NY,11222,P,11,,,R0025957,Uber,CORP,,,,,,,38.00,8/15/2013,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Kavanagh, Laura",IND,,,,Brooklyn,NY,11222,P,11,,,R0025959,Uber,CORP,,,,,,,110.00,8/7/2013,Credit Card,OTHER,transportation
+2013,1,326,P,de Blasio,Bill,,N,"Kavanagh, Laura",IND,,,,Brooklyn,NY,11222,P,12,,,R0028129,Parking,CORP,,,,,,,35.00,8/24/2013,Credit Card,OTHER,parking
+2013,1,326,P,de Blasio,Bill,,N,"Kavanagh, Laura",IND,,,,Brooklyn,NY,11222,P,12,,,R0028130,Taxi,CORP,,,,,,,17.00,8/25/2013,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Kavanagh, Laura",IND,,,,Brooklyn,NY,11222,P,9,,,R0021646,Uber,CORP,,,,,,,64.00,6/20/2013,Credit Card,OTHER,Travel
 2013,1,326,P,de Blasio,Bill,,N,"Kavanagh, Laura",IND,,,,Brooklyn,NY,11222,P,9,,,R0023063,Zipcar,CORP,,,,New York,NY,,95.88,6/29/2013,Check,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Klein, Monica",IND,,,,Brooklyn,NY,11237,P,11,,,R0025915,Legend Car Service,CORP,,,,,,,31.00,8/1/2013,Credit Card,OTHER,transportation
@@ -906,6 +1070,8 @@
 2013,1,326,P,de Blasio,Bill,,N,"Klein, Monica",IND,,,,Brooklyn,NY,11237,P,11,,,R0025924,Legend Car Service,CORP,,,,,,,31.00,7/9/2013,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Klein, Monica",IND,,,,Brooklyn,NY,11237,P,11,,,R0025974,"Valera Global, Inc",CORP,,,,Long Island City,NY,11101,79.88,8/16/2013,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Klein, Monica",IND,,,,Brooklyn,NY,11237,P,11,,,R0025975,"Valera Global, Inc",CORP,,,,Long Island City,NY,11101,106.19,8/16/2013,Credit Card,OTHER,transportation
+2013,1,326,P,de Blasio,Bill,,N,"Klein, Monica",IND,,,,Brooklyn,NY,11237,P,12,,,R0028115,NRI Brooklyn,CORP,,,,Brooklyn,NY,11201,50.14,8/28/2013,Credit Card,OFFCE,printing
+2013,1,326,P,de Blasio,Bill,,N,"Klein, Monica",IND,,,,Brooklyn,NY,11237,P,12,,,R0028262,Verizon Wireless,CORP,,,,Newark,NJ,07101,133.25,9/4/2013,Credit Card,OFFCE,phone payment
 2013,1,326,P,de Blasio,Bill,,N,"Klein, Monica",IND,,,,Brooklyn,NY,11237,P,7,,,R0017650,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,67.98,1/21/2013,Credit Card,OFFCE,office supplies
 2013,1,326,P,de Blasio,Bill,,N,"Klein, Monica",IND,,,,Brooklyn,NY,11237,P,7,,,R0017652,Fedex,CORP,,,,,,,12.09,1/27/2013,Credit Card,OFFCE,office supplies
 2013,1,326,P,de Blasio,Bill,,N,"Klein, Monica",IND,,,,Brooklyn,NY,11237,P,7,,,R0017654,Taxi,CORP,,,,,,,52.00,2/19/2013,Credit Card,OTHER,Travel
@@ -924,6 +1090,8 @@
 2013,1,326,P,de Blasio,Bill,,N,"LaFerla, Alex",IND,,,,New York,NY,10128,P,9,,,R0021671,MTA,CORP,,,,,,,7.50,6/27/2013,Cash,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Leopold, Elana",IND,,,,New York,NY,10044,P,10,,,R0023104,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,23.92,7/23/2013,Credit Card,OFFCE,office supplies
 2013,1,326,P,de Blasio,Bill,,N,"Leopold, Elana",IND,,,,New York,NY,10044,P,10,,,R0023149,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,61.33,7/29/2013,Credit Card,OFFCE,office supplies
+2013,1,326,P,de Blasio,Bill,,N,"Leopold, Elana",IND,,,,New York,NY,10044,P,12,,,R0028062,Fedex,CORP,,,,,,,70.22,9/2/2013,Credit Card,OFFCE,printing
+2013,1,326,P,de Blasio,Bill,,N,"Leopold, Elana",IND,,,,New York,NY,10044,P,12,,,R0028063,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,14.14,8/19/2013,Credit Card,OFFCE,office supplies
 2013,1,326,P,de Blasio,Bill,,N,"Leopold, Elana",IND,,,,New York,NY,10044,P,5,,,R0013438,wholefoods.com,CORP,,,,,,,50.06,6/21/2012,Credit Card,FUNDR,Food for event
 2013,1,326,P,de Blasio,Bill,,N,"Leopold, Elana",IND,,,,New York,NY,10044,P,5,,,R0013439,Express II Car Service,CORP,,,,Brooklyn,NY,11215,34.00,6/20/2012,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Leopold, Elana",IND,,,,New York,NY,10044,P,5,,,R0013440,Express II Car Service,CORP,,,,Brooklyn,NY,11215,35.00,6/13/2012,Credit Card,FUNDR,transportation
@@ -996,6 +1164,13 @@
 2013,1,326,P,de Blasio,Bill,,N,"Meister, Ethan",IND,,,,,,,P,5,,,R0013467,Metro North,CORP,,,,,,,266.00,6/5/2012,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Meister, Ethan",IND,,,,,,,P,5,,,R0013468,MTA,CORP,,,,,,,104.00,6/18/2012,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Meister, Ethan",IND,,,,,,,P,6,,,R0013617,Metro North,CORP,,,,,,,266.00,6/23/2012,Credit Card,OTHER,transportation
+2013,1,326,P,de Blasio,Bill,,N,"Miller, Harold",IND,,,,Brooklyn,NY,,P,12,,,R0028142,Fedex,CORP,,,,,,,33.84,7/17/2013,Credit Card,OFFCE,office supplies
+2013,1,326,P,de Blasio,Bill,,N,"Miller, Harold",IND,,,,Brooklyn,NY,,P,12,,,R0028143,Duane Reade,CORP,,,,New York,NY,10016,4.89,7/17/2013,Check,OFFCE,office supplies
+2013,1,326,P,de Blasio,Bill,,N,"Miller, Harold",IND,,,,Brooklyn,NY,,P,12,,,R0028144,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,79.47,8/8/2013,Credit Card,OFFCE,office supplies
+2013,1,326,P,de Blasio,Bill,,N,"Miller, Harold",IND,,,,Brooklyn,NY,,P,12,,,R0028220,Fedex,CORP,,,,,,,32.66,7/16/2013,Credit Card,OFFCE,office expenses
+2013,1,326,P,de Blasio,Bill,,N,"Miller, Harold",IND,,,,Brooklyn,NY,,P,12,,,R0028222,Fedex,CORP,,,,,,,10.87,7/27/2013,Credit Card,OFFCE,office supplies
+2013,1,326,P,de Blasio,Bill,,N,"Miller, Harold",IND,,,,Brooklyn,NY,,P,12,,,R0028223,Fedex,CORP,,,,,,,14.14,7/16/2013,Credit Card,OFFCE,office supplies
+2013,1,326,P,de Blasio,Bill,,N,"Miller, Harold",IND,,,,Brooklyn,NY,,P,12,,,R0028224,Fedex,CORP,,,,,,,76.47,7/16/2013,Credit Card,WAGES,toner
 2013,1,326,P,de Blasio,Bill,,N,"Motley, Kicy",IND,,,,Brooklyn,NY,11216,P,8,,,R0019804,Office Max,CORP,,,,Brooklyn,NY,11217,163.28,4/2/2013,Credit Card,OFFCE,Office Furniture
 2013,1,326,P,de Blasio,Bill,,N,"Motley, Kicy",IND,,,,Brooklyn,NY,11216,P,8,,,R0019805,Craigs List,CORP,,,,,,,5.00,4/1/2013,Cash,OFFCE,Office Furniture
 2013,1,326,P,de Blasio,Bill,,N,"Motley, Kicy",IND,,,,Brooklyn,NY,11216,P,8,,,R0019808,Atlantis Printing,CORP,,,,Brooklyn,NY,11217,239.50,4/5/2013,Credit Card,OFFCE,Printing
@@ -1052,6 +1227,8 @@
 2013,1,326,P,de Blasio,Bill,,N,"Padgett, Rachel",IND,,,,Jackson Heights,NY,11372,P,2,,,R0005510,Amazon.com,CORP,,,,Seattle,WA,98101,8.27,9/24/2010,Credit Card,OTHER,Phone Chargers
 2013,1,326,P,de Blasio,Bill,,N,"Padgett, Rachel",IND,,,,Jackson Heights,NY,11372,P,2,,,R0005511,Staples,CORP,,,,New York,NY,10007,19.04,9/29/2010,Credit Card,OFFCE,Supplies
 2013,1,326,P,de Blasio,Bill,,N,"Padgett, Rachel",IND,,,,Jackson Heights,NY,11372,P,2,,,R0005513,Staples,CORP,,,,New York,NY,10004,17.60,9/29/2010,Credit Card,POSTA,Stamps
+2013,1,326,P,de Blasio,Bill,,N,"Parikh, Ishanee",IND,,,,Brooklyn,NY,11216,P,12,,,R0028259,B & H,CORP,,,,New York,NY,10001,99.01,8/18/2013,Credit Card,OTHER,filming equipment
+2013,1,326,P,de Blasio,Bill,,N,"Parikh, Ishanee",IND,,,,Brooklyn,NY,11216,P,12,,,R0028260,"Parikh, Ishanee",IND,,,,Brooklyn,NY,11216,119.82,9/5/2013,Credit Card,OTHER,production
 2013,1,326,P,de Blasio,Bill,,N,"Parikh, Ishanee",IND,,,,Brooklyn,NY,11216,P,7,,,R0018268,Production Junction,CORP,,,,New York,NY,10009,266.74,3/5/2013,Credit Card,OFFCE,supplies
 2013,1,326,P,de Blasio,Bill,,N,"Parikh, Ishanee",IND,,,,Brooklyn,NY,11216,P,8,,,R0018269,premiumbeat.com,CORP,,,,,,,79.90,3/19/2013,Credit Card,OTHER,other
 2013,1,326,P,de Blasio,Bill,,N,"Prim, Hayley",IND,,,,Astoria,NY,11102,P,10,,,R0023124,The Crown Inn,CORP,,,,Brooklyn,NY,,765.00,7/18/2013,Credit Card,FUNDR,Event Venue
@@ -1078,6 +1255,20 @@
 2013,1,326,P,de Blasio,Bill,,N,"Quinn, Kelly",IND,,,,Oakland Gardens,NY,11364,P,11,,,R0025909,Taxi,CORP,,,,,,,7.10,8/5/2013,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Shteynberg, Anita",IND,,,,Staten Island,NY,10310,P,3,,,R0007995,Silverlake Bagels,CORP,,,,Staten Island,NY,10301,215.00,6/4/2011,Credit Card,FUNDR,Meal for event
 2013,1,326,P,de Blasio,Bill,,N,"Sims, Lauren",IND,,,,New York,NY,10036,P,9,,,R0021680,BP,CORP,,,,New York,NY,10036,15.22,6/21/2013,Credit Card,OTHER,transportation.gas
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028024,premiumbeat.com,CORP,,,,,,,39.95,7/17/2013,Credit Card,OTHER,music for video
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028029,premiumbeat.com,CORP,,,,,,,39.95,8/1/2013,Credit Card,OTHER,music for video
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028031,premiumbeat.com,CORP,,,,,,,39.95,7/31/2013,Credit Card,OTHER,music for video
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028038,premiumbeat.com,CORP,,,,,,,39.95,6/1/2013,Credit Card,OTHER,music for video
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028040,premiumbeat.com,CORP,,,,,,,39.95,7/27/2013,Credit Card,OTHER,music for video
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028042,premiumbeat.com,CORP,,,,,,,39.95,8/6/2013,Credit Card,OTHER,music for video
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028043,premiumbeat.com,CORP,,,,,,,39.95,8/6/2013,Credit Card,OTHER,music for video
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028132,Taxi,CORP,,,,,,,23.40,6/10/2013,Credit Card,OTHER,transportation
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028135,Impark HSW 42 LCC,CORP,,,,New York,NY,10036,32.00,8/19/2013,Credit Card,OTHER,parking
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028136,Radio Shack,CORP,,,,Brooklyn,NY,11201,29.39,7/22/2013,Credit Card,OFFCE,supplies
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028137,Fedex,CORP,,,,,,,22.89,7/8/2013,Credit Card,OFFCE,overnight fedex
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028138,premiumbeat.com,CORP,,,,,,,39.95,7/9/2013,Credit Card,OTHER,music for video
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028139,premiumbeat.com,CORP,,,,,,,39.95,7/1/2013,Credit Card,OTHER,music for video
+2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,12,,,R0028140,Food Exchange,CORP,,,,New York,NY,10022,31.75,6/10/2013,Credit Card,OTHER,meeting expenses
 2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,7,,,R0018260,Brooklyn Fare,CORP,,,,Brooklyn,NY,11207,116.92,3/3/2013,Credit Card,FUNDR,event costs
 2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,7,,,R0018261,wholefoods.com,CORP,,,,,,,90.25,2/27/2013,Credit Card,FUNDR,event costs
 2013,1,326,P,de Blasio,Bill,,N,"Singleton, Jessica",IND,,,,Brooklyn,NY,11201,P,8,,,R0018263,Fedex,CORP,,,,,,,25.25,4/13/2013,Credit Card,OFFCE,fed ex
@@ -1672,6 +1863,7 @@
 2013,2,1512,P,Squadron,Daniel,L,H,Friends of Squadron,PCOMC,,,,,,,P,4,,,R0000924,NGP,OTHR,,,,Washington,DC,20005,720.00,1/11/2012,Check,FUNDR,NGP Fee Portion
 2013,2,1512,P,Squadron,Daniel,L,H,"Markman, Clio",IND,,,,New York,NY,10128,P,9,,,R0006924,FedEx Office,CORP,,,,New York,NY,10038,102.61,5/17/2013,Credit Card,OTHER,Sign
 2013,2,1512,P,Squadron,Daniel,L,H,"Marom, Ophir",IND,,,,Hoboken,NJ,07030,P,8,,,R0006684,MTA,OTHR,,,,New York,NY,10004,20.00,5/9/2013,Credit Card,OTHER,Travel for ck pickup
+2013,2,1512,P,Squadron,Daniel,L,H,"Mayo, Eric M",IND,,,,Little Neck,NY,11362,P,12,,,R0011031,BH Photo & Video,CORP,,,,New York,NY,10001,114.26,9/8/2013,Credit Card,OFFCE,Printer Drum
 2013,2,1512,P,Squadron,Daniel,L,H,"Mayo, Eric M",IND,,,,Little Neck,NY,11362,P,8,,,R0005523,FedEx Office,CORP,,,,New York,NY,10038,2.19,4/3/2013,Credit Card,OTHER,Fax
 2013,2,1512,P,Squadron,Daniel,L,H,"Mayo, Eric M",IND,,,,Little Neck,NY,11362,P,8,,,R0005524,FedEx Office,CORP,,,,New York,NY,10038,4.18,4/11/2013,Credit Card,OTHER,Fax
 2013,2,1512,P,Squadron,Daniel,L,H,"Mayo, Eric M",IND,,,,Little Neck,NY,11362,P,9,,,R0006714,Staples,CORP,,,,New York,NY,10007,83.82,5/20/2013,Credit Card,OFFCE,Toner
@@ -1688,7 +1880,10 @@
 2013,2,1512,P,Squadron,Daniel,L,H,"Mewes, Christopher",IND,,,,Elwood,NY,11731,P,9,,,R0008545,Express II Car Service,OTHR,,,,Brooklyn,NY,11215,17.00,6/30/2013,Cash,OTHER,Livery Cab
 2013,2,1512,P,Squadron,Daniel,L,H,"Popper Ellis, Lauren",IND,,,,Brooklyn,NY,11238,P,10,,,R0008528,Alamo Flags,OTHR,,,,New York,NY,10038,25.00,7/12/2013,Cash,OTHER,Flag Rental
 2013,2,1512,P,Squadron,Daniel,L,H,"Popper Ellis, Lauren",IND,,,,Brooklyn,NY,11238,P,10,,,R0008708,Nan Xiang XLB,CORP,,,,Flushing,NY,11354,120.00,7/18/2013,Cash,OTHER,Meal
+2013,2,1512,P,Squadron,Daniel,L,H,"Popper Ellis, Lauren",IND,,,,Brooklyn,NY,11238,P,12,,,R0011209,Minuteman Press,CORP,,,,Brooklyn,NY,11201,1.40,9/10/2013,Cash,OFFCE,Copies
+2013,2,1512,P,Squadron,Daniel,L,H,"Popper Ellis, Lauren",IND,,,,Brooklyn,NY,11238,P,12,,,R0011212,Minuteman Press,CORP,,,,Brooklyn,NY,11201,0.15,9/10/2013,Cash,OTHER,Copies
 2013,2,1512,P,Squadron,Daniel,L,H,"Popper Ellis, Lauren",IND,,,,Brooklyn,NY,11238,P,9,,,R0007574,"Bjork, Renee",IND,,,,New York,NY,10034,40.00,6/20/2013,Cash,OFFCE,Refrigerator
+2013,2,1512,P,Squadron,Daniel,L,H,"Roberts, Tim",IND,,,,New York,NY,10019,P,12,,,R0011026,Eastern Car Services,OTHR,,,,Brooklyn,NY,11215,45.00,9/7/2013,Credit Card,OTHER,Car Services
 2013,2,1512,P,Squadron,Daniel,L,H,"Rodgers, Stephanie",IND,,,,New York,NY,10022,P,5,,,R0002199,Yellow Cab,CORP,,,,,,,30.90,4/24/2012,Credit Card,FUNDR,Trav wSuppl to Event
 2013,2,1512,P,Squadron,Daniel,L,H,"Rodgers, Stephanie",IND,,,,New York,NY,10022,P,7,,,R0005053,Yellow Cab,CORP,,,,,,,24.38,6/26/2012,Credit Card,OTHER,cab fare
 2013,2,1512,P,Squadron,Daniel,L,H,"Rodgers, Stephanie",IND,,,,New York,NY,10022,P,7,,,R0005054,Yellow Cab,CORP,,,,,,,13.22,7/11/2012,Credit Card,OTHER,cab fare
@@ -1713,6 +1908,9 @@
 2013,2,1512,P,Squadron,Daniel,L,H,"Rodgers, Stephanie",IND,,,,New York,NY,10022,P,9,,,R0007490,Best Western,CORP,,,,Albany,NY,12205,108.29,6/12/2013,Credit Card,OTHER,Hotel
 2013,2,1512,P,Squadron,Daniel,L,H,"Rodgers, Stephanie",IND,,,,New York,NY,10022,P,9,,,R0007491,Best Western,CORP,,,,Albany,NY,12205,91.19,6/18/2013,Credit Card,OTHER,Hotel
 2013,2,1512,P,Squadron,Daniel,L,H,"Rosenberg, Chloe",IND,,,,New York,NY,10019,P,10,,,R0008862,Wi-Pie,LLC,,,,Brooklyn,NY,11201,18.30,7/25/2013,Credit Card,OTHER,Office Pizza
+2013,2,1512,P,Squadron,Daniel,L,H,"Sais, Michael",IND,,,,New York,NY,10025,P,12,,,R0011072,Craigslist,OTHR,,,,San Francisco,CA,94122,25.00,9/4/2013,Credit Card,WAGES,Ad Posting
+2013,2,1512,P,Squadron,Daniel,L,H,"Sais, Michael",IND,,,,New York,NY,10025,P,12,,,R0011073,Craigslist,OTHR,,,,San Francisco,CA,94122,25.00,9/4/2013,Credit Card,WAGES,Ad
+2013,2,1512,P,Squadron,Daniel,L,H,"Sais, Michael",IND,,,,New York,NY,10025,P,12,,,R0011207,Dunkin Donuts,CORP,,,,New York,NY,10007,27.50,9/10/2013,Credit Card,OTHER,Food
 2013,2,1512,P,Squadron,Daniel,L,H,"Spees, Justin",IND,,,,McLean,VA,22102,P,10,,,R0008488,Office Max,CORP,,,,Brooklyn,NY,11217,29.38,7/14/2013,Credit Card,OFFCE,Desk Pad
 2013,2,1512,P,Squadron,Daniel,L,H,"Spees, Justin",IND,,,,McLean,VA,22102,P,10,,,R0008490,Eastern Car Services,OTHR,,,,Brooklyn,NY,11215,32.00,7/14/2013,Cash,OTHER,Car Services
 2013,2,1512,P,Squadron,Daniel,L,H,"Spees, Justin",IND,,,,McLean,VA,22102,P,8,,,R0005861,USPS,CORP,,,,New York,NY,10007,28.48,4/30/2013,Credit Card,POSTA,Certified Envelopes
@@ -1722,6 +1920,8 @@
 2013,2,1512,P,Squadron,Daniel,L,H,"Spees, Justin",IND,,,,McLean,VA,22102,P,9,,,R0007138,"Liang, ZJ",IND,,,,Brooklyn,NY,11209,15.00,6/12/2013,Cash,OFFCE,Paper Shredder
 2013,2,1512,P,Squadron,Daniel,L,H,"Spees, Justin",IND,,,,McLean,VA,22102,P,9,,,R0007293,"Venugopalan, Vishy",IND,,,,New York,NY,10025,20.00,6/19/2013,Cash,OFFCE,Furniture for Office
 2013,2,1512,P,Squadron,Daniel,L,H,"Spitalnick, Amy",IND,,,,Brooklyn,NY,11201,P,10,,,R0009027,Minuteman Press,CORP,,,,Brooklyn,NY,11201,10.89,7/29/2013,Cash,OTHER,Scan + Email Doc
+2013,2,1512,P,Squadron,Daniel,L,H,"Spitalnick, Amy",IND,,,,Brooklyn,NY,11201,P,12,,,R0011264,Radio Shack,CORP,,,,Brooklyn,NY,11201,173.08,9/12/2013,Credit Card,OFFCE,Camera
+2013,2,1512,P,Squadron,Daniel,L,H,"Spitalnick, Amy",IND,,,,Brooklyn,NY,11201,P,12,,,R0011267,Facebook,CORP,,,,Menlo Park,CA,94025,24.73,9/9/2013,Credit Card,OTHER,Web Ads
 2013,2,1512,P,Squadron,Daniel,L,H,"Spitalnick, Amy",IND,,,,Brooklyn,NY,11201,P,9,,,R0008614,LivingSocial,CORP,,,,Washington,DC,20001,29.00,6/10/2013,Credit Card,OTHER,ZipCar Membership
 2013,2,1512,P,Squadron,Daniel,L,H,"Spitalnick, Amy",IND,,,,Brooklyn,NY,11201,P,9,,,R0008615,ZipCar,CORP,,,,New York,NY,10001,25.93,7/5/2013,Credit Card,OTHER,Car Rental
 2013,2,1512,P,Squadron,Daniel,L,H,"Young, Robert",IND,,,,Chappaqua,NY,10514,P,10,,,R0008609,Tony's Hardware,CORP,,,,Brooklyn,NY,11201,20.68,7/17/2013,Credit Card,OFFCE,Keys + Trash Can
@@ -1771,10 +1971,12 @@
 2013,3,148,P,Stringer,Scott,M,M,"Mlotek, Marissa",IND,,,,New York,NY,10016,P,1,,,R0007398,Staples,CORP,,,,New York,NY,10007,52.80,3/9/2010,Cash,OFFCE,off. suppl.  stamps
 2013,3,148,P,Stringer,Scott,M,M,"Mlotek, Marissa",IND,,,,New York,NY,10016,P,1,,,R0007416,Staples,CORP,,,,New York,NY,10007,125.99,3/23/2010,Credit Card,OFFCE,Off. Sup.  Stamps
 2013,3,148,P,Stringer,Scott,M,M,"Owen, Sascha",IND,,,,New York,NY,10013,P,11,,,R0020370,Metropolitan Lumber & Hardware,CORP,,,,New York,NY,10012,152.43,6/25/2013,Cash,OFFCE,Poles
+2013,3,148,P,Stringer,Scott,M,M,"Owen, Sascha",IND,,,,New York,NY,10013,P,12,,,R0021209,D'Lilian Bakery,CORP,,,,New York,NY,10034,200.00,9/7/2013,Cash,OTHER,Food for GOTV Rally
 2013,3,148,P,Stringer,Scott,M,M,"Saltonstall, David",IND,,,,New York,NY,10025,P,11,,,R0020923,Exxon,CORP,,,,New York,NY,10025,71.47,8/25/2013,Credit Card,OTHER,Transportation
 2013,3,148,P,Stringer,Scott,M,M,"Saltonstall, David",IND,,,,New York,NY,10025,P,11,,,R0020925,Columbia Copy Center,CORP,,,,New York,NY,10025,12.00,8/4/2013,Credit Card,OFFCE,Copies
 2013,3,148,P,Stringer,Scott,M,M,SEIU Local 32BJ,EMPO,,,,New York,NY,10011,P,11,,,R0020360,"Hirsh, Alison",IND,,,,,,,2043.93,8/19/2013,Other,CONSL,GOTV
 2013,3,148,P,Stringer,Scott,M,M,SEIU Local 32BJ,EMPO,,,,New York,NY,10011,P,11,,,R0020362,"Hirsh, Alison",IND,,,,,,,2043.93,8/21/2013,Other,CONSL,GOTV
+2013,3,148,P,Stringer,Scott,M,M,SEIU Local 32BJ,EMPO,,,,New York,NY,10011,P,12,,,R0020692,"Hirsh, Alison",IND,,,,,,,2043.93,8/30/2013,Other,CONSL,Consultant
 2013,3,148,P,Stringer,Scott,M,M,"Silbersack, Nichols",IND,,,,Sands Point,NY,11050,P,11,,,R0020372,Duane Reade,CORP,,,,New York,NY,10025,10.33,7/15/2013,Cash,OFFCE,Tape
 2013,3,1776,P,Burnett,John,L,H,"Burnett, John L",CAN,,,,New York,NY,10037,P,9,,,R0000014,GoDaddy.com,CORP,,,,Scottsdale,AZ,85260,51.60,5/17/2013,Credit Card,FUNDR,Website
 2013,3,1776,P,Burnett,John,L,H,"Burnett, John L",CAN,,,,New York,NY,10037,P,9,,,R0000015,GoDaddy.com,CORP,,,,Scottsdale,AZ,85260,59.88,5/27/2013,Credit Card,FUNDR,Website
@@ -1926,6 +2128,9 @@
 2013,4,1549,UN,Peralta,Jose,,H,"Renaud, Monique",IND,,,,Brooklyn,NY,11212,P,8,,,R0003450,Sunoco,CORP,,,,Brooklyn,NY,11212,28.66,3/11/2013,Cash,OTHER,Travel
 2013,4,1758,P,Luthmann,Richard,,H,"Luthmann, Richard",CAN,,,,Staten Island,NY,10301,P,9,,,R0000143,NYC Board of Elections,OTHR,,,,Staten Island,NY,10305,70.00,5/31/2013,Cash,PETIT,voter books
 2013,4,1758,P,Luthmann,Richard,,H,"Luthmann, Richard",CAN,,,,Staten Island,NY,10301,P,9,,,R0000235,NYC Board of Elections,OTHR,,,,Staten Island,NY,10305,90.00,7/11/2013,Cash,OTHER,district maps
+2013,4,214,P,Oddo,James,S,N,"Basile, Anthony",IND,,,,Staten Island,NY,10304,P,12,,,R0003369,Manor Citgo Service,CORP,,,,Staten Island,NY,10314,25.00,7/13/2013,Credit Card,OTHER,gas reimbursement
+2013,4,214,P,Oddo,James,S,N,"Basile, Anthony",IND,,,,Staten Island,NY,10304,P,12,,,R0003371,Manor Citgo Service,CORP,,,,Staten Island,NY,10314,35.00,7/5/2013,Credit Card,OTHER,gas reimbursement
+2013,4,214,P,Oddo,James,S,N,"Basile, Anthony",IND,,,,Staten Island,NY,10304,P,12,,,R0003373,Amboy Service station,CORP,,,,Staten Island,NY,10308,30.00,7/10/2013,Credit Card,OTHER,gas reimbursement
 2013,4,214,P,Oddo,James,S,N,"Carmody-Lafrancesca, Marie",IND,,,,Staten Island,NY,10306,P,2,,,R0002375,Staples,CORP,,,,Staten Island,NY,10305,30.00,10/18/2010,Cash,FUNDR,copies donor cards
 2013,4,214,P,Oddo,James,S,N,"Carmody-Lafrancesca, Marie",IND,,,,Staten Island,NY,10306,P,2,,,R0002377,Staples,CORP,,,,Staten Island,NY,10305,4.00,10/18/2010,Cash,OTHER,copies
 2013,4,214,P,Oddo,James,S,N,"Carmody-Lafrancesca, Marie",IND,,,,Staten Island,NY,10306,P,2,,,R0002379,Staples,CORP,,,,Staten Island,NY,10305,29.00,10/26/2010,Cash,OTHER,paper
@@ -2100,6 +2305,8 @@
 2013,4,484,P,Jackson,Robert,,K,"Bostic, Pauline",IND,,,,New York,NY,10031,P,8,,,R0006033,Costco #1062,OTHR,,,,New York,NY,10035,133.60,5/4/2013,Other,FUNDR,food for event
 2013,4,484,P,Jackson,Robert,,K,"Bostic, Pauline",IND,,,,New York,NY,10031,P,8,,,R0006034,Western Beef,OTHR,,,,Bronx,NY,,114.22,5/4/2013,Other,FUNDR,food for event
 2013,4,484,P,Jackson,Robert,,K,Concerned Democratic Coalition,OTHR,,,,New York,NY,10034,P,11,,,R0007498,"Lino Press, Inc.",CORP,,,,New York,NY,10040,108.88,7/3/2013,Check,PETIT,petitions
+2013,4,484,P,Jackson,Robert,,K,"Escano, Frances",IND,,,,New York,NY,10031,P,12,,,R0007881,U.S. Postal Service/Hellgate,OTHR,,,,New York,NY,10029,46.00,9/5/2013,Credit Card,POSTA,Dear Neighbor letter
+2013,4,484,P,Jackson,Robert,,K,"Escano, Frances",IND,,,,New York,NY,10031,P,12,,,R0007882,Azua Hardware,OTHR,,,,New York,NY,10034,5.00,9/6/2013,Cash,OFFCE,staples
 2013,4,484,P,Jackson,Robert,,K,"Jackson, Robert",CAN,,,,New York,NY,10033,P,5,,,R0003369,Jet Blue,CORP,,,,,,,926.00,10/29/2011,Credit Card,OTHER,promote candidacy
 2013,4,484,P,Jackson,Robert,,K,"Jackson, Robert",CAN,,,,New York,NY,10033,P,5,,,R0003372,Vias Car Rental of PR,CORP,,,,Carolina,PR,00984,67.90,11/13/2011,Credit Card,OTHER,transportation
 2013,4,484,P,Jackson,Robert,,K,"Jackson, Robert",CAN,,,,New York,NY,10033,P,5,,,R0003374,Doubletree by Hilton,CORP,,,,San Juan,PR,00914,1052.74,11/13/2011,Credit Card,OTHER,housing for conferen
@@ -2142,6 +2349,40 @@
 2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,11,,,R0007514,Taxi Medallion 1A13,OTHR,,,,,,,5.90,8/17/2013,Credit Card,OTHER,local to event
 2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,11,,,R0007515,Edison Centre St.,OTHR,,,,New York,NY,10013,29.00,8/26/2013,Credit Card,OTHER,parking
 2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,11,,,R0007516,Staples (105 W 125),CORP,,,,New York,NY,10027,100.13,8/26/2013,Credit Card,OFFCE,office supplies
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007829,Central Parking System/E. Rivr,OTHR,,,,New York,NY,10029,6.00,7/25/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007830,NYC Dept of Transportation,OTHR,,,,,,,0.25,8/5/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007831,NYC Dept of Transportation,OTHR,,,,,,,1.50,8/27/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007832,Parkeon Inc,CORP,,,,,,,0.50,8/29/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007833,Parkeon Inc,CORP,,,,,,,0.50,8/29/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007834,NYC Dept of Transportation,OTHR,,,,,,,1.00,8/29/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007835,NYC Dept of Transportation,OTHR,,,,,,,1.00,8/29/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007836,NYC Dept of Transportation,OTHR,,,,,,,1.50,8/30/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007837,NYC Dept of Transportation,OTHR,,,,,,,1.00,8/30/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007838,NYC Dept of Transportation,OTHR,,,,,,,5.00,8/30/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007839,NYC Dept of Transportation,OTHR,,,,,,,3.50,8/31/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007840,NYC Dept of Transportation,OTHR,,,,,,,6.00,8/31/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007841,NYC Dept of Transportation,OTHR,,,,,,,3.50,8/31/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007842,Pioneer Supermarket,OTHR,,,,New York,NY,,13.05,8/20/2013,Credit Card,OFFCE,office supplies
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007843,NYC Dept of Transportation,OTHR,,,,,,,3.50,9/3/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007844,NYC Dept of Transportation,OTHR,,,,,,,3.00,9/3/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007845,NYC Dept of Transportation,OTHR,,,,,,,3.50,9/3/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007846,NYC Dept of Transportation,OTHR,,,,,,,3.50,9/3/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007847,NYC Dept of Transportation,OTHR,,,,,,,1.00,9/3/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007848,NYC Dept of Transportation,OTHR,,,,,,,6.00,9/4/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007849,NYC Dept of Transportation,OTHR,,,,,,,1.50,9/4/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007850,NYC Dept of Transportation,OTHR,,,,,,,2.00,9/4/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007851,NYC Dept of Transportation,OTHR,,,,,,,2.00,9/5/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007852,NYC Dept of Transportation,OTHR,,,,,,,3.50,9/6/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007853,Parkfast #158,OTHR,,,,New York,NY,10005,32.00,9/6/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007854,Dunkin' Donuts Store 310468,OTHR,,,,New York,NY,,10.75,9/7/2013,Credit Card,OFFCE,food for volunteers
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007855,Pro Tech Locksmith,OTHR,,,,New York,NY,,21.64,9/7/2013,Cash,OFFCE,extension cord
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007856,NYC Dept of Transportation,OTHR,,,,,,,1.00,9/7/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007857,NYC Dept of Transportation,OTHR,,,,,,,1.00,9/9/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007858,Staples (105 W 125),CORP,,,,New York,NY,10027,10.11,9/9/2013,Credit Card,OFFCE,offce supplies
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007859,Taxi Medallion 7H95,OTHR,,,,,,,10.00,9/10/2013,Credit Card,OTHER,local travel
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007860,Shell Gas Station  W. 145,OTHR,,,,New York,NY,10039,45.58,9/10/2013,Credit Card,OTHER,gas/elect day travel
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007861,NYC Dept of Transportation,OTHR,,,,,,,3.50,9/10/2013,Credit Card,OTHER,parking
+2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0007862,NYC Citypay,OTHR,,,,,,,235.73,9/16/2013,Credit Card,OTHER,"8/21,8/26 prkng tkts"
 2013,4,484,P,Jackson,Robert,,K,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,9,,,R0006755,Pioneer Supermarket,OTHR,,,,New York,NY,,6.63,7/10/2013,Credit Card,OFFCE,water
 2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,10,,,R0006740,AMAS Wireless/BoostMobile,OTHR,,,,New York,NY,10039,110.00,7/16/2013,Credit Card,OFFCE,phones & service
 2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,10,,,R0006741,Pioneer Supermarket,OTHR,,,,New York,NY,,6.63,7/16/2013,Credit Card,OFFCE,water
@@ -2183,6 +2424,24 @@
 2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,11,,,R0007508,Pathmark (160 E 125),OTHR,,,,New York,NY,10035,4.22,8/26/2013,Credit Card,OFFCE,tape
 2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,11,,,R0007509,Pioneer Supermarket,OTHR,,,,New York,NY,,6.63,8/25/2013,Credit Card,OFFCE,water for vols
 2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,11,,,R0007511,Dunkin' Donuts Store 310468,OTHR,,,,New York,NY,,26.97,8/24/2013,Credit Card,OFFCE,snacks
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007510,Pioneer Supermarket,OTHR,,,,New York,NY,,12.27,8/27/2013,Credit Card,OFFCE,ofc suppl/snacks
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007623,AMAS Wireless/BoostMobile,OTHR,,,,New York,NY,10039,40.00,9/3/2013,Cash,OFFCE,phone service
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007624,AMAS Wireless/BoostMobile,OTHR,,,,New York,NY,10039,40.00,9/3/2013,Cash,OFFCE,phone service
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007625,AMAS Wireless/BoostMobile,OTHR,,,,New York,NY,10039,40.00,9/3/2013,Cash,OFFCE,phone service
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007626,Pioneer Supermarket,OTHR,,,,New York,NY,,6.63,9/2/2013,Credit Card,OFFCE,water for volunteers
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007627,Pioneer Supermarket,OTHR,,,,New York,NY,,6.63,8/29/2013,Credit Card,OFFCE,water for volunteers
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007628,Pioneer Supermarket,OTHR,,,,New York,NY,,27.38,9/1/2013,Credit Card,OFFCE,volunteer snacks
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007629,Domino's Pizza LLC 3335,LLC,,,,New York,NY,,21.32,9/1/2013,Credit Card,OFFCE,volunteer snacks
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007682,Home Depot (600 Ext St Bx),CORP,,,,Bronx,NY,10451,102.93,9/5/2013,Cash,OTHER,wood for A-frames
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007683,Pioneer Supermarket,OTHR,,,,New York,NY,,6.63,9/6/2013,Credit Card,OFFCE,water for volunteers
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007685,"Woods, David",IND,,,,New York,NY,10029,100.00,9/7/2013,Cash,OTHER,drummer/walkaround
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007686,Pioneer Supermarket,OTHR,,,,New York,NY,,18.38,9/7/2013,Credit Card,OFFCE,food for volunteers
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007687,Pioneer Supermarket,OTHR,,,,New York,NY,,9.89,9/5/2013,Credit Card,OFFCE,office supplies
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007807,BP,OTHR,,,,New York,NY,10010,22.31,9/10/2013,Credit Card,OTHER,gas for van
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007808,Domino's Pizza LLC 3335,LLC,,,,New York,NY,,43.00,9/10/2013,Credit Card,OFFCE,food for volunteers
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007809,Pioneer Supermarket,OTHR,,,,New York,NY,,11.63,9/10/2013,Credit Card,OFFCE,food for volunteers
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007810,Pioneer Supermarket,OTHR,,,,New York,NY,,10.87,9/7/2013,Credit Card,OFFCE,office supplies
+2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,12,,,R0007811,"Cummings, David",IND,,,,,,,50.00,9/10/2013,Cash,OTHER,van rental
 2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,9,,,R0006212,Dunkin' Donuts Store 310468,OTHR,,,,New York,NY,,17.98,6/1/2013,Cash,PETIT,food for volunteers
 2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,9,,,R0006213,Staples (217 Bway),CORP,,,,New York,NY,10007,138.23,5/31/2013,Other,OFFCE,clipboards
 2013,4,484,P,Jackson,Robert,,K,"Yurcan, Jeff",IND,,,,Brooklyn,NY,11215,P,9,,,R0006214,Domino's Pizza LLC 3335,LLC,,,,New York,NY,,45.65,6/2/2013,Credit Card,PETIT,food for volunteers
@@ -2272,6 +2531,7 @@
 2013,4,805,P,Lappin,Jessica,S,J,"Calentine, Robert L",IND,,,,New York,NY,10011,P,6,,,R0004405,USPS Old Chelsea,CORP,,,,New York,NY,10011,315.00,10/16/2012,Credit Card,POSTA,Fundraising
 2013,4,805,P,Lappin,Jessica,S,J,"Calentine, Robert L",IND,,,,New York,NY,10011,P,7,,,R0005555,Staples Union Sq West,CORP,,,,New York,NY,10003,106.11,1/29/2013,Credit Card,OFFCE,Mailing supplies
 2013,4,805,P,Lappin,Jessica,S,J,"Calentine, Robert L",IND,,,,New York,NY,10011,P,7,,,R0005556,United States Postal Service,CORP,,,,New York,NY,10022,276.00,2/1/2013,Credit Card,POSTA,Stamps
+2013,4,805,P,Lappin,Jessica,S,J,"Markham, Max",IND,,,,,,,P,12,,,R0006641,Shell,CORP,,,,New York,NY,10128,70.02,9/10/2013,Credit Card,OTHER,Transportation
 2013,4,805,P,Lappin,Jessica,S,J,"Norrick, Martha R",IND,,,,Brooklyn,NY,11201,P,7,,,R0005278,NYC Taxi,CORP,,,,New York,NY,10004,25.20,1/15/2013,Credit Card,OTHER,Transportation
 2013,4,805,P,Lappin,Jessica,S,J,"Norrick, Martha R",IND,,,,Brooklyn,NY,11201,P,7,,,R0005279,FedEx Kinko's,CORP,,,,New York,NY,10021,16.31,1/15/2013,Credit Card,OFFCE,Materials
 2013,4,805,P,Lappin,Jessica,S,J,"Norrick, Martha R",IND,,,,Brooklyn,NY,11201,P,7,,,R0005280,NYC Taxi,CORP,,,,New York,NY,10004,30.60,1/16/2013,Credit Card,OTHER,Transportation
@@ -2283,6 +2543,9 @@
 2013,4,805,P,Lappin,Jessica,S,J,"Radin, Melissa S",IND,,,,New York,NY,10038,P,11,,,R0006230,Staples 217 Broadway,OTHR,,,,New York,NY,10007,6.51,8/1/2013,Credit Card,OFFCE,supplies
 2013,4,805,P,Lappin,Jessica,S,J,"Radin, Melissa S",IND,,,,New York,NY,10038,P,11,,,R0006231,FedEx Office,CORP,,,,New York,NY,10022,7.32,8/6/2013,Credit Card,OFFCE,copying
 2013,4,805,P,Lappin,Jessica,S,J,"Radin, Melissa S",IND,,,,New York,NY,10038,P,11,,,R0006418,FedEx Office,CORP,,,,New York,NY,10022,6.66,8/9/2013,Credit Card,OFFCE,Copying
+2013,4,805,P,Lappin,Jessica,S,J,"Radin, Melissa S",IND,,,,New York,NY,10038,P,12,,,R0006419,Staples 217 Broadway,OTHR,,,,New York,NY,10007,12.61,8/27/2013,Credit Card,OFFCE,Supplies
+2013,4,805,P,Lappin,Jessica,S,J,"Radin, Melissa S",IND,,,,New York,NY,10038,P,12,,,R0006624,FedEx Office,CORP,,,,New York,NY,10022,24.70,8/30/2013,Credit Card,OFFCE,Copying
+2013,4,805,P,Lappin,Jessica,S,J,"Radin, Melissa S",IND,,,,New York,NY,10038,P,12,,,R0006625,Staples 1257 2nd Ave,CORP,,,,New York,NY,10065,2.60,9/5/2013,Credit Card,OFFCE,Copying
 2013,4,805,P,Lappin,Jessica,S,J,"Radin, Melissa S",IND,,,,New York,NY,10038,P,7,,,R0005275,Staples 217 Broadway,OTHR,,,,New York,NY,10007,7.94,1/11/2013,Credit Card,OFFCE,Supplies
 2013,4,805,P,Lappin,Jessica,S,J,"Radin, Melissa S",IND,,,,New York,NY,10038,P,7,,,R0005558,Staples 217 Broadway,OTHR,,,,New York,NY,10007,12.61,2/8/2013,Credit Card,OFFCE,Paper
 2013,4,805,P,Lappin,Jessica,S,J,"Radin, Melissa S",IND,,,,New York,NY,10038,P,8,,,R0005560,Staples 217 Broadway,OTHR,,,,New York,NY,10007,4.68,3/15/2013,Credit Card,OFFCE,Copies
@@ -2337,6 +2600,7 @@
 2013,5,1152,P,Matteo,Steven,,H,"Basile, Anthony",IND,,,,Staten Island,NY,10304,P,11,,,R0001383,"Facebook, Inc",CORP,,,,Palo Alto,CA,94303,50.54,8/2/2013,Credit Card,PRINT,Facebook Ad
 2013,5,1152,P,Matteo,Steven,,H,"Basile, Anthony",IND,,,,Staten Island,NY,10304,P,11,,,R0001384,"Facebook, Inc",CORP,,,,Palo Alto,CA,94303,25.00,7/31/2013,Credit Card,PRINT,Facebook Ad
 2013,5,1152,P,Matteo,Steven,,H,"Basile, Anthony",IND,,,,Staten Island,NY,10304,P,11,,,R0001385,"Facebook, Inc",CORP,,,,Palo Alto,CA,94303,250.08,8/15/2013,Credit Card,PRINT,Facebook Ad
+2013,5,1152,P,Matteo,Steven,,H,"Basile, Anthony",IND,,,,Staten Island,NY,10304,P,12,,,R0001547,"Facebook, Inc",CORP,,,,Palo Alto,CA,94303,443.45,8/31/2013,Credit Card,PRINT,Facebook Ads
 2013,5,1152,P,Matteo,Steven,,H,"Basile, Anthony",IND,,,,Staten Island,NY,10304,P,7,,,R0000752,Dunkin Donuts,CORP,,,,Staten Island,NY,10306,54.50,3/10/2013,Credit Card,OTHER,Refreshments
 2013,5,1152,P,Matteo,Steven,,H,"Basile, Anthony",IND,,,,Staten Island,NY,10304,P,7,,,R0000753,Bagel Bistro Diner Grill,CORP,,,,Staten Island,NY,10314,7.38,3/10/2013,Credit Card,OTHER,Refreshments
 2013,5,1152,P,Matteo,Steven,,H,"Basile, Anthony",IND,,,,Staten Island,NY,10304,P,7,,,R0000754,Bagel Bistro Diner Grill,CORP,,,,Staten Island,NY,10314,15.95,3/10/2013,Credit Card,OTHER,Refreshments
@@ -2350,11 +2614,17 @@
 2013,5,1152,P,Matteo,Steven,,H,"Cocozza, Michelle",IND,,,,Staten Island,NY,10304,P,8,,,R0000991,Vistaprint,CORP,,,,Lexington,MA,02421,60.82,4/8/2013,Credit Card,OTHER,Banner
 2013,5,1152,P,Matteo,Steven,,H,"DeCicco, Christopher",IND,,,,Staten Island,NY,10312,P,10,,,R0001306,Costco Wholesale,CORP,,,,Staten Island,NY,10314,141.49,8/5/2013,Credit Card,OFFCE,Chairs/Table
 2013,5,1152,P,Matteo,Steven,,H,"DeCicco, Christopher",IND,,,,Staten Island,NY,10312,P,11,,,R0001379,Costco Wholesale,CORP,,,,Staten Island,NY,10314,60.54,8/14/2013,Credit Card,OFFCE,Refreshments
+2013,5,1152,P,Matteo,Steven,,H,"DeCicco, Christopher",IND,,,,Staten Island,NY,10312,P,12,,,R0001545,Kmart,CORP,,,,Staten Island,NY,10306,46.77,8/15/2013,Credit Card,OFFCE,Phones
+2013,5,1152,P,Matteo,Steven,,H,"DeCicco, Christopher",IND,,,,Staten Island,NY,10312,P,12,,,R0001552,Shop Rite,CORP,,,,Staten Island,NY,10306,22.50,8/30/2013,Credit Card,OFFCE,Water
+2013,5,1152,P,Matteo,Steven,,H,"DeCicco, Christopher",IND,,,,Staten Island,NY,10312,P,12,,,R0001553,Shop Rite,CORP,,,,Staten Island,NY,10306,20.80,9/1/2013,Credit Card,OFFCE,Volunteer Snacks
+2013,5,1152,P,Matteo,Steven,,H,"DeCicco, Christopher",IND,,,,Staten Island,NY,10312,P,12,,,R0001555,Advance Lock & Key,CORP,,,,Staten Island,NY,10306,8.71,8/30/2013,Cash,OFFCE,Duplicate Keys
 2013,5,1152,P,Matteo,Steven,,H,"DeCicco, Christopher",IND,,,,Staten Island,NY,10312,P,6,,,R0000430,"Moniker Online Services, LLC",CORP,,,,Portland,OR,97201,38.36,12/4/2012,Credit Card,OTHER,Website URL
 2013,5,1152,P,Matteo,Steven,,H,"Matteo, Anne",FAM,,,,Staten Island,NY,10314,P,6,,,R0000400,Staples,CORP,,,,Staten Island,NY,10302,110.48,10/18/2012,Credit Card,OFFCE,Office Supplies
 2013,5,1152,P,Matteo,Steven,,H,"Matteo, Philip",FAM,,,,Staten Island,NY,10314,P,6,,,R0000346,Apple Store,CORP,,,,Staten Island,NY,10314,1359.80,10/6/2012,Check,OFFCE,Computer
 2013,5,1152,P,Matteo,Steven,,H,"Razefsky, Jason",IND,,,,Staten Island,NY,10306,P,10,,,R0001270,Victory Store.com,CORP,,,,Davenport,IA,52802,1740.83,7/8/2013,Credit Card,LITER,Lawn Signs
 2013,5,1152,P,Matteo,Steven,,H,"Razefsky, Jason",IND,,,,Staten Island,NY,10306,P,11,,,R0001311,Paging Zone,CORP,,,,Brooklyn,NY,11209,103.44,8/8/2013,Credit Card,WAGES,Phones
+2013,5,1152,P,Matteo,Steven,,H,"Razefsky, Jason",IND,,,,Staten Island,NY,10306,P,12,,,R0001570,Radioshack,CORP,,,,Staten Island,NY,10306,170.82,9/8/2013,Credit Card,OFFCE,Phones
+2013,5,1152,P,Matteo,Steven,,H,"Razefsky, Jason",IND,,,,Staten Island,NY,10306,P,12,,,R0001571,Kmart,CORP,,,,Staten Island,NY,10306,29.05,9/8/2013,Credit Card,OFFCE,Extension Cords
 2013,5,1152,P,Matteo,Steven,,H,"Razefsky, Jason",IND,,,,Staten Island,NY,10306,P,8,,,R0001000,Victory Store.com,CORP,,,,Davenport,IA,52802,3757.50,4/15/2013,Credit Card,OTHER,Lawn Signs
 2013,5,1152,P,Matteo,Steven,,H,"Razefsky, Jason",IND,,,,Staten Island,NY,10306,P,9,,,R0001201,Reimans True Value Hardware,CORP,,,,Staten Island,NY,10314,97.02,5/4/2013,Credit Card,LITER,lawn signs
 2013,5,1152,P,Matteo,Steven,,H,"Razefsky, Jason",IND,,,,Staten Island,NY,10306,P,9,,,R0001202,Reimans True Value Hardware,CORP,,,,Staten Island,NY,10314,60.90,5/4/2013,Credit Card,LITER,Lawn Signs
@@ -2375,6 +2645,8 @@
 2013,5,1164,P,Lander,Brad,S,J,"Ertinger, Emma",IND,,,,Brooklyn,NY,11220,P,8,,,R0002368,Zito's Sandwich Shoppe,CORP,,,,Brooklyn,NY,11215,204.79,4/7/2013,Credit Card,OFFCE,PB Results Party
 2013,5,1164,P,Lander,Brad,S,J,"Ertinger, Emma",IND,,,,Brooklyn,NY,11220,P,9,,,R0002651,Foodtown,CORP,,,,Brooklyn,NY,11218,25.02,5/8/2013,Credit Card,OFFCE,PB meeting food
 2013,5,1164,P,Lander,Brad,S,J,"Ertinger, Emma",IND,,,,Brooklyn,NY,11220,P,9,,,R0002657,Peppino's Pizza,CORP,,,,Brooklyn,NY,11215,91.73,6/28/2013,Credit Card,OFFCE,staff lunch
+2013,5,1164,P,Lander,Brad,S,J,"Freedman-Schnapp, Michael",IND,,,,Brooklyn,NY,11222,P,12,,,R0002767,Park Slope Copy Center,CORP,,,,Brooklyn,NY,11215,138.00,8/27/2013,Credit Card,OFFCE,poster printing
+2013,5,1164,P,Lander,Brad,S,J,"Freedman-Schnapp, Michael",IND,,,,Brooklyn,NY,11222,P,12,,,R0002768,United States Postal Service,CORP,,,,Brooklyn,NY,11215,19.95,8/29/2013,Credit Card,OFFCE,shipping
 2013,5,1164,P,Lander,Brad,S,J,"Freedman-Schnapp, Michael",IND,,,,Brooklyn,NY,11222,P,4,,,R0001174,J & R,CORP,,,,New York,NY,10038,1503.51,10/12/2011,Credit Card,OFFCE,Campaign computer
 2013,5,1164,P,Lander,Brad,S,J,"Freedman-Schnapp, Michael",IND,,,,Brooklyn,NY,11222,P,4,,,R0001176,Maclocks.com,CORP,,,,,,,76.96,10/12/2011,Credit Card,OFFCE,computer lock
 2013,5,1164,P,Lander,Brad,S,J,"Freedman-Schnapp, Michael",IND,,,,Brooklyn,NY,11222,P,4,,,R0001507,SoftwareMedia.com,CORP,,,,,,,137.48,10/17/2011,Credit Card,OFFCE,software-windows
@@ -2423,10 +2695,13 @@
 2013,5,1164,P,Lander,Brad,S,J,"Guzman, Veronica",IND,,,,Brooklyn,NY,11218,P,5,,,R0001867,Super 99 Cents Discount,CORP,,,,Brooklyn,NY,11218,23.78,2/29/2012,Credit Card,OTHER,Teen Battle Chef
 2013,5,1164,P,Lander,Brad,S,J,"Guzman, Veronica",IND,,,,Brooklyn,NY,11218,P,5,,,R0001868,New McDonalds Fruit,CORP,,,,Brooklyn,NY,11218,16.37,3/20/2012,Cash,OTHER,Teen Battle Chef
 2013,5,1164,P,Lander,Brad,S,J,"Guzman, Veronica",IND,,,,Brooklyn,NY,11218,P,5,,,R0001869,Super 99 Cents Discount,CORP,,,,Brooklyn,NY,11218,14.23,3/1/2012,Credit Card,OTHER,Teen Battle Chef
+2013,5,1164,P,Lander,Brad,S,J,"Johnson, Sarah",IND,,,,Brooklyn,NY,11217,P,12,,,R0002781,Deb's Catering,CORP,,,,New York,NY,10014,162.26,9/16/2013,Credit Card,OFFCE,working lunch
 2013,5,1164,P,Lander,Brad,S,J,"Lander, Brad",CAN,,,,Brooklyn,NY,11215,P,10,,,R0002680,Park Slope Copy Center,CORP,,,,Brooklyn,NY,11215,163.31,6/7/2013,Credit Card,OFFCE,P.O. Box
 2013,5,1164,P,Lander,Brad,S,J,"Lander, Brad",CAN,,,,Brooklyn,NY,11215,P,11,,,R0002752,Korzo Brooklyn,CORP,,,,Brooklyn,NY,11215,253.22,8/13/2013,Credit Card,OFFCE,staff outing
 2013,5,1164,P,Lander,Brad,S,J,"Lander, Brad",CAN,,,,Brooklyn,NY,11215,P,11,,,R0002753,Commonwealth,CORP,,,,Brooklyn,NY,11215,130.78,8/13/2013,Credit Card,OFFCE,staff outing
 2013,5,1164,P,Lander,Brad,S,J,"Lander, Brad",CAN,,,,Brooklyn,NY,11215,P,11,,,R0002754,AMTRAK,CORP,,,,,,,518.00,7/22/2013,Credit Card,OTHER,travel
+2013,5,1164,P,Lander,Brad,S,J,"Lander, Brad",CAN,,,,Brooklyn,NY,11215,P,12,,,R0002784,Woodrow's,CORP,,,,New York,NY,10007,108.63,8/22/2013,Credit Card,OFFCE,working lunch
+2013,5,1164,P,Lander,Brad,S,J,"Lander, Brad",CAN,,,,Brooklyn,NY,11215,P,12,,,R0002785,Daisy's Diner,CORP,,,,Brooklyn,NY,11215,20.00,9/12/2013,Credit Card,OFFCE,working lunch
 2013,5,1164,P,Lander,Brad,S,J,"Lander, Brad",CAN,,,,Brooklyn,NY,11215,P,3,,,R0000919,"Aponte, Jacqueline",IND,,,,Brooklyn,NY,11226,336.00,6/16/2010,Check,CONSL,public website
 2013,5,1164,P,Lander,Brad,S,J,"Lander, Brad",CAN,,,,Brooklyn,NY,11215,P,3,,,R0000920,"Aponte, Jacqueline",IND,,,,Brooklyn,NY,11226,1120.00,6/15/2010,Check,CONSL,website
 2013,5,1164,P,Lander,Brad,S,J,"Lander, Brad",CAN,,,,Brooklyn,NY,11215,P,3,,,R0000922,"Aponte, Jacqueline",IND,,,,Brooklyn,NY,11226,1547.30,8/25/2010,Check,CONSL,website
@@ -2469,6 +2744,7 @@
 2013,5,1164,P,Lander,Brad,S,J,"Moore, Alex",IND,,,,Brooklyn,NY,11215,P,6,,,R0002148,Rite Aid,CORP,,,,Brooklyn,NY,11215,5.51,7/24/2012,Other,OFFCE,PB food
 2013,5,1164,P,Lander,Brad,S,J,"Moore, Alex",IND,,,,Brooklyn,NY,11215,P,9,,,R0002654,Staples,CORP,,,,Brooklyn,NY,11215,43.03,6/9/2013,Credit Card,OFFCE,vol event
 2013,5,1164,P,Lander,Brad,S,J,"Moore, Alex",IND,,,,Brooklyn,NY,11215,P,9,,,R0002655,C-Town,CORP,,,,Brooklyn,NY,11215,5.52,6/9/2013,Credit Card,OFFCE,vol event
+2013,5,1164,P,Lander,Brad,S,J,"Tek, Mary",IND,,,,Brooklyn,NY,11221,P,12,,,R0002773,United States Postal Service,CORP,,,,Brooklyn,NY,11215,46.00,8/7/2013,Credit Card,POSTA,stamps
 2013,5,1164,P,Lander,Brad,S,J,"Tek, Mary",IND,,,,Brooklyn,NY,11221,P,6,,,R0002160,Staples,CORP,,,,Brooklyn,NY,11215,17.94,1/8/2013,Other,OFFCE,supllies
 2013,5,1164,P,Lander,Brad,S,J,"Tek, Mary",IND,,,,Brooklyn,NY,11221,P,7,,,R0002288,Trader Joe's,CORP,,,,New York,NY,10003,60.36,1/29/2013,Credit Card,OFFCE,Event
 2013,5,1164,P,Lander,Brad,S,J,"Tek, Mary",IND,,,,Brooklyn,NY,11221,P,7,,,R0002290,Walgreens,CORP,,,,Brooklyn,NY,11218,4.34,1/29/2013,Cash,OFFCE,Event
@@ -2589,16 +2865,23 @@
 2013,5,1178,P,Greenfield,David,G,J,"Spitzer, Barry",IND,,,,Brooklyn,NY,11204,P,8,,,R0001527,Buy the Case Discount,OTHR,,,,Brooklyn,NY,11204,18.40,4/23/2013,Credit Card,OTHER,event
 2013,5,1188,P,Constantinides,Costa,G,I,"Bertino, John",IND,,,,Babylon,NY,11702,P,10,,,R0002489,"Bertino, John",IND,,,,Babylon,NY,11702,43.00,8/1/2013,Check,OTHER,travel
 2013,5,1188,P,Constantinides,Costa,G,I,"Bertino, John",IND,,,,Babylon,NY,11702,P,9,,,R0002430,"Bertino, John",IND,,,,Babylon,NY,11702,32.25,6/25/2013,Credit Card,OTHER,travel
+2013,5,1188,P,Constantinides,Costa,G,I,"Roloson, Nick",IND,,,,Amityville,NY,11701,P,12,,,R0002630,NYS Board of Elections,OTHR,,,,Albany,NY,12207,50.00,8/2/2013,Cash,OTHER,Absentee List
 2013,5,1204,P,Levin,Stephen,T,J,"Adams, Casey",IND,,,,Brooklyn,NY,11211,P,10,,,R0001454,Eckford Limos,CORP,,,,Brooklyn,NY,11222,19.62,7/15/2013,Credit Card,OTHER,Transportation
 2013,5,1204,P,Levin,Stephen,T,J,"Adams, Casey",IND,,,,Brooklyn,NY,11211,P,10,,,R0001456,TLC Taxi Medallion 7G25,CORP,,,,,,,15.00,7/24/2013,Credit Card,OTHER,Transportation
 2013,5,1204,P,Levin,Stephen,T,J,"Adams, Casey",IND,,,,Brooklyn,NY,11211,P,10,,,R0001458,G & M Super Sound Electronics,CORP,,,,Brooklyn,NY,11222,38.10,7/23/2013,Credit Card,OFFCE,Camera and Mem card
+2013,5,1204,P,Levin,Stephen,T,J,"Adams, Casey",IND,,,,Brooklyn,NY,11211,P,12,,,R0001720,Jams Stationary,CORP,,,,Brooklyn,NY,11222,16.32,8/9/2013,Cash,WAGES,Mailing Labels
+2013,5,1204,P,Levin,Stephen,T,J,"Adams, Casey",IND,,,,Brooklyn,NY,11211,P,12,,,R0001721,BJ's Lock and Alarm Co Billys,CORP,,,,Brooklyn,NY,11222,7.24,8/16/2013,Cash,OFFCE,Key Duplicate
 2013,5,1204,P,Levin,Stephen,T,J,"Adams, Casey",IND,,,,Brooklyn,NY,11211,P,9,,,R0001452,BJ's Lock and Alarm Co Billys,CORP,,,,Brooklyn,NY,11222,10.89,6/7/2013,Cash,OFFCE,Key Copies
 2013,5,1204,P,Levin,Stephen,T,J,"Adams, Casey",IND,,,,Brooklyn,NY,11211,P,9,,,R0001453,Gololsholle & Garfinkel,CORP,,,,Brooklyn,NY,11222,2.73,6/6/2013,Cash,OFFCE,Key Copy
 2013,5,1204,P,Levin,Stephen,T,J,"Drembelas, James",IND,,,,New York,NY,10009,P,11,,,R0001576,MTA NYC Transit -Newkirk Plaza,CORP,,,,Brooklyn,NY,11226,10.00,8/10/2013,Credit Card,OTHER,Metrocard
 2013,5,1204,P,Levin,Stephen,T,J,"Drembelas, James",IND,,,,New York,NY,10009,P,11,,,R0001578,MTA NYC Transit -Newkirk Plaza,CORP,,,,Brooklyn,NY,11226,10.00,8/12/2013,Credit Card,OTHER,Metrocard
+2013,5,1204,P,Levin,Stephen,T,J,"Drembelas, James",IND,,,,New York,NY,10009,P,12,,,R0001724,Peter Pan Donut Shop,CORP,,,,Brooklyn,NY,11222,21.00,9/5/2013,Cash,OTHER,Food
+2013,5,1204,P,Levin,Stephen,T,J,"Drembelas, James",IND,,,,New York,NY,10009,P,12,,,R0001791,Jams Stationary,CORP,,,,Brooklyn,NY,11222,6.52,8/27/2013,Cash,OFFCE,Printer Paper
 2013,5,1204,P,Levin,Stephen,T,J,"Johnson, Karen",IND,,,,Brooklyn,NY,11201,P,10,,,R0001463,Jams Stationary,CORP,,,,Brooklyn,NY,11222,10.31,7/22/2013,Cash,OFFCE,Specialty Stationary
 2013,5,1204,P,Levin,Stephen,T,J,"Johnson, Karen",IND,,,,Brooklyn,NY,11201,P,10,,,R0001464,Eastern Car Service,CORP,,,,Brooklyn,NY,11215,10.00,7/25/2013,Cash,OTHER,Event Transportation
 2013,5,1204,P,Levin,Stephen,T,J,"Johnson, Karen",IND,,,,Brooklyn,NY,11201,P,10,,,R0001465,Eastern Car Service,CORP,,,,Brooklyn,NY,11215,10.00,7/25/2013,Cash,OTHER,Event Transportation
+2013,5,1204,P,Levin,Stephen,T,J,"Johnson, Karen",IND,,,,Brooklyn,NY,11201,P,12,,,R0001739,Eckford Limos,CORP,,,,Brooklyn,NY,11222,20.00,9/4/2013,Cash,OTHER,Transportation
+2013,5,1204,P,Levin,Stephen,T,J,"Levin, Stephen",CAN,,,,Brooklyn,NY,11222,P,12,,,R0001727,Staples #1,CORP,,,,New York,NY,10007,113.22,9/3/2013,Credit Card,OFFCE,Toner
 2013,5,1204,P,Levin,Stephen,T,J,"Levin, Stephen",CAN,,,,Brooklyn,NY,11222,P,4,,,R0000641,United States Post Office,OTHR,,,,Brooklyn,NY,11211,264.00,10/7/2011,Cash,POSTA,Invitations
 2013,5,1204,P,Levin,Stephen,T,J,"Levin, Stephen",CAN,,,,Brooklyn,NY,11222,P,4,,,R0000642,reBar,OTHR,,,,Brooklyn,NY,11201,2000.00,10/24/2011,Check,FUNDR,Deposit on Fundraise
 2013,5,1204,P,Levin,Stephen,T,J,"Levin, Stephen",CAN,,,,Brooklyn,NY,11222,P,6,,,R0000979,Fairway,CORP,,,,Brooklyn,NY,11231,214.56,8/4/2012,Credit Card,OTHER,NYCHA FamilyDay Food
@@ -2700,6 +2983,7 @@
 2013,5,1282,P,Vanel,Clyde,,I,"Vanel, Clyde",CAN,,,,Cambria Heights,NY,11411,P,9,,,R0000426,THE HOME DEPOT,CORP,,,,ELMONT,NY,11003,11.91,7/9/2013,Credit Card,OTHER,TAPE
 2013,5,1282,P,Vanel,Clyde,,I,"Vanel, Clyde",CAN,,,,Cambria Heights,NY,11411,P,9,,,R0000427,DOLLAR TRACK INC,OTHR,,,,Cambria Heights,NY,11411,8.83,7/8/2013,Credit Card,FUNDR,"PAPER,WATER,TAPE"
 2013,5,1282,P,Vanel,Clyde,,I,"Vanel, Clyde",CAN,,,,Cambria Heights,NY,11411,P,9,,,R0000428,FARMBRIA FOOD CENTER,OTHR,,,,Cambria Heights,NY,11411,9.18,7/8/2013,Cash,FUNDR,"SUGAR,LEMONS"
+2013,5,1301,P,Kallos,Benjamin,J,I,"Towsen, Jesse",IND,,,,Brooklyn,NY,11207,P,12,,,R0002036,Staples,CORP,,,,New York,NY,10003,191.61,8/26/2013,Credit Card,OFFCE,Printer Toner
 2013,5,1307,P,Scavo,Theresa,R,I,"Scavo, Anthony",IND,,,,Brooklyn,NY,11235,P,11,,,R0000753,US Postal Service,OTHR,,,,,,,92.00,8/13/2013,Cash,CMAIL,Stampe
 2013,5,1307,P,Scavo,Theresa,R,I,"Scavo, Theresa R",CAN,,,,Brooklyn,NY,11235,P,10,,,R0000729,Elegante pastry Shop,CORP,,,,Brooklyn,NY,11223,60.00,7/11/2013,Cash,OTHER,volunteer food
 2013,5,1307,P,Scavo,Theresa,R,I,"Scavo, Theresa R",CAN,,,,Brooklyn,NY,11235,P,9,,,R0000695,Reeves Sign Co.,CORP,,,,Brooklyn,NY,11223,50.00,5/29/2013,Cash,OTHER,Campaign banner
@@ -2733,6 +3017,12 @@
 2013,5,1335,NP,Weprin,Mark,S,L,"Wimpfheimer, Ruth L",IND,,,,Glen Oaks,NY,11004,P,1,,,R0000721,U.S. Postal Service,OTHR,,,,Floral Park,NY,,308.00,6/19/2010,Credit Card,CMAIL,Postage
 2013,5,1335,NP,Weprin,Mark,S,L,"Wimpfheimer, Ruth L",IND,,,,Glen Oaks,NY,11004,P,1,,,R0000722,U.S. Postal Service,OTHR,,,,Floral Park,NY,,44.00,6/23/2010,Credit Card,CMAIL,Postage
 2013,5,1335,NP,Weprin,Mark,S,L,"Wimpfheimer, Ruth L",IND,,,,Glen Oaks,NY,11004,P,3,,,R0000842,Dunkin Donuts,CORP,,,,Glen Oaks,NY,11004,63.97,1/28/2011,Credit Card,OTHER,Principals Conferenc
+2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,12,,,R0000254,Master Graphics NYC,CORP,,,,Bronx,NY,10461,1631.64,7/18/2013,Credit Card,LITER,BROCHURE
+2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,12,,,R0000255,ACE Inc.,CORP,,,,Bronx,NY,10474,446.00,7/27/2013,Credit Card,CMAIL,brochure distributio
+2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,12,,,R0000256,ACE Inc.,CORP,,,,Bronx,NY,10474,675.00,8/3/2013,Credit Card,CMAIL,brochure distributio
+2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,12,,,R0000259,Staples,CORP,,,,Larchmont,NY,10538,42.94,7/20/2013,Credit Card,OFFCE,Ink supply
+2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,12,,,R0000278,Poor Richards Promos,CORP,,,,Dickson City,PA,18519,1014.97,8/16/2013,Credit Card,OTHER,Campaign Tote Bags
+2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,12,,,R0000387,Best Buy,CORP,,,,Mount Vernon,NY,10550,54.18,9/5/2013,Credit Card,OFFCE,Computer Storage
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,8,,,R0000015,FedEX,CORP,,,,New Rochelle,NY,10801,170.42,5/11/2013,Cash,LITER,Printing at FedEX
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,8,,,R0000016,Staples,CORP,,,,Larchmont,NY,10538,383.04,5/11/2013,Cash,OFFCE,Office Supplies
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,9,,,R0000087,"J&R Tours, Ltd.",CORP,,,,Mt. Vernon,NY,10550,790.00,5/17/2013,Credit Card,OTHER,Bus Tour of 5/17
@@ -2771,6 +3061,12 @@
 2013,5,1491,P,Powell,Hettie,V,I,"Samaroo, Farouk",IND,,,,Richmond Hill,NY,11418,P,12,,,R0001181,Staples,CORP,,,,Valley Stream,NY,11582,57.59,7/16/2013,Cash,PETIT,office supplies
 2013,5,1491,P,Powell,Hettie,V,I,"Samaroo, Farouk",IND,,,,Richmond Hill,NY,11418,P,12,,,R0001182,Atlantic Quickserve,OTHR,,,,South Richmond Hill,NY,11419,59.63,7/19/2013,Credit Card,PETIT,gas for travel
 2013,5,1491,P,Powell,Hettie,V,I,"Zeno, Lori",IND,,,,Garden City,NY,11530,P,12,,,R0001363,Food World,OTHR,,,,Jamaica,NY,11434,75.54,9/10/2013,Credit Card,OTHER,Drinks for workers
+2013,5,1499,P,Lotovsky,Alexander,L,H,"Walsh, Adam G",IND,,,,Brooklyn,NY,11216,P,12,,,R0000015,Staples,CORP,,,,Brooklyn,NY,11235,48.12,8/2/2013,Credit Card,PETIT,Clipboards and Pens
+2013,5,1499,P,Lotovsky,Alexander,L,H,"Walsh, Adam G",IND,,,,Brooklyn,NY,11216,P,12,,,R0000016,Staples,CORP,,,,Brooklyn,NY,11235,18.23,8/9/2013,Credit Card,PETIT,Clipboards
+2013,5,1499,P,Lotovsky,Alexander,L,H,"Walsh, Adam G",IND,,,,Brooklyn,NY,11216,P,12,,,R0000018,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,5.77,8/15/2013,Cash,PETIT,Petition binding
+2013,5,1499,P,Lotovsky,Alexander,L,H,"Walsh, Adam G",IND,,,,Brooklyn,NY,11216,P,12,,,R0000025,USPS -Breevort Station,OTHR,,,,Brooklyn,NY,11216,20.40,5/9/2013,Credit Card,POSTA,Priority Mail
+2013,5,1499,P,Lotovsky,Alexander,L,H,"Walsh, Adam G",IND,,,,Brooklyn,NY,11216,P,12,,,R0000026,USPS -Breevort Station,OTHR,,,,Brooklyn,NY,11216,5.60,5/22/2013,Credit Card,POSTA,Priority Mail
+2013,5,1499,P,Lotovsky,Alexander,L,H,"Walsh, Adam G",IND,,,,Brooklyn,NY,11216,P,12,,,R0000033,Hover.com,CORP,,,,,,,15.00,7/9/2013,Credit Card,OTHER,Web domain name
 2013,5,1507,P,Kayode,David,B,I,"Adeoye, Shola",IND,,,,Jamaica,NY,11435,P,9,,,R0000344,Staples,CORP,,,,Richmond Hill,NY,11418,232.55,6/5/2013,Credit Card,LITER,palm cards
 2013,5,1507,P,Kayode,David,B,I,"Kayode, Adunni",IND,,,,Jamaica,NY,11433,P,11,,,R0000554,Home Depot,CORP,,,,Jamaica,NY,11433,235.09,8/9/2013,Credit Card,OFFCE,office maintenance
 2013,5,1507,P,Kayode,David,B,I,"Kayode, Adunni",IND,,,,Jamaica,NY,11433,P,11,,,R0000610,Home Depot,CORP,,,,Jamaica,NY,11433,30.82,8/10/2013,Credit Card,OFFCE,construction items
@@ -2788,6 +3084,7 @@
 2013,5,1527,UN,Treybich,Michael,,H,"Treybich, Michael",CAN,,,,Brooklyn,NY,11224,P,5,,,R0000104,Hostmonster.com,CORP,,,,,,,106.23,4/1/2012,Credit Card,OTHER,SSL Certificate
 2013,5,1527,UN,Treybich,Michael,,H,"Treybich, Michael",CAN,,,,Brooklyn,NY,11224,P,5,,,R0000160,Friends of Bill Colton,PCOMC,,,,Brooklyn,NY,11223,150.00,4/8/2012,Check,PRINT,Journal Ad
 2013,5,1527,UN,Treybich,Michael,,H,"Treybich, Michael",CAN,,,,Brooklyn,NY,11224,P,5,,,R0000161,United Progressive Democratic,PCOMZ,,,,Brooklyn,NY,11214,100.00,4/8/2012,Check,OTHER,Dinner ticket
+2013,5,1528,P,Wymore,Mel,,H,"Jacobs, Stephen B",IND,,,,New York,NY,10023,P,12,,,R0001704,"CallFire, Inc.",CORP,,,,Santa Monica,CA,90401,875.00,8/28/2013,Credit Card,OFFCE,phone service
 2013,5,1528,P,Wymore,Mel,,H,"Miller, Amy",IND,,,,Brooklyn,NY,11206,P,11,,,R0001512,Fairway,CORP,,,,New York,NY,10023,38.92,8/17/2013,Credit Card,OFFCE,food for volunteers
 2013,5,1531,P,Stanton,Cliff,I,H,"Giuffre, Robert",IND,,,,Bronx,NY,10462,P,10,,,R0001131,Board of Elections,OTHR,,,,New York,NY,10004,40.75,7/12/2013,Cash,PETIT,Photocopies
 2013,5,1531,P,Stanton,Cliff,I,H,"Giuffre, Robert",IND,,,,Bronx,NY,10462,P,10,,,R0001132,FedEx,CORP,,,,New York,NY,10007,5.95,7/13/2013,Credit Card,PETIT,Petition Binding
@@ -2978,6 +3275,8 @@
 2013,5,1621,P,Cardona,Ralina,M,H,"Cardona, Ralina M",CAN,,,,Bronx,NY,10454,P,11,,,R0000663,Western Beef,OTHR,,,,Bronx,NY,10451,78.44,8/25/2013,Credit Card,OTHER,Food
 2013,5,1621,P,Cardona,Ralina,M,H,"Cardona, Ralina M",CAN,,,,Bronx,NY,10454,P,11,,,R0000665,Jetro Cash & Carry Enterprises,LLC,,,,Bronx,NY,10474,33.39,8/25/2013,Credit Card,OTHER,Food
 2013,5,1621,P,Cardona,Ralina,M,H,"Cardona, Ralina M",CAN,,,,Bronx,NY,10454,P,11,,,R0000689,Staples,CORP,,,,Bronx,NY,10451,77.39,8/26/2013,Credit Card,OFFCE,Ink
+2013,5,1621,P,Cardona,Ralina,M,H,"Cardona, Ralina M",CAN,,,,Bronx,NY,10454,P,12,,,R0001507,Western Beef,OTHR,,,,Bronx,NY,10451,49.93,9/10/2013,Cash,OTHER,Food
+2013,5,1621,P,Cardona,Ralina,M,H,"Cardona, Ralina M",CAN,,,,Bronx,NY,10454,P,12,,,R0001508,The Home Depot,CORP,,,,Yonkers,NY,10710,20.11,9/10/2013,Cash,OTHER,Propane Gas
 2013,5,1621,P,Cardona,Ralina,M,H,"Colon, Federico",IND,,,,Dumont,NJ,07628,P,10,,,R0000559,Diplo Car & Limo Service,OTHR,,,,,,,25.00,6/19/2013,Cash,OTHER,Taxi
 2013,5,1621,P,Cardona,Ralina,M,H,"Colon, Federico",IND,,,,Dumont,NJ,07628,P,10,,,R0000561,MTA NYC Transit,OTHR,,,,New York,NY,10033,20.00,7/23/2013,Credit Card,OTHER,Metrocard
 2013,5,1621,P,Cardona,Ralina,M,H,"Colon, Federico",IND,,,,Dumont,NJ,07628,P,10,,,R0000579,Store,OTHR,,,,,,,7.25,6/17/2013,Cash,OTHER,Supplies
@@ -2992,6 +3291,10 @@
 2013,5,1621,P,Cardona,Ralina,M,H,"Colon, Federico",IND,,,,Dumont,NJ,07628,P,11,,,R0000582,CIPRIAN Car & Limo Corp.,CORP,,,,New York,NY,10037,15.00,8/20/2013,Cash,OTHER,Taxi
 2013,5,1621,P,Cardona,Ralina,M,H,"Colon, Federico",IND,,,,Dumont,NJ,07628,P,11,,,R0000583,RavePCS,OTHR,,,,New York,NY,10029,36.00,8/21/2013,Cash,OTHER,Phone Bill
 2013,5,1621,P,Cardona,Ralina,M,H,"Colon, Federico",IND,,,,Dumont,NJ,07628,P,11,,,R0000584,CFSC The Check Cashing Place,OTHR,,,,New York,NY,10029,30.00,8/12/2013,Cash,OTHER,Metrocard
+2013,5,1621,P,Cardona,Ralina,M,H,"Colon, Federico",IND,,,,Dumont,NJ,07628,P,12,,,R0000801,El Barrios 24 Hour Car Service,EMPO,,,,,,,13.00,8/30/2013,Cash,OTHER,Taxi
+2013,5,1621,P,Cardona,Ralina,M,H,"Colon, Federico",IND,,,,Dumont,NJ,07628,P,12,,,R0000802,CFSC The Check Cashing Place,OTHR,,,,New York,NY,10029,30.00,8/28/2013,Cash,OTHER,Metrocard
+2013,5,1621,P,Cardona,Ralina,M,H,"Colon, Federico",IND,,,,Dumont,NJ,07628,P,12,,,R0000803,CFSC The Check Cashing Place,OTHR,,,,New York,NY,10029,30.00,8/26/2013,Cash,OTHER,Metrocard
+2013,5,1621,P,Cardona,Ralina,M,H,"Colon, Federico",IND,,,,Dumont,NJ,07628,P,12,,,R0000804,MTA NYC Transit,OTHR,,,,New York,NY,10033,10.00,8/8/2013,Cash,OTHER,Metrocard
 2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,10,,,R0000563,Unknown Vendor,OTHR,,,,,,,17.70,6/1/2013,Cash,OTHER,Cleaning Supplies
 2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,10,,,R0000564,Unknown Vendor,OTHR,,,,,,,33.50,5/31/2013,Cash,OTHER,Paper Plates
 2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,10,,,R0000565,Fine Fare Supermarkets,OTHR,,,,New York,NY,10029,197.79,8/5/2013,Cash,OTHER,Food
@@ -3002,6 +3305,11 @@
 2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,11,,,R0000575,First Ave Express Deli,OTHR,,,,New York,NY,10035,8.00,8/10/2013,Credit Card,OTHER,Food
 2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,11,,,R0000576,Dollar Glory Inc.,CORP,,,,New York,NY,10035,2.26,8/9/2013,Cash,OTHER,lunch
 2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,11,,,R0000587,Wei Heng $.99 & Up,OTHR,,,,New York,NY,10035,1.08,8/9/2013,Cash,OTHER,Supplies
+2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,12,,,R0000805,El Barrios 24 Hour Car Service,EMPO,,,,,,,30.00,8/21/2013,Cash,WAGES,Taxi
+2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,12,,,R0000806,Staples,CORP,,,,Bronx,NY,10451,65.33,8/25/2013,Credit Card,WAGES,Supplies
+2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,12,,,R0001500,BP,CORP,,,,New York,NY,10035,30.00,9/10/2013,Cash,OTHER,Gas
+2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,12,,,R0001502,El Barrios 24 Hour Car Service,EMPO,,,,,,,22.00,9/9/2013,Cash,OTHER,Taxi
+2013,5,1621,P,Cardona,Ralina,M,H,"Onativia, Manuel",IND,,,,New York,NY,10029,P,12,,,R0001503,Alliance Energy,OTHR,,,,New York,NY,10029,30.00,9/10/2013,Cash,OTHER,Gas
 2013,5,1625,NP,Lopez-Pierre,Thomas,,H,"Lopez-Pierre, Thomas",CAN,,,,New York,NY,10025,P,6,,,R0000073,"Lopez-Pierre, Thomas",CAN,,,,New York,NY,10025,7.38,11/19/2012,Cash,OTHER,Office Supplies
 2013,5,1625,NP,Lopez-Pierre,Thomas,,H,"Lopez-Pierre, Thomas",CAN,,,,New York,NY,10025,P,6,,,R0000075,"Lopez-Pierre, Regine",FAM,,,,New York,NY,10025,90.88,12/17/2012,Credit Card,FUNDR,Fundraising Event
 2013,5,1625,NP,Lopez-Pierre,Thomas,,H,"Lopez-Pierre, Thomas",CAN,,,,New York,NY,10025,P,6,,,R0000076,"Lopez-Pierre, Thomas",CAN,,,,New York,NY,10025,222.42,11/12/2012,Cash,FUNDR,Fundraising Event
@@ -3143,15 +3451,20 @@
 2013,5,1649,P,Humphreys,Tamika,L,H,"Humphreys, Tamika L",CAN,,,,New York,NY,10035,P,8,,,R0000155,Nationbuilder,CORP,,,,Los Angeles,CA,90013,163.00,3/18/2013,Credit Card,FUNDR,WEBSITE
 2013,5,1649,P,Humphreys,Tamika,L,H,"MAPP, MONISHA",IND,,,,New York,NY,10035,P,8,,,R0000081,JERSEY CITY BUY RITE,CORP,,,,,,07310,28.86,3/15/2013,Credit Card,FUNDR,DRINKS FOR BRUNCH
 2013,5,1649,P,Humphreys,Tamika,L,H,"MAPP, MONISHA",IND,,,,New York,NY,10035,P,8,,,R0000090,PATHMARK,CORP,,,,New York,NY,10035,26.63,3/16/2013,Credit Card,FUNDR,FOOD FOR BRUNCH
+2013,5,1650,P,Hartzog,Edward,A,H,"Grannis, Ainslie D",IND,,,,New York,NY,10128,P,12,,,R0000993,Gristedes,CORP,,,,New York,NY,10028,27.65,9/10/2013,Credit Card,OTHER,food for poll worker
 2013,5,1650,P,Hartzog,Edward,A,H,"Hartzog, Edward A",CAN,,,,New York,NY,10021,P,11,,,R0000910,Staples,CORP,,,,New York,NY,10007,32.18,8/2/2013,Cash,OTHER,district map
 2013,5,1650,P,Hartzog,Edward,A,H,"Hartzog, Edward A",CAN,,,,New York,NY,10021,P,11,,,R0000911,Staples,CORP,,,,New York,NY,10007,6.52,8/3/2013,Cash,OTHER,district map
 2013,5,1650,P,Hartzog,Edward,A,H,"Hartzog, Edward A",CAN,,,,New York,NY,10021,P,11,,,R0000912,Staples,CORP,,,,New York,NY,10007,10.31,8/14/2013,Cash,OTHER,district map
 2013,5,1650,P,Hartzog,Edward,A,H,"King, Jeremy",IND,,,,New York,NY,10033,P,11,,,R0000914,Board of Elections - NYC,OTHR,,,,New York,NY,10004,30.00,8/2/2013,Cash,OTHER,district map
+2013,5,1650,P,Hartzog,Edward,A,H,"King, Jeremy",IND,,,,New York,NY,10033,P,12,,,R0000985,NYC Taxi and Limousine,OTHR,,,,New York,NY,10004,8.00,9/10/2013,Credit Card,OTHER,taxi
+2013,5,1650,P,Hartzog,Edward,A,H,"King, Jeremy",IND,,,,New York,NY,10033,P,12,,,R0000986,NYC Taxi and Limousine,OTHR,,,,New York,NY,10004,6.12,9/10/2013,Credit Card,OTHER,taxi
+2013,5,1650,P,Hartzog,Edward,A,H,"Lally, David",IND,,,,New York,NY,10021,P,12,,,R0000990,Arturo's Pizza,CORP,,,,New York,NY,10028,20.00,9/10/2013,Cash,OTHER,delivery tip
 2013,5,1650,P,Hartzog,Edward,A,H,"Rich, Liz",IND,,,,New York,NY,10028,P,10,,,R0000829,NYC Taxi and Limousine,OTHR,,,,New York,NY,10004,25.80,2/27/2013,Other,OTHER,meet & greet expense
 2013,5,1650,P,Hartzog,Edward,A,H,"Rich, Liz",IND,,,,New York,NY,10028,P,10,,,R0000830,CostCo,CORP,,,,New York,NY,10035,206.06,2/27/2013,Other,OTHER,meet & greet expense
 2013,5,1650,P,Hartzog,Edward,A,H,"Rich, Liz",IND,,,,New York,NY,10028,P,10,,,R0000831,"Bar, Attendant",IND,,,,,,,100.00,2/27/2013,Other,OTHER,meet & greet expense
 2013,5,1650,P,Hartzog,Edward,A,H,"Wertz, Cheryl",IND,,,,Brooklyn,NY,11215,P,11,,,R0000841,NYC Taxi and Limousine,OTHR,,,,New York,NY,10004,42.00,8/8/2013,Credit Card,OTHER,taxi
 2013,5,1650,P,Hartzog,Edward,A,H,"Wertz, Cheryl",IND,,,,Brooklyn,NY,11215,P,11,,,R0000843,Eastern Luxury Car & Limo Serv,CORP,,,,Brooklyn,NY,11215,42.00,8/8/2013,Credit Card,OTHER,taxi
+2013,5,1650,P,Hartzog,Edward,A,H,"Wertz, Cheryl",IND,,,,Brooklyn,NY,11215,P,12,,,R0000988,NYC Taxi and Limousine,OTHR,,,,New York,NY,10004,22.80,9/10/2013,Credit Card,OTHER,taxi
 2013,5,1660,NP,Keeling,Cheryl,,H,Staples,OTHR,,,,Bronx,NY,10463,P,11,,,R0000149,US Federal District Court SDNY,OTHR,,,,New York,NY,10005,400.00,8/15/2013,Credit Card,PETIT,OSC re Challenge
 2013,5,1660,NP,Keeling,Cheryl,,H,Staples,OTHR,,,,Bronx,NY,10463,P,11,,,R0000150,Staples,OTHR,,,,Bronx,NY,10463,31.56,8/13/2013,Credit Card,PETIT,Copies Court papers.
 2013,5,1663,P,Winslow,Christina,,H,"ROBINSON, KAREN",IND,,,,Jamaica,NY,11433,P,9,,,R0000151,"ROBINSON, KAREN",IND,,,,Jamaica,NY,11433,35.93,6/28/2013,Cash,OFFCE,OFFICE SUPPLIES
@@ -3168,11 +3481,17 @@
 2013,5,1671,P,Muhammed,Naaimat,,H,"Russel, Susan",IND,,,,New York,NY,10034,P,11,,,R0000834,Staples,CORP,,,,New York,NY,10011,31.62,8/15/2013,Other,OTHER,Court case process
 2013,5,1671,P,Muhammed,Naaimat,,H,"Russel, Susan",IND,,,,New York,NY,10034,P,11,,,R0000836,PayPal,CORP,,,,,,,75.00,8/14/2013,Credit Card,OTHER,Court processing
 2013,5,1671,P,Muhammed,Naaimat,,H,"Russel, Susan",IND,,,,New York,NY,10034,P,11,,,R0000837,PayPal,CORP,,,,,,,125.00,8/19/2013,Credit Card,OTHER,Court processing
+2013,5,1675,P,Ramadan,Zead,,H,"Blanco, Larry G",IND,,,,New York,NY,10031,P,12,,,R0001411,"Blanco, Larry G",IND,,,,New York,NY,10031,20.00,4/16/2013,Cash,OTHER,Internet Service
+2013,5,1675,P,Ramadan,Zead,,H,"Miller, Rasul",IND,,,,New York,NY,10030,P,12,,,R0001412,"Miller, Rasul",IND,,,,New York,NY,10030,20.00,3/13/2013,Credit Card,OTHER,Transportation
 2013,5,1675,P,Ramadan,Zead,,H,"Searles, Fitzroy",IND,,,,,,,P,10,,,R0001363,"Searles, Fitzroy",IND,,,,,,,197.22,4/19/2013,Credit Card,OFFCE,Wireless Internet
 2013,5,1675,P,Ramadan,Zead,,H,"Searles, Fitzroy",IND,,,,,,,P,10,,,R0001365,"Searles, Fitzroy",IND,,,,,,,49.99,5/21/2013,Credit Card,OFFCE,Internet Service
 2013,5,1675,P,Ramadan,Zead,,H,"Searles, Fitzroy",IND,,,,,,,P,10,,,R0001367,"Searles, Fitzroy",IND,,,,,,,28.84,6/25/2013,Credit Card,OFFCE,Photocopying
 2013,5,1675,P,Ramadan,Zead,,H,"Searles, Fitzroy",IND,,,,,,,P,10,,,R0001369,"Searles, Fitzroy",IND,,,,,,,16.75,7/3/2013,Credit Card,OFFCE,Photocopying
 2013,5,1675,P,Ramadan,Zead,,H,"Searles, Fitzroy",IND,,,,,,,P,11,,,R0001370,"Searles, Fitzroy",IND,,,,,,,50.00,8/16/2013,Credit Card,OTHER,Car Service
+2013,5,1675,P,Ramadan,Zead,,H,"Searles, Fitzroy",IND,,,,,,,P,12,,,R0001409,"Searles, Fitzroy",IND,,,,,,,18.00,4/14/2013,Cash,OTHER,Car Service
+2013,5,1675,P,Ramadan,Zead,,H,"Searles, Fitzroy",IND,,,,,,,P,12,,,R0001410,"Searles, Fitzroy",IND,,,,,,,28.00,5/30/2013,Cash,OTHER,Car Service
+2013,5,1682,P,Rajkumar,Jenifer,,H,"Hassan, Alana",IND,,,,New York,NY,10012,P,12,,,R0000946,Metropolitan Transit Authority,CORP,,,,New York,NY,10017,15.00,8/27/2013,Cash,OTHER,Metrocards
+2013,5,1682,P,Rajkumar,Jenifer,,H,"Hassan, Alana",IND,,,,New York,NY,10012,P,12,,,R0001000,Metropolitan Transit Authority,CORP,,,,New York,NY,10017,17.50,9/5/2013,Cash,OTHER,Metrocards
 2013,5,1682,P,Rajkumar,Jenifer,,H,"Johnston, Darren",IND,,,,Brooklyn,NY,11218,P,9,,,R0000672,FedEx,CORP,,,,Memphis,TN,38120,3059.21,6/16/2013,Credit Card,LITER,Copying at Fed EX
 2013,5,1682,P,Rajkumar,Jenifer,,H,"Johnston, Darren",IND,,,,Brooklyn,NY,11218,P,9,,,R0000673,Nationbuilder,CORP,,,,Los Angeles,CA,90013,57.00,6/3/2013,Credit Card,OTHER,Data Base Fee
 2013,5,1684,P,Alvarez,Albert,,H,"Alvarez, Albert",CAN,,,,Bronx,NY,10460,P,10,,,R0000742,Michaels (pelham),CORP,,,,Pelham Manor,NY,10803,21.45,7/27/2013,Cash,OTHER,Easy Image Light
@@ -3220,6 +3539,7 @@
 2013,5,1684,P,Alvarez,Albert,,H,"Alvarez, Albert",CAN,,,,Bronx,NY,10460,P,9,,,R0000731,Comp and Save.Com,CORP,,,,Newark,CA,94560,82.26,3/17/2013,Cash,OFFCE,Ink Cartridges
 2013,5,1684,P,Alvarez,Albert,,H,"Alvarez, Albert",CAN,,,,Bronx,NY,10460,P,9,,,R0000732,Comp and Save.Com,CORP,,,,Newark,CA,94560,175.77,4/12/2013,Cash,OFFCE,Ink Cartridges
 2013,5,1684,P,Alvarez,Albert,,H,"Sanchez, Janet",IND,,,,Bronx,NY,10452,P,10,,,R0000743,BJ'S Wholesale Club,CORP,,,,Pelham Manor,NY,10803,105.58,7/27/2013,Cash,OTHER,Refreshments for Vol
+2013,5,1684,P,Alvarez,Albert,,H,"Sanchez, Janet",IND,,,,Bronx,NY,10452,P,12,,,R0001382,USPS - West Farms Station,CORP,,,,Bronx,NY,10460,1.66,8/30/2013,Cash,POSTA,Mail
 2013,5,1684,P,Alvarez,Albert,,H,"Sanchez, Janet",IND,,,,Bronx,NY,10452,P,7,,,R0000361,1$Zone,CORP,,,,Yonkers,NY,,65.00,2/28/2013,Cash,FUNDR,Balloons
 2013,5,1684,P,Alvarez,Albert,,H,"Sanchez, Janet",IND,,,,Bronx,NY,10452,P,7,,,R0000363,Party City,CORP,,,,Bronx,NY,10475,34.96,2/27/2013,Cash,FUNDR,Decorations
 2013,5,1684,P,Alvarez,Albert,,H,"Sanchez, Janet",IND,,,,Bronx,NY,10452,P,7,,,R0000365,Michaels,CORP,,,,Hartsdale,NY,10530,11.39,3/2/2013,Cash,FUNDR,Decorations
@@ -3240,6 +3560,8 @@
 2013,5,1686,P,Pierson,Stephen,E,H,"Greenberg, David",IND,,,,Brooklyn,NY,11220,P,8,,,R0000262,eFax,CORP,,,,Los Angeles,CA,90028,26.95,4/13/2013,Credit Card,OFFCE,Online fax service
 2013,5,1686,P,Pierson,Stephen,E,H,"Pierson, Stephen E",CAN,,,,Brooklyn,NY,11201,P,8,,,R0000259,Radio Shack,CORP,,,,Brooklyn,NY,11201,63.67,4/19/2013,Credit Card,OTHER,Event Amplification
 2013,5,1687,P,Del Rio,Richard,,H,"Curry, Stephanie D",IND,,,,Bronx,NY,10466,P,8,,,R0000407,Staples,CORP,,,,New York,NY,10003,43.54,4/17/2013,Credit Card,OFFCE,Security Screen
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Arlene",SPO,,,,New York,NY,10002,P,12,,,R0002078,Home Depot,CORP,,,,Brooklyn,NY,,163.31,9/3/2013,Check,OTHER,material poll sites
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Arlene",SPO,,,,New York,NY,10002,P,12,,,R0002104,BP,CORP,,,,Yonkers,NY,10704,97.52,9/11/2013,Credit Card,WAGES,Gas for Campaign car
 2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Arlene",SPO,,,,New York,NY,10002,P,8,,,R0000196,US Post Office,OTHR,,,,New York,NY,10009,9.20,3/12/2013,Cash,OFFCE,Stamps
 2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Arlene",SPO,,,,New York,NY,10002,P,8,,,R0000339,Staples,CORP,,,,New York,NY,10003,42.93,4/11/2013,Cash,OFFCE,Office Supplies
 2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,10,,,R0001146,Yankee Two Deli Inc.,CORP,,,,New York,NY,10009,37.00,7/23/2013,Cash,WAGES,lunch for staff
@@ -3271,6 +3593,16 @@
 2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,11,,,R0001348,Sunoco,CORP,,,,Brooklyn,NY,11222,74.00,8/19/2013,Credit Card,WAGES,Gas for SUB
 2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,11,,,R0001413,Shell Gas,CORP,,,,Secaucus,NJ,07094,63.85,7/13/2013,Credit Card,OFFCE,Gas for SUB
 2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,11,,,R0001425,Sunoco,CORP,,,,Brooklyn,NY,11222,74.00,8/25/2013,Credit Card,PETIT,Gas for SUB
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,12,,,R0001477,Taxi Cab,CORP,,,,NYC,NY,,13.50,8/22/2013,Cash,WAGES,Travel Fee
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,12,,,R0001643,Rite Aid,CORP,,,,New York,NY,10009,10.31,9/7/2013,Cash,OFFCE,office supplies
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,12,,,R0001915,Taxi Cab,CORP,,,,NYC,NY,,16.50,9/9/2013,Credit Card,WAGES,Meeting at BOE
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,12,,,R0001917,CHP Hardware,CORP,,,,New York,NY,10009,24.48,2/25/2013,Credit Card,OFFCE,Rebuilding Supplies
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,12,,,R0002082,NY State Bridge Authority,CORP,,,,Catskill,NY,12414,1.50,9/9/2013,Cash,WAGES,Travel
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,12,,,R0002084,NY State Thruway Authority,CORP,,,,Albany,NY,12201,1.25,9/9/2013,Cash,WAGES,Travel
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,12,,,R0002086,NY State Thruway Authority,CORP,,,,Albany,NY,12201,1.50,9/9/2013,Cash,WAGES,Travel
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,12,,,R0002092,Dallas BBQ,CORP,,,,New York,NY,10003,128.89,9/8/2013,Credit Card,WAGES,staff meeting
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,12,,,R0002099,Gruppo,CORP,,,,New York,NY,10009,52.26,9/12/2013,Credit Card,WAGES,Food for Meeting
+2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,12,,,R0002101,Lowes Home Center,CORP,,,,Brooklyn,NY,11215,82.14,9/6/2013,Credit Card,PETIT,Supplies for  Stand
 2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,7,,,R0000062,Lowes Home Center,CORP,,,,Brooklyn,NY,11215,9.06,2/18/2013,Credit Card,OFFCE,Construction
 2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,7,,,R0000064,H. Brickman & Sons,CORP,,,,New York,NY,10003,8.51,2/28/2013,Credit Card,OFFCE,Construction
 2013,5,1687,P,Del Rio,Richard,,H,"Del Rio, Richard",CAN,,,,New York,NY,10002,P,7,,,R0000065,H. Brickman & Sons,CORP,,,,New York,NY,10003,27.43,2/18/2013,Credit Card,OFFCE,Construction
@@ -3303,6 +3635,7 @@
 2013,5,1687,P,Del Rio,Richard,,H,"Estrella, Susanna",IND,,,,New York,NY,10013,P,10,,,R0001149,Food Emporium,CORP,,,,New York,NY,10013,27.24,7/18/2013,Other,OTHER,Bkfast/taping crew
 2013,5,1687,P,Del Rio,Richard,,H,"Estrella, Susanna",IND,,,,New York,NY,10013,P,10,,,R0001152,MTA,CORP,,,,NY,NY,,113.00,7/26/2013,Credit Card,OTHER,Metrocard/month
 2013,5,1687,P,Del Rio,Richard,,H,"Estrella, Susanna",IND,,,,New York,NY,10013,P,9,,,R0000614,Fei Ma,CORP,,,,New York,NY,10009,27.50,5/28/2013,Cash,WAGES,Food
+2013,5,1687,P,Del Rio,Richard,,H,"Hernandez, David",IND,,,,New York,NY,10009,P,12,,,R0001641,NYC DOT,CORP,,,,Brooklyn,NY,11232,3.50,8/21/2013,Cash,PETIT,Meter Ticket for SUB
 2013,5,1687,P,Del Rio,Richard,,H,"Hubbard, Vince K",IND,,,,New York,NY,10003,P,11,,,R0001416,M. R. M. Auto Major Car Repair,CORP,,,,New York,NY,10003,20.00,7/29/2013,Cash,OFFCE,Repairing SUB
 2013,5,1687,P,Del Rio,Richard,,H,"Hubbard, Vince K",IND,,,,New York,NY,10003,P,11,,,R0001417,M. R. M. Auto Major Car Repair,CORP,,,,New York,NY,10003,20.00,7/29/2013,Cash,OFFCE,Repairing SUB
 2013,5,1687,P,Del Rio,Richard,,H,"Hubbard, Vince K",IND,,,,New York,NY,10003,P,11,,,R0001418,M. R. M. Auto Major Car Repair,CORP,,,,New York,NY,10003,20.00,7/29/2013,Cash,OFFCE,Repairing SUB
@@ -3317,14 +3650,21 @@
 2013,5,1687,P,Del Rio,Richard,,H,"Jimenez, Roland",IND,,,,Brentwood,NY,11717,P,9,,,R0000897,Long Island Rail Road,CORP,,,,,,,22.50,7/5/2013,Credit Card,WAGES,Travel
 2013,5,1687,P,Del Rio,Richard,,H,"Jimenez, Roland",IND,,,,Brentwood,NY,11717,P,9,,,R0000930,Long Island Rail Road,CORP,,,,,,,22.50,7/9/2013,Credit Card,WAGES,Travel
 2013,5,1687,P,Del Rio,Richard,,H,"Jimenez, Roland",IND,,,,Brentwood,NY,11717,P,9,,,R0001013,Long Island Rail Road,CORP,,,,,,,22.50,7/11/2013,Credit Card,WAGES,Travel
+2013,5,1687,P,Del Rio,Richard,,H,"Mercado, Heriberto",IND,,,,New York,NY,10002,P,12,,,R0001889,Exxonmobil,CORP,,,,New York,NY,10001,42.00,9/10/2013,Credit Card,OTHER,Gas for camp.car
+2013,5,1687,P,Del Rio,Richard,,H,"Mercedes, Yvette",IND,,,,New York,NY,10002,P,12,,,R0002106,Rite Aid,CORP,,,,New York,NY,10009,26.89,9/10/2013,Credit Card,WAGES,Water/Snacks
 2013,5,1687,P,Del Rio,Richard,,H,"Mercedes, Yvette",IND,,,,New York,NY,10002,P,8,,,R0000336,79 Ave. C. C. Corp,CORP,,,,New York,NY,10009,9.52,4/9/2013,Cash,WAGES,Transportation
 2013,5,1687,P,Del Rio,Richard,,H,"Miller, Daniel",IND,,,,New York,NY,10009,P,10,,,R0001150,E & S Mini Wholesome,CORP,,,,New York,NY,10009,66.13,7/18/2013,Credit Card,OTHER,lunch/film crew
 2013,5,1687,P,Del Rio,Richard,,H,"Miller, Daniel",IND,,,,New York,NY,10009,P,11,,,R0001409,Taxi Cab,CORP,,,,NYC,NY,,9.50,8/26/2013,Credit Card,WAGES,Travel to Meeting
 2013,5,1687,P,Del Rio,Richard,,H,"Miller, Daniel",IND,,,,New York,NY,10009,P,11,,,R0001411,Taxi Cab,CORP,,,,NYC,NY,,9.00,8/26/2013,Credit Card,WAGES,travel from meeting
+2013,5,1687,P,Del Rio,Richard,,H,"Miller, Daniel",IND,,,,New York,NY,10009,P,12,,,R0002096,McDonalds,CORP,,,,New York,NY,10007,12.38,9/10/2013,Credit Card,WAGES,Lunch for worker
+2013,5,1688,P,Santos,Edward,N,H,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0001042,Board of Elections,OTHR,,,,New York,NY,10004,30.00,6/3/2013,Cash,OTHER,District Map
+2013,5,1688,P,Santos,Edward,N,H,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0001043,USPS,OTHR,,,,New York,NY,10029,92.00,5/30/2013,Credit Card,POSTA,Stamps
+2013,5,1688,P,Santos,Edward,N,H,"Stevens, Tyrone",IND,,,,Bronx,NY,10467,P,12,,,R0001044,Staples,LLC,,,,,,,101.97,6/3/2013,Credit Card,OFFCE,"Pens, sticky notes"
 2013,5,1691,P,Tillard,Conrad,,H,"Johnson, Gene A",IND,,,,Brooklyn,NY,11210,P,10,,,R0000586,NYC Bd of Elections,OTHR,,,,,,,0.25,7/12/2013,Cash,PETIT,Copies
 2013,5,1691,P,Tillard,Conrad,,H,"Johnson, Gene A",IND,,,,Brooklyn,NY,11210,P,8,,,R0000303,FedEx,OTHR,,,,Brooklyn,NY,11241,23.75,3/6/2013,Credit Card,OFFCE,Shipping Fees
 2013,5,1691,P,Tillard,Conrad,,H,"Johnson, Gene A",IND,,,,Brooklyn,NY,11210,P,9,,,R0000553,NYC Bd of Elections,OTHR,,,,,,,30.00,6/5/2013,Cash,PETIT,District Map
 2013,5,1691,P,Tillard,Conrad,,H,"Owens, Christopher",IND,,,,Brooklyn,NY,11217,P,9,,,R0000516,Staples Inc.,OTHR,,,,Brooklyn,NY,11234,116.92,3/17/2013,Cash,LITER,Signs
+2013,5,1691,P,Tillard,Conrad,,H,"Reid, Asquith",IND,,,,Brooklyn,NY,11236,P,12,,,R0000820,NYC Bd of Elections,OTHR,,,,,,,50.00,9/7/2013,Cash,OTHER,Maps & Books
 2013,5,1691,P,Tillard,Conrad,,H,"Tillard, Conrad B",CAN,,,,Brooklyn,NY,11233,P,11,,,R0000659,"Dulan - Wilson, Gloria",IND,,,,Philadelphia,PA,19119,250.00,8/9/2013,Cash,CONSL,Payment on Contract
 2013,5,1691,P,Tillard,Conrad,,H,"Tillard, Conrad B",CAN,,,,Brooklyn,NY,11233,P,8,,,R0000306,USPS,OTHR,,,,Brooklyn,NY,11233,62.00,3/11/2013,Cash,OFFCE,Mailbox Service
 2013,5,1691,P,Tillard,Conrad,,H,"Tillard, Tamecca",IND,,,,Brooklyn,NY,11233,P,10,,,R0000590,AR James Media NY,OTHR,,,,Allentown,NJ,08501,1350.00,6/12/2013,Credit Card,PRINT,Billboards
@@ -3355,7 +3695,15 @@
 2013,5,1699,P,Mancuso,John,,H,"Mancuso, John",FAM,,,,Staten Island,NY,10314,P,11,,,R0000818,Lowe's,CORP,,,,Staten Island,NY,10302,8.08,5/22/2013,Cash,OTHER,lawn sign stakes
 2013,5,1699,P,Mancuso,John,,H,"Mancuso, John",FAM,,,,Staten Island,NY,10314,P,11,,,R0000819,Lowe's,CORP,,,,Staten Island,NY,10302,69.08,5/17/2013,Credit Card,OTHER,lawn sign stakes
 2013,5,1699,P,Mancuso,John,,H,"Mancuso, John",FAM,,,,Staten Island,NY,10314,P,11,,,R0000821,Lowe's,CORP,,,,Staten Island,NY,10302,62.03,6/1/2013,Credit Card,OTHER,lawn sign items
+2013,5,1699,P,Mancuso,John,,H,"Popolo, Nick",IND,,,,Staten Island,NY,10312,P,12,,,R0000892,Staples,CORP,,,,Staten Island,NY,10306,4.36,8/29/2013,Credit Card,OFFCE,glue sticks
+2013,5,1699,P,Mancuso,John,,H,"Popolo, Nick",IND,,,,Staten Island,NY,10312,P,12,,,R0000900,AT&T Store,CORP,,,,New York,NY,10007,21.78,8/28/2013,Credit Card,OTHER,prepaid phone
+2013,5,1699,P,Mancuso,John,,H,"Popolo, Nick",IND,,,,Staten Island,NY,10312,P,12,,,R0000901,AT&T Store,CORP,,,,New York,NY,10007,21.78,8/28/2013,Credit Card,OTHER,prepaid phone
+2013,5,1699,P,Mancuso,John,,H,"Popolo, Nick",IND,,,,Staten Island,NY,10312,P,12,,,R0000902,AT&T Store,CORP,,,,New York,NY,10007,21.78,8/28/2013,Credit Card,OTHER,prepaid phone
+2013,5,1699,P,Mancuso,John,,H,"Rassi, Christopher",IND,,,,Staten Island,NY,10304,P,12,,,R0000891,Staples,CORP,,,,Staten Island,NY,10306,14.14,8/29/2013,Credit Card,OFFCE,thumb drive
 2013,5,1703,P,Miller,I. Daneek,,H,Alexander Hamilton,OTHR,,,,Jamaica,NY,11432,P,11,,,R0001286,JTS LLC,OTHR,,,,Jamaica,NY,11434,19.05,8/22/2013,Cash,OTHER,Repayment
+2013,5,1703,P,Miller,I. Daneek,,H,"Williams, Diamellia",IND,,,,Jamaica,NY,11433,P,12,,,R0001475,KeyFood Supermarket,OTHR,,,,Saint Albans,NY,11412,36.31,9/8/2013,Credit Card,OTHER,Water/Sanitory
+2013,5,1703,P,Miller,I. Daneek,,H,"Williams, Diamellia",IND,,,,Jamaica,NY,11433,P,12,,,R0001478,Deal 99,OTHR,,,,Jamaica,NY,11433,2.16,9/9/2013,Cash,OFFCE,Supplies
+2013,5,1703,P,Miller,I. Daneek,,H,"Williams, Diamellia",IND,,,,Jamaica,NY,11433,P,12,,,R0001479,NY Fried Chicken,OTHR,,,,Jamaica,NY,11434,24.82,9/7/2013,Cash,OTHER,Food for Canvassers
 2013,5,1704,P,Oberman,Igor,,H,"Fricchione, Michael",IND,,,,Flushing,NY,11354,P,10,,,R0000781,Staples - Coney Island,CORP,,,,Brooklyn,NY,11230,33.04,7/18/2013,Check,OFFCE,paper
 2013,5,1704,P,Oberman,Igor,,H,"Fricchione, Michael",IND,,,,Flushing,NY,11354,P,9,,,R0000754,MetroPCS - Wirelss,CORP,,,,Brooklyn,NY,11229,623.96,7/11/2013,Credit Card,OFFCE,reimbursement
 2013,5,1705,P,Wright,Byron,J,H,"Wright, Byron J",CAN,,,,Brooklyn,NY,11216,P,8,,,R0000179,brooklyn liquors,OTHR,,,,Brooklyn,NY,11232,25.30,5/11/2013,Cash,FUNDR,added to petty cash
@@ -3364,6 +3712,9 @@
 2013,5,1706,P,Caughman,Manuel,,H,"Baker, Preston",IND,,,,Jamaica,NY,11434,P,11,,,R0001367,Dunkin Donuts,CORP,,,,Queens Village,NY,11429,16.44,7/8/2013,Credit Card,OTHER,Food
 2013,5,1706,P,Caughman,Manuel,,H,"Baker, Preston",IND,,,,Jamaica,NY,11434,P,11,,,R0001369,Walgreens,CORP,,,,Queens Village,NY,11429,10.15,7/6/2013,Credit Card,OTHER,Food
 2013,5,1706,P,Caughman,Manuel,,H,"Baker, Preston",IND,,,,Jamaica,NY,11434,P,11,,,R0001371,99 Cents Savings,CORP,,,,Saint Albans,NY,11412,22.26,8/2/2013,Credit Card,OTHER,Misc Supplies
+2013,5,1706,P,Caughman,Manuel,,H,"Baker, Preston",IND,,,,Jamaica,NY,11434,P,12,,,R0001782,ThunderPower Megaphones,CORP,,,,Harbor City,CA,90710,219.58,9/4/2013,Credit Card,OTHER,GOTV
+2013,5,1706,P,Caughman,Manuel,,H,"Baker, Preston",IND,,,,Jamaica,NY,11434,P,12,,,R0001785,Facebook Inc.,CORP,,,,Menlo Park,CA,94025,34.55,9/5/2013,Credit Card,PRINT,marketing
+2013,5,1706,P,Caughman,Manuel,,H,"Baker, Preston",IND,,,,Jamaica,NY,11434,P,12,,,R0001787,Facebook Inc.,CORP,,,,Menlo Park,CA,94025,29.84,9/7/2013,Credit Card,PRINT,marketing
 2013,5,1707,P,Gibson,Vanessa,L,H,"Asamoah, Margaret",IND,,,,Bronx,NY,10452,P,11,,,R0001171,Sheridan Market,OTHR,,,,Bronx,NY,10451,30.92,8/12/2013,Cash,OTHER,food/volunteer
 2013,5,1707,P,Gibson,Vanessa,L,H,"Asamoah, Margaret",IND,,,,Bronx,NY,10452,P,11,,,R0001172,Sheridan Market,OTHR,,,,Bronx,NY,10451,33.64,8/13/2013,Credit Card,OTHER,food/volunteer
 2013,5,1707,P,Gibson,Vanessa,L,H,"Catala, Venancio",IND,,,,Bronx,NY,10456,P,10,,,R0000970,Court Deli,CORP,,,,Bronx,NY,10451,28.75,7/28/2013,Cash,OTHER,food/after hrs
@@ -3373,6 +3724,18 @@
 2013,5,1707,P,Gibson,Vanessa,L,H,"Catala, Venancio",IND,,,,Bronx,NY,10456,P,10,,,R0000976,Tiny's Pizza & Pasta,OTHR,,,,Bronx,NY,10456,36.75,8/3/2013,Cash,WAGES,food/beverage
 2013,5,1707,P,Gibson,Vanessa,L,H,"Catala, Venancio",IND,,,,Bronx,NY,10456,P,10,,,R0000977,Crown Diner,OTHR,,,,Bronx,NY,10451,9.75,8/2/2013,Cash,OTHER,food/beverage
 2013,5,1707,P,Gibson,Vanessa,L,H,"Catala, Venancio",IND,,,,Bronx,NY,10456,P,10,,,R0000978,Crown Diner,OTHR,,,,Bronx,NY,10451,30.00,8/3/2013,Cash,OTHER,food bevarage
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001354,"Staples, Inc.",CORP,,,,,,,114.30,8/9/2013,Credit Card,OFFCE,office supplies
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001355,"Staples, Inc.",CORP,,,,,,,3.00,8/9/2013,Credit Card,OTHER,parking
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001358,"Staples, Inc.",CORP,,,,,,,5.46,8/10/2013,Credit Card,OFFCE,fax/copies
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001359,"Staples, Inc.",CORP,,,,,,,29.20,7/10/2013,Credit Card,OFFCE,compliance
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001360,"Staples, Inc.",CORP,,,,,,,21.66,8/2/2013,Credit Card,OFFCE,computer
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001364,"Staples, Inc.",CORP,,,,,,,15.21,8/2/2013,Credit Card,OFFCE,computer/copy
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001365,"Staples, Inc.",CORP,,,,,,,52.26,8/2/2013,Credit Card,OFFCE,scan/copy
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001366,Bronx Terminal Market,OTHR,,,,,,,15.00,8/2/2013,Credit Card,OTHER,parking
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001370,Best Buy,OTHR,,,,Bronx,NY,10451,146.28,7/12/2013,Credit Card,OFFCE,radar
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001371,"Staples, Inc.",CORP,,,,,,,32.50,7/31/2013,Credit Card,OFFCE,scan/copy
+2013,5,1707,P,Gibson,Vanessa,L,H,"De La Cruz, Karina",IND,,,,White Plains,NY,10607,P,12,,,R0001373,Norton Software,OTHR,,,,,,,93.60,7/18/2013,Credit Card,OFFCE,computer software
+2013,5,1707,P,Gibson,Vanessa,L,H,"White, Lucille",IND,,,,Bronx,NY,10453,P,12,,,R0001326,"Frankie's Carnival Time, Inc.",OTHR,,,,Bronx,NY,10465,200.00,8/1/2013,Check,FUNDR,meet and greet
 2013,5,1709,P,Thompkins,Cynthia,,H,"Thompkins, Cynthia L",CAN,,,,Bronx,NY,10458,P,12,,,R0000558,Yankee Tavern,CORP,,,,Bronx,NY,10451,210.00,3/15/2013,Credit Card,FUNDR,Fundraiser
 2013,5,1710,P,Torres,Ritchie,,H,"Lynch, J R",IND,,,,Bronx,NY,10465,P,7,,,R0000563,Throggs Neck Post Office,CORP,,,,Bronx,NY,10465,14.10,1/30/2013,Credit Card,POSTA,Postage
 2013,5,1710,P,Torres,Ritchie,,H,"Lynch, J R",IND,,,,Bronx,NY,10465,P,7,,,R0000564,Throggs Neck Post Office,CORP,,,,Bronx,NY,10465,14.10,2/2/2013,Credit Card,POSTA,Postage
@@ -3404,6 +3767,7 @@
 2013,5,1713,P,Maisel,Alan,,H,"Markh, Leonid",IND,,,,Brooklyn,NY,11229,P,12,,,R0001144,Staples,OTHR,,,,,,,11.20,9/4/2013,Credit Card,OFFCE,supplies
 2013,5,1713,P,Maisel,Alan,,H,"Weisberg, Alan",IND,,,,Brooklyn,NY,11234,P,8,,,R0000718,Banner Smoked Fish Inc.,CORP,,,,Brooklyn,NY,11224,241.50,3/17/2013,Cash,FUNDR,food/bev
 2013,5,1713,P,Maisel,Alan,,H,"Yudkevich, Mariya",IND,,,,Brooklyn,NY,11229,P,12,,,R0001140,USPS,OTHR,,,,,,,46.00,9/5/2013,Credit Card,POSTA,postage
+2013,5,1715,P,Estrella,Miguel,,H,"Guerra, Jairo T",IND,,,,Bronx,NY,10452,P,12,,,R0000407,"Guerra, Jairo T",IND,,,,Bronx,NY,10452,9.95,9/3/2013,Credit Card,POSTA,Forms sent to NYSBOE
 2013,5,1718,P,Hurley,Frank,R,H,"Clarke, Kevin",IND,,,,Brooklyn,NY,11225,P,10,,,R0000449,Urban Active Wear,CORP,,,,New York,NY,10001,492.00,7/19/2013,Cash,LITER,Printing t-shirts
 2013,5,1719,P,Treyger,Mark,,H,"Chung, Terry M",IND,,,,Brooklyn,NY,11234,P,9,,,R0000974,Staples,OTHR,,,,Brooklyn,NY,11223,117.33,6/25/2013,Credit Card,CMAIL,Labels
 2013,5,1719,P,Treyger,Mark,,H,"Lipton, Paul S",IND,,,,Brooklyn,NY,11223,P,9,,,R0000926,Board of Elections,OTHR,,,,Brooklyn,NY,11201,115.00,5/28/2013,Check,OTHER,2013 BOE Book
@@ -3416,6 +3780,10 @@
 2013,5,1732,P,Hahn,Sunny,,H,"Garmise, Stuart",IND,,,,Flushing,NY,11355,P,8,,,R0000043,GQ Printing,OTHR,,,,Flushing,NY,11355,15.00,4/15/2013,Cash,OFFCE,Benk Deposit Stamp
 2013,5,1732,P,Hahn,Sunny,,H,"Garmise, Stuart",IND,,,,Flushing,NY,11355,P,8,,,R0000044,Walgreens,CORP,,,,Flushing,NY,11355,5.43,4/21/2013,Credit Card,OFFCE,Office Expense: Pape
 2013,5,1732,P,Hahn,Sunny,,H,"Garmise, Stuart",IND,,,,Flushing,NY,11355,P,8,,,R0000045,Walgreens,CORP,,,,Flushing,NY,11355,26.09,4/21/2013,Credit Card,OFFCE,Office: Batteries
+2013,5,1735,P,Lopez,Vito,J,H,"CRAFT, LORAYNE",IND,,,,Brooklyn,NY,11206,P,12,,,R0001054,KEY FOOD 600,CORP,,,,Brooklyn,NY,11211,20.06,8/14/2013,Cash,OFFCE,COFFEE KLATCH FOOD
+2013,5,1735,P,Lopez,Vito,J,H,"CRAFT, LORAYNE",IND,,,,Brooklyn,NY,11206,P,12,,,R0001056,FOOD BAZAAR,CORP,,,,Brooklyn,NY,11206,55.11,8/14/2013,Cash,OFFCE,COFFEE KLATCH FOOD
+2013,5,1735,P,Lopez,Vito,J,H,"Marte, Andy",IND,,,,Ridgewood,NY,11385,P,12,,,R0000995,Staples,CORP,,,,Maspeth,NY,11378,171.21,8/16/2013,Credit Card,CMAIL,copies
+2013,5,1735,P,Lopez,Vito,J,H,"Marte, Andy",IND,,,,Ridgewood,NY,11385,P,12,,,R0001079,Cell Nation Inc.,CORP,,,,Brooklyn,NY,11237,178.00,9/7/2013,Cash,OFFCE,Phone Bill
 2013,5,1735,P,Lopez,Vito,J,H,"ROQUE, ANNETTE",IND,,,,Richmond Hill,NY,11418,P,8,,,R0000257,Staples,CORP,,,,Maspeth,NY,11378,454.24,4/6/2013,Credit Card,FUNDR,Mailing Supplies
 2013,5,1735,P,Lopez,Vito,J,H,"ROQUE, ANNETTE",IND,,,,Richmond Hill,NY,11418,P,8,,,R0000258,Wyckoff Heights Station,OTHR,,,,Brooklyn,NY,11237,184.00,4/6/2013,Credit Card,FUNDR,Postage
 2013,5,1735,P,Lopez,Vito,J,H,"VIERA, MARIA",IND,,,,Brooklyn,NY,11249,P,8,,,R0000711,KEY FOOD STORE #1690,CORP,,,,Brooklyn,NY,11237,100.00,4/29/2013,Credit Card,FUNDR,FOOD
@@ -3433,6 +3801,9 @@
 2013,5,1746,P,Mays,Gregory,,H,"Mays, Luberta",FAM,,,,Jamaica,NY,11434,P,11,,,R0000826,RCL Enterprises,CORP,,,,,,,593.36,8/16/2013,Credit Card,OTHER,Food for Fundraiser
 2013,5,1747,P,Voskerichian,Chrissy,,H,"DeLuca, Roberto",IND,,,,Glen Cove,NY,11542,P,11,,,R0000857,iStockphoto LP,LLC,,,,"Calgary, Canada",,T2G,94.99,8/26/2013,Credit Card,LITER,Stock Photo 4 Design
 2013,5,1747,P,Voskerichian,Chrissy,,H,"DeLuca, Roberto",IND,,,,Glen Cove,NY,11542,P,11,,,R0000859,iStockphoto LP,LLC,,,,"Calgary, Canada",,T2G,49.99,8/19/2013,Credit Card,LITER,Stock Photo 4 Design
+2013,5,1747,P,Voskerichian,Chrissy,,H,"Mulvey, John",IND,,,,College Point,NY,11356,P,12,,,R0000963,Facebook Inc.,CORP,,,,Menlo Park,CA,94025,10.00,8/31/2013,Credit Card,OTHER,Online Advertisement
+2013,5,1747,P,Voskerichian,Chrissy,,H,"Mulvey, John",IND,,,,College Point,NY,11356,P,12,,,R0001099,Hover,CORP,,,,"Toronto, Canada",,M6K,18.00,4/7/2013,Credit Card,PROFL,Website Domain
+2013,5,1747,P,Voskerichian,Chrissy,,H,"Mulvey, John",IND,,,,College Point,NY,11356,P,12,,,R0001100,Hover,CORP,,,,"Toronto, Canada",,M6K,13.50,4/28/2013,Credit Card,PROFL,Website Domain
 2013,5,1761,P,Yeh,Hank,C,H,"Wang, Julia",IND,,,,College Point,NY,11356,P,9,,,R0000041,US Postal Services,CORP,,,,College Point,NY,11356,18.73,5/10/2013,Cash,POSTA,Mailing
 2013,5,1767,P,Daniel,Kathleen,,H,"Daniel, Kathleen",CAN,,,,Brooklyn,NY,11221,P,10,,,R0000531,NationBuilder,OTHR,,,,Los Angeles,CA,90013,98.00,7/19/2013,Credit Card,PROFL,Website
 2013,5,1767,P,Daniel,Kathleen,,H,"Daniel, Kathleen",CAN,,,,Brooklyn,NY,11221,P,11,,,R0000650,NationBuilder,OTHR,,,,Los Angeles,CA,90013,149.00,8/19/2013,Credit Card,OTHER,website
@@ -3443,6 +3814,9 @@
 2013,5,1767,P,Daniel,Kathleen,,H,"Daniel, Kathleen",CAN,,,,Brooklyn,NY,11221,P,9,,,R0000112,Simplicity Wine Bar & Cafe,CORP,,,,Brooklyn,NY,11233,48.99,6/26/2013,Cash,OTHER,catering
 2013,5,1767,P,Daniel,Kathleen,,H,"Daniel, Kathleen",CAN,,,,Brooklyn,NY,11221,P,9,,,R0000139,China New Star,CORP,,,,Brooklyn,NY,11234,78.00,5/15/2013,Credit Card,OTHER,catering
 2013,5,1767,P,Daniel,Kathleen,,H,"Daniel, Kathleen",CAN,,,,Brooklyn,NY,11221,P,9,,,R0000141,Staples,CORP,,,,Brooklyn,NY,11234,174.42,6/29/2013,Credit Card,LITER,general literature
+2013,5,1772,P,Gonzalez,Christina,E,H,"Gonzalez, Samantha",IND,,,,Far Rockaway,NY,11693,P,12,,,R0000085,Positive Printers,PART,,,,Queens Village,NY,11429,100.00,7/23/2013,Cash,LITER,Leaflets
+2013,5,1772,P,Gonzalez,Christina,E,H,"Swaye, Matthew I",SPO,,,,New York,NY,10031,P,12,,,R0000086,Positive Printers,PART,,,,Queens Village,NY,11429,100.00,9/4/2013,Cash,LITER,Leaflets
+2013,5,1773,P,Edie,Lenford,,H,"Watt-Tyndale, Selva",IND,,,,Bronx,NY,10466,P,12,,,R0000361,CVS/Pharmacy,CORP,,,,Bronx,NY,10467,22.85,7/11/2013,Cash,OFFCE,USB Flashdrive
 2013,5,1775,P,Hayon,Joseph,,H,"ROSENFELD, FRANCES J.",IND,,,,,,,P,9,,,R0000110,"ROSENFELD, FRANCES J.",IND,,,,,,,10.43,7/10/2013,Cash,OFFCE,SUPPLIES
 2013,5,1777,P,Sasscer-Burgos,David,S,H,"Sasscer-Burgos, David S",CAN,,,,New York,NY,10025,P,9,,,R0000100,BOE in the City of New York,OTHR,,,,New York,NY,10004,45.00,6/5/2013,Cash,OTHER,Voter List Hardcopy
 2013,5,1777,P,Sasscer-Burgos,David,S,H,"Sasscer-Burgos, David S",CAN,,,,New York,NY,10025,P,9,,,R0000101,BOE in the City of New York,OTHR,,,,New York,NY,10004,50.00,6/7/2013,Cash,OTHER,Voter List CD
@@ -3530,11 +3904,13 @@
 2013,5,227,P,Lancman,Rory,I,H,"Lancman, Rory I",CAN,,,,Hillcrest,NY,11366,P,6,,,R0000455,Staples,OTHR,,,,Bellerose,NY,11426,675.76,11/27/2012,Check,FUNDR,Invitation Mailing
 2013,5,227,P,Lancman,Rory,I,H,"Lancman, Rory I",CAN,,,,Hillcrest,NY,11366,P,6,,,R0000494,NGP VAN,OTHR,,,,Washington,DC,20005,750.00,12/7/2012,Credit Card,OTHER,NGP VAN
 2013,5,227,P,Lancman,Rory,I,H,"Lancman, Rory I",CAN,,,,Hillcrest,NY,11366,P,6,,,R0000508,JBlast,OTHR,,,,,,,45.00,11/21/2012,Credit Card,FUNDR,Fax Invite
+2013,5,227,P,Lancman,Rory,I,H,"Najmi, Ali",IND,,,,Glen Oaks,NY,11004,P,12,,,R0001085,King Kabob,CORP,,,,Jamaica,NY,11432,87.10,9/10/2013,Credit Card,OTHER,Food
 2013,5,227,P,Lancman,Rory,I,H,"Panakal, Dominic",IND,,,,Glen Oaks,NY,11004,P,6,,,R0000456,Staples,OTHR,,,,Bellerose,NY,11426,400.00,11/27/2012,Check,FUNDR,Invitation Mailing
 2013,5,227,P,Lancman,Rory,I,H,"Sarkissian, Masis",IND,,,,Woodside,NY,11377,P,6,,,R0000506,JBlast,OTHR,,,,,,,25.00,11/21/2012,Credit Card,FUNDR,Fax Invite
 2013,5,227,P,Lancman,Rory,I,H,"Sarkissian, Masis",IND,,,,Woodside,NY,11377,P,8,,,R0000787,Board of Elections in NYC,OTHR,,,,New York,NY,10004,7.00,5/6/2013,Cash,OTHER,Campaign Data
 2013,5,227,P,Lancman,Rory,I,H,"Sarkissian, Masis",IND,,,,Woodside,NY,11377,P,9,,,R0000867,Board of Elections in NYC,OTHR,,,,New York,NY,10004,30.00,5/30/2013,Cash,OTHER,District Map
 2013,5,227,P,Lancman,Rory,I,H,"Sarkissian, Masis",IND,,,,Woodside,NY,11377,P,9,,,R0000870,True Value - Hillside,CORP,,,,Jamaica,NY,11432,9.25,6/10/2013,Cash,OTHER,Visibility
+2013,5,227,P,Lancman,Rory,I,H,"Uddin, Maf",IND,,,,Jamaica,NY,11432,P,12,,,R0001087,King Kabob,CORP,,,,Jamaica,NY,11432,34.00,9/10/2013,Cash,OTHER,Food
 2013,5,292,P,Rose,Deborah,,L,"Brown-Grey, Selina",IND,,,,Staten Island,NY,10304,P,9,,,R0002364,STAPLES,CORP,,,,Staten Island,NY,10305,105.50,7/8/2013,Check,OFFCE,OFFICE SUPPLIES
 2013,5,292,P,Rose,Deborah,,L,"Brown-Grey, Selina",IND,,,,Staten Island,NY,10304,P,9,,,R0002365,DL DISTRIBUTORS INC.,CORP,,,,Staten Island,NY,10305,15.41,7/8/2013,Check,OFFCE,OFFICE SUPPLIES
 2013,5,292,P,Rose,Deborah,,L,"Rose, Deborah",CAN,,,,Staten Island,NY,10301,P,6,,,R0001922,"Rose, Deborah",CAN,,,,Staten Island,NY,10301,2000.00,9/7/2012,Credit Card,OTHER,Democratic Nation Co
@@ -3542,9 +3918,13 @@
 2013,5,311,P,Levine,Mark,D,J,"Barrie, Cullen M",IND,,,,New York,NY,10031,P,9,,,R0001293,Beacon Wines & Spirits,CORP,,,,New York,NY,10023,211.41,5/19/2013,Credit Card,FUNDR,Wine for fundraiser
 2013,5,311,P,Levine,Mark,D,J,"Barrie, Cullen M",IND,,,,New York,NY,10031,P,9,,,R0001295,Duane Reade,CORP,,,,New York,NY,10023,25.69,5/19/2013,Credit Card,FUNDR,Supplies for fundrai
 2013,5,311,P,Levine,Mark,D,J,"Gantcher, Rebecca",IND,,,,New York,NY,10025,P,11,,,R0002135,NYC Taxi,CORP,,,,,,,16.70,7/8/2013,Credit Card,PETIT,Transportation
+2013,5,311,P,Levine,Mark,D,J,"Gantcher, Rebecca",IND,,,,New York,NY,10025,P,12,,,R0002240,Subway,CORP,,,,New York,NY,10031,47.75,8/29/2013,Credit Card,OTHER,Lunch to Event
+2013,5,311,P,Levine,Mark,D,J,"Gantcher, Rebecca",IND,,,,New York,NY,10025,P,12,,,R0002241,Duane Reade,CORP,,,,New York,NY,10023,8.58,9/8/2013,Credit Card,WAGES,Snacks for Office
+2013,5,311,P,Levine,Mark,D,J,"Gantcher, Rebecca",IND,,,,New York,NY,10025,P,12,,,R0002243,922 Deli & Grill,CORP,,,,New York,NY,10025,3.00,9/8/2013,Cash,WAGES,Ice for Office Coole
 2013,5,311,P,Levine,Mark,D,J,"Keefe, Aya",IND,,,,New York,NY,10034,P,10,,,R0001590,Staples,CORP,,,,New York,NY,10024,67.79,7/20/2013,Credit Card,OFFCE,Paper
 2013,5,311,P,Levine,Mark,D,J,"Keefe, Aya",IND,,,,New York,NY,10034,P,11,,,R0001988,Staples,CORP,,,,New York,NY,10024,47.89,8/17/2013,Credit Card,OFFCE,Case of Paper
 2013,5,311,P,Levine,Mark,D,J,"Leiken, Jessie",IND,,,,Brooklyn,NY,11201,P,11,,,R0001979,MTA Vending Machines,CORP,,,,New York,NY,10004,112.00,8/18/2013,Credit Card,WAGES,MetroCard
+2013,5,311,P,Levine,Mark,D,J,"Levenson, Sebastian",IND,,,,,,,P,12,,,R0002246,NYC Taxi,CORP,,,,,,,9.50,9/7/2013,Cash,OTHER,Taxi Fare
 2013,5,311,P,Levine,Mark,D,J,"Lorris Ritter, Elizabeth",IND,,,,New York,NY,10033,P,6,,,R0000619,Costco Wholesale,CORP,,,,New York,NY,10035,109.03,12/19/2012,Credit Card,FUNDR,Food for fundraiser
 2013,5,311,P,Levine,Mark,D,J,"Max, Lynn",IND,,,,New York,NY,10025,P,9,,,R0001284,Best Copy & Shipping,CORP,,,,New York,NY,10025,18.30,5/15/2013,Credit Card,CMAIL,Photocopying
 2013,5,311,P,Levine,Mark,D,J,"Max, Lynn",IND,,,,New York,NY,10025,P,9,,,R0001285,Staples,CORP,,,,New York,NY,10024,16.33,5/14/2013,Credit Card,CMAIL,Envelopes
@@ -3580,6 +3960,10 @@
 2013,5,436,P,Saffran,Dennis,J,I,Trager Kevy & Trager LLP,OTHR,,,,Mineola,NY,11501,P,11,,,R0000961,US Postal Service,OTHR,,,,Mineola,NY,11501,0.46,8/19/2013,Other,POSTA,mail refund check
 2013,5,436,P,Saffran,Dennis,J,I,Trager Kevy & Trager LLP,OTHR,,,,Mineola,NY,11501,P,11,,,R0000962,US Postal Service,OTHR,,,,Mineola,NY,11501,0.46,8/26/2013,Other,POSTA,mail rent check
 2013,5,436,P,Saffran,Dennis,J,I,Trager Kevy & Trager LLP,OTHR,,,,Mineola,NY,11501,P,11,,,R0000963,US Postal Service,OTHR,,,,Mineola,NY,11501,0.46,8/26/2013,Other,POSTA,mail bill payment
+2013,5,436,P,Saffran,Dennis,J,I,Trager Kevy & Trager LLP,OTHR,,,,Mineola,NY,11501,P,12,,,R0001119,US Postal Service,OTHR,,,,Mineola,NY,11501,0.46,9/16/2013,Other,POSTA,Postage
+2013,5,436,P,Saffran,Dennis,J,I,Trager Kevy & Trager LLP,OTHR,,,,Mineola,NY,11501,P,12,,,R0001120,US Postal Service,OTHR,,,,Mineola,NY,11501,0.46,9/4/2013,Other,POSTA,Postage
+2013,5,436,P,Saffran,Dennis,J,I,Trager Kevy & Trager LLP,OTHR,,,,Mineola,NY,11501,P,12,,,R0001121,US Postal Service,OTHR,,,,Mineola,NY,11501,0.46,8/30/2013,Other,POSTA,Postage
+2013,5,436,P,Saffran,Dennis,J,I,Trager Kevy & Trager LLP,OTHR,,,,Mineola,NY,11501,P,12,,,R0001122,FedEx Corp,OTHR,,,,Memphis,TN,38120,15.26,8/29/2013,Other,POSTA,Overnight Shipping
 2013,5,436,P,Saffran,Dennis,J,I,Trager Kevy & Trager LLP,OTHR,,,,Mineola,NY,11501,P,9,,,R0000600,FedEx Corp,OTHR,,,,Memphis,TN,38120,130.62,7/11/2013,Check,POSTA,shipping
 2013,5,436,P,Saffran,Dennis,J,I,Trager Kevy & Trager LLP,OTHR,,,,Mineola,NY,11501,P,9,,,R0000601,US Postal Service,OTHR,,,,Mineola,NY,11501,2.76,7/11/2013,Check,POSTA,shipping
 2013,5,492,P,Kann,Gerald,F,L,Access Internet Cafe,OTHR,,,,Astoria,NY,11103,P,10,,,R0000020,Access Internet Cafe,OTHR,,,,Astoria,NY,11103,7.00,7/15/2013,Cash,OTHER,Computer time
@@ -3598,6 +3982,7 @@
 2013,5,530,P,Crowley,Elizabeth,S,N,"Crowley, Elizabeth",CAN,,,,Ridgewood,NY,11385,P,1,,,R0000255,"Crowley, Elizabeth",CAN,,,,Ridgewood,NY,11385,36.71,5/13/2010,Credit Card,FUNDR,invite production
 2013,5,530,P,Crowley,Elizabeth,S,N,"Crowley, Elizabeth",CAN,,,,Ridgewood,NY,11385,P,1,,,R0000257,"Crowley, Elizabeth",CAN,,,,Ridgewood,NY,11385,44.00,5/13/2010,Credit Card,FUNDR,stamps
 2013,5,530,P,Crowley,Elizabeth,S,N,"Crowley, Elizabeth",CAN,,,,Ridgewood,NY,11385,P,2,,,R0000316,"Crowley, Elizabeth",CAN,,,,Ridgewood,NY,11385,113.18,8/10/2010,Check,OTHER,thank you cards
+2013,5,530,P,Crowley,Elizabeth,S,N,"Farias, Amanda",IND,,,,Bronx,NY,10472,P,12,,,R0001684,123 Locksmith,CORP,,,,Jamaica,NY,11432,150.00,8/24/2013,Cash,OFFCE,Locks
 2013,5,530,P,Crowley,Elizabeth,S,N,"McDermott, Moira",IND,,,,Douglaston,NY,11363,P,9,,,R0001589,NYC Board of Elections,OTHR,,,,New York,NY,10004,60.00,5/30/2013,Cash,OTHER,District Map
 2013,5,530,P,Crowley,Elizabeth,S,N,"Mooney, Katherine",IND,,,,Richmond Hill,NY,11418,P,4,,,R0000862,Target,CORP,,,,Brooklyn,NY,11239,87.06,11/29/2011,Credit Card,OTHER,Glendale Tree Lights
 2013,5,530,P,Crowley,Elizabeth,S,N,"Paprocki, Roman",IND,,,,New York,NY,10026,P,9,,,R0001618,Costco,CORP,,,,New York,NY,10035,33.96,6/13/2013,Credit Card,OTHER,Interfaith Breakfast
@@ -3633,6 +4018,16 @@
 2013,5,721,NP,Garodnick,Daniel,R,J,"Garodnick, Daniel R",CAN,,,,New York,NY,10010,P,8,,,R0007150,The Clock Bar,CORP,,,,Bronx,NY,10455,41.84,3/20/2013,Credit Card,OTHER,political dinner
 2013,5,721,NP,Garodnick,Daniel,R,J,"Garodnick, Daniel R",CAN,,,,New York,NY,10010,P,8,,,R0007151,Le Pain Quotidien,CORP,,,,New York,NY,10017,10.39,3/27/2013,Credit Card,OTHER,political coffee
 2013,5,721,NP,Garodnick,Daniel,R,J,"Garodnick, Daniel R",CAN,,,,New York,NY,10010,P,8,,,R0007152,Dark Horse,CORP,,,,New York,NY,10007,60.18,4/9/2013,Credit Card,OTHER,political dinner
+2013,5,743,P,Mark-Viverito,Melissa,,K,"Dixon, Carmen",IND,,,,New York,NY,10030,P,12,,,R0002684,ALDI Store,CORP,,,,New York,NY,10029,22.80,8/7/2013,Credit Card,OFFCE,office snacks
+2013,5,743,P,Mark-Viverito,Melissa,,K,"Dixon, Carmen",IND,,,,New York,NY,10030,P,12,,,R0002685,ALDI Store,CORP,,,,New York,NY,10029,23.81,8/16/2013,Credit Card,OFFCE,water & snacks
+2013,5,743,P,Mark-Viverito,Melissa,,K,"Dixon, Carmen",IND,,,,New York,NY,10030,P,12,,,R0002686,ALDI Store,CORP,,,,New York,NY,10029,15.85,8/16/2013,Credit Card,OFFCE,water & snacks
+2013,5,756,P,Giovinazzo,Lisa,E,I,"Aversa, Frank P",IND,,,,Staten Island,NY,10312,P,12,,,R0000900,"DeMauro, Mark",IND,,,,Staten Island,NY,10312,100.00,9/6/2013,Cash,OFFCE,add'l phone wiring
+2013,5,756,P,Giovinazzo,Lisa,E,I,"Aversa, Frank P",IND,,,,Staten Island,NY,10312,P,12,,,R0000901,Staples,CORP,,,,Staten Island,NY,10302,101.62,9/8/2013,Credit Card,OFFCE,Expandable files
+2013,5,756,P,Giovinazzo,Lisa,E,I,"Aversa, Frank P",IND,,,,Staten Island,NY,10312,P,12,,,R0000902,Restaurant on the Plaza Pizzar,CORP,,,,Staten Island,NY,10306,24.00,9/7/2013,Cash,OTHER,volunteer food
+2013,5,756,P,Giovinazzo,Lisa,E,I,"Aversa, Frank P",IND,,,,Staten Island,NY,10312,P,12,,,R0000903,Restaurant on the Plaza Pizzar,CORP,,,,Staten Island,NY,10306,20.00,9/9/2013,Cash,OTHER,volunteer food
+2013,5,756,P,Giovinazzo,Lisa,E,I,"Scamardella, Robert",IND,,,,Staten Island,NY,10301,P,12,,,R0000896,Michael's,CORP,,,,Bayonne,NJ,07002,34.73,9/8/2013,Cash,OFFCE,hole punchers
+2013,5,756,P,Giovinazzo,Lisa,E,I,"Scamardella, Robert",IND,,,,Staten Island,NY,10301,P,12,,,R0000897,Staples,CORP,,,,Staten Island,NY,10302,54.43,9/8/2013,Credit Card,OFFCE,paper
+2013,5,756,P,Giovinazzo,Lisa,E,I,"Scamardella, Robert",IND,,,,Staten Island,NY,10301,P,12,,,R0000898,Port Authority of NY & NJ,CORP,,,,Jersey City,NJ,07302,13.00,9/8/2013,Cash,OFFCE,toll
 2013,5,767,P,Palma,Annabel,,L,"PALMA, ANNABEL",CAN,,,,Bronx,NY,10462,P,6,,,R0000184,A&A VARIETY DISCOUNT,OTHR,,,,Bronx,NY,10462,3.03,1/10/2013,Cash,FUNDR,CUPS
 2013,5,767,P,Palma,Annabel,,L,"PALMA, ANNABEL",CAN,,,,Bronx,NY,10462,P,6,,,R0000185,PREMIUM SWEETS,OTHR,,,,Bronx,NY,10462,37.00,1/10/2013,Credit Card,FUNDR,FOOD
 2013,5,767,P,Palma,Annabel,,L,"PALMA, ANNABEL",CAN,,,,Bronx,NY,10462,P,6,,,R0000186,KEY FOOD,OTHR,,,,Bronx,NY,10462,19.00,1/10/2013,Credit Card,FUNDR,FOOD
@@ -3684,6 +4079,15 @@
 2013,5,821,P,Vacca,James,,J,"Signorile, Vito",IND,,,,Bronx,NY,10461,P,5,,,R0003371,Captain's Pizzeria,CORP,,,,Bronx,NY,10461,79.26,5/19/2012,Cash,OTHER,Pizza
 2013,5,821,P,Vacca,James,,J,Staples,OTHR,,,,New York,NY,10022,P,2,,,R0001905,"Marks, Lester",IND,,,,New City,NY,10956,27.98,7/13/2010,Credit Card,POSTA,POSTAGE
 2013,5,821,P,Vacca,James,,J,US Post Office Westchester Sq,OTHR,,,,Bronx,NY,10461,P,2,,,R0001903,"Marks, Lester",IND,,,,New City,NY,10956,132.00,7/17/2010,Credit Card,POSTA,POSTAGE
+2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,12,,,R0003725,Havana Cafe,CORP,,,,Bronx,NY,10461,385.70,7/3/2013,Credit Card,OTHER,Lunch for Volunteers
+2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,12,,,R0003726,Wild Ginger Vegetarian Kitchen,CORP,,,,New York,NY,10013,38.75,7/9/2013,Credit Card,OTHER,pol strategy meal
+2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,12,,,R0003727,Bedford Park Restaurant,CORP,,,,Bronx,NY,10467,51.80,7/12/2013,Credit Card,OTHER,pol strategy meal
+2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,12,,,R0003728,Regional Thai,CORP,,,,New York,NY,10011,82.04,7/20/2013,Credit Card,OTHER,pol strategy meal
+2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,12,,,R0003729,Dunkin Donuts,CORP,,,,Bronx,NY,10467,18.14,8/20/2013,Credit Card,OTHER,coffee for vols
+2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,12,,,R0003730,Dunkin Donuts,CORP,,,,Bronx,NY,10467,18.47,8/21/2013,Credit Card,OTHER,coffee for vols
+2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,12,,,R0003731,Allerton Restaurant,CORP,,,,Bronx,NY,10467,30.15,8/17/2013,Credit Card,OTHER,pol strategy meal
+2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,12,,,R0003732,Liberty Diner,CORP,,,,Bronx,NY,10461,11.50,8/12/2013,Credit Card,OTHER,pol strategy meal
+2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,12,,,R0003733,Muscle Maker Grill,CORP,,,,New York,NY,10007,22.85,8/5/2013,Credit Card,OTHER,pol strategy meal
 2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,5,,,R0003350,Women's Democratic Executive,OTHR,,,,Forest Hills,NY,11375,120.00,3/3/2012,Cash,OTHER,Luncheon Tickets
 2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,6,,,R0003440,East Tremont Diner,CORP,,,,Bronx,NY,10461,28.00,7/19/2012,Credit Card,OTHER,Strategy Lunch
 2013,5,821,P,Vacca,James,,J,"Vacca, James",CAN,,,,Bronx,NY,10465,P,6,,,R0003442,East Tremont Diner,CORP,,,,Bronx,NY,10461,13.25,7/20/2012,Credit Card,OTHER,Strategy Lunch
@@ -3700,6 +4104,7 @@
 2013,5,838,P,Arroyo,Maria,,K,"ARROYO, MARIA DEL CARM",IND,,,,Bronx,NY,10454,P,5,,,R0001257,"ARROYO, MARIA DEL CARM",IND,,,,Bronx,NY,10454,62.19,5/25/2012,Check,OTHER,Dinner Meeting
 2013,5,838,P,Arroyo,Maria,,K,"ARROYO, MARIA DEL CARM",IND,,,,Bronx,NY,10454,P,6,,,R0001550,King Party Center,CORP,,,,Bronx,NY,10455,55.34,12/31/2012,Credit Card,CNTRB,Party Donations
 2013,5,838,P,Arroyo,Maria,,K,"ARROYO, MARIA DEL CARM",IND,,,,Bronx,NY,10454,P,6,,,R0001551,Kopy Diner LLC,CORP,,,,Bronx,NY,10469,60.57,12/29/2012,Credit Card,OTHER,Lunch Meeting
+2013,5,846,P,Mealy,Darlene,,J,"Leefoon, Ursula O",IND,,,,Brooklyn,NY,11213,P,12,,,R0001768,United State Postal Service,CORP,,,,Brooklyn,NY,11207,14.10,8/27/2013,Cash,OTHER,overnight dwelivery
 2013,5,846,P,Mealy,Darlene,,J,"Mealy, Darlene",CAN,,,,Bklyn,NY,11233,P,10,,,R0001631,Staples,CORP,,,,Brooklyn,NY,11239,2510.46,7/25/2013,Credit Card,OFFCE,"computer, printer"
 2013,5,98,P,Chin,Margaret,S,K,"Li, Anna",IND,,,,Elmhurst,NY,11373,P,10,,,R0003904,Board of Elections,CORP,,,,New York,NY,10004,234.00,7/12/2013,Cash,PETIT,petition copies
 2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,10,,,R0003907,The  Home Depot,CORP,,,,Jersey City,NJ,07310,48.77,7/10/2013,Other,RENTO,light bulbs
@@ -3709,6 +4114,28 @@
 2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,10,,,R0003933,Red Pocket Mobile,CORP,,,,Orlando,FL,32824,149.95,7/10/2013,Credit Card,OTHER,purchased 5 cell phs
 2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,10,,,R0003934,Computech International Inc.,CORP,,,,Great Neck,NY,11021,259.48,7/15/2013,Credit Card,OFFCE,printer
 2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,10,,,R0003935,Newegg.com,CORP,,,,Whittier,CA,90601,43.98,7/15/2013,Credit Card,OFFCE,Barcode scanner
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004039,J & R Computer World,CORP,,,,New York,NY,10038,87.09,7/13/2013,Credit Card,OFFCE,1 TB desk tip Drive
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004040,Staples,CORP,,,,New York,NY,10007,71.30,7/17/2013,Cash,OFFCE,Toner
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004041,Rite Aid,CORP,,,,New York,NY,10038,33.16,8/6/2013,Other,OFFCE,cups and soft drinks
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004043,Village Deli,CORP,,,,New York,NY,10002,44.50,8/7/2013,Cash,OTHER,food for volunteers
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004044,Staples,CORP,,,,New York,NY,10007,113.27,8/9/2013,Cash,OFFCE,HP 80A Black Toner
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004045,Rite Aid,CORP,,,,New York,NY,10038,9.77,8/11/2013,Other,OFFCE,Labels
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004046,Rite Aid,CORP,,,,New York,NY,10038,11.20,8/12/2013,Cash,OFFCE,trash bags
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004047,Rite Aid,CORP,,,,New York,NY,10038,19.55,8/12/2013,Other,OFFCE,Labels
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004048,Rite Aid,CORP,,,,New York,NY,10038,31.55,8/12/2013,Other,OFFCE,toilet paper & Towel
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004049,Best Buy,CORP,,,,New York,NY,10003,16.32,8/15/2013,Other,OFFCE,1 Gophone
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004050,Best Buy,CORP,,,,New York,NY,10003,65.28,8/15/2013,Other,OFFCE,4 Gophones
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004051,Board of Elections,CORP,,,,New York,NY,10004,50.00,8/16/2013,Cash,OTHER,updated voter list
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004052,Staples,CORP,,,,New York,NY,10007,113.22,8/16/2013,Cash,OFFCE,HP 80A Black Toner
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004053,FedEx Office,CORP,,,,New York,NY,10007,73.49,8/24/2013,Credit Card,OTHER,printing invitations
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004054,Staples,CORP,,,,New York,NY,10007,191.04,8/27/2013,Credit Card,OFFCE,Toners
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004055,Rite Aid,CORP,,,,New York,NY,10038,9.79,8/27/2013,Cash,OFFCE,toilet paper
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004056,Whole Foods Market,CORP,,,,New York,NY,10002,84.29,8/27/2013,Cash,OTHER,food for reception
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004057,Staples,CORP,,,,New York,NY,10007,113.22,8/29/2013,Cash,OFFCE,HP 80A Black Toner
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004094,Staples,CORP,,,,New York,NY,10007,143.70,9/2/2013,Cash,OFFCE,toner & paper
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004119,Singtao Newspapers NY Ltd,CORP,,,,New York,NY,10013,535.50,9/6/2013,Check,PRINT,newspaper ads
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004120,Sinovision Net,CORP,,,,Flushing,NY,11354,700.00,9/6/2013,Check,TVADS,4 days ads
+2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,12,,,R0004121,US Postal Service-Chinatown,CORP,,,,New York,NY,10002,276.00,9/6/2013,Cash,POSTA,stamps
 2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,8,,,R0003615,Hodges Party Rentals,CORP,,,,Belleville,NJ,07109,85.00,5/4/2013,Cash,OTHER,Podium rental
 2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,8,,,R0003617,Staples,CORP,,,,,,,41.24,5/4/2013,Cash,OFFCE,office supplies
 2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,8,,,R0003648,Rite Aid,CORP,,,,New York,NY,10038,5.43,5/10/2013,Credit Card,OFFCE,light bulbs
@@ -3722,6 +4149,8 @@
 2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,9,,,R0003718,NYC Pk & Recreation Permit off,CORP,,,,New York,NY,10023,25.00,6/26/2013,Cash,OTHER,press conference
 2013,5,98,P,Chin,Margaret,S,K,"Yang, Yuan(Trip)",IND,,,,East Brunswick,NJ,08816,P,9,,,R0003720,NYC Police Dep't-5th Precinct,OTHR,,,,New York,NY,10013,45.00,6/30/2013,Cash,OTHER,sound device permit
 2013,5,GS,P,Koslowitz,Karen,,K,"Croce, Ronnie",IND,,,,Forest Hills,NY,11375,P,6,,,R0001386,Staples,OTHR,,,,Rego Park,NY,11374,56.06,9/30/2012,Credit Card,OFFCE,printer toner
+2013,5,GS,P,Koslowitz,Karen,,K,"Koslowitz, Karen",CAN,,,,Forest Hills,NY,11375,P,12,,,R0001947,Staples,OTHR,,,,Forest Hills,NY,11375,364.66,8/12/2013,Credit Card,OFFCE,printer
+2013,5,GS,P,Koslowitz,Karen,,K,"Koslowitz, Karen",CAN,,,,Forest Hills,NY,11375,P,12,,,R0001986,COSTCO,OTHR,,,,Rego Park,NY,11374,91.50,9/14/2013,Credit Card,FUNDR,stamps
 2013,5,GS,P,Koslowitz,Karen,,K,"Koslowitz, Karen",CAN,,,,Forest Hills,NY,11375,P,4,,,R0001161,Staples,OTHR,,,,Rego Park,NY,11374,102.14,10/12/2011,Credit Card,FUNDR,env & paper stock
 2013,5,GS,P,Koslowitz,Karen,,K,"Koslowitz, Karen",CAN,,,,Forest Hills,NY,11375,P,5,,,R0001357,Staples,OTHR,,,,Rego Park,NY,11374,64.21,6/1/2012,Cash,FUNDR,envelopes
 2013,5,GS,P,Koslowitz,Karen,,K,"Koslowitz, Karen",CAN,,,,Forest Hills,NY,11375,P,5,,,R0001358,United States Postal Authority,OTHR,,,,Forest Hills,NY,11375,135.00,6/1/2012,Cash,FUNDR,300 stamps
