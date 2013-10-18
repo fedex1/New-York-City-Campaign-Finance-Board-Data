@@ -403,6 +403,7 @@
 2013,1,1690,P,Lhota,Joseph,J,H,"FIORE, ROBERT",IND,,,,New York,NY,10010,P,12,,,R0011368,"FIORE, ROBERT",IND,,,,New York,NY,10010,105.08,9/9/2013,Cash,OTHER,TRAVEL
 2013,1,1690,P,Lhota,Joseph,J,H,"FIORE, ROBERT",IND,,,,New York,NY,10010,P,12,,,R0012363,"FIORE, ROBERT",IND,,,,New York,NY,10010,51.00,9/12/2013,Credit Card,OTHER,TRAVEL
 2013,1,1690,P,Lhota,Joseph,J,H,"FIORE, ROBERT",IND,,,,New York,NY,10010,P,13,,,R0012509,"FIORE, ROBERT",IND,,,,New York,NY,10010,54.50,9/22/2013,Credit Card,OTHER,TRAVEL
+2013,1,1690,P,Lhota,Joseph,J,H,"FIORE, ROBERT",IND,,,,New York,NY,10010,P,13,,,R0013764,"FIORE, ROBERT",IND,,,,New York,NY,10010,40.56,9/29/2013,Cash,OTHER,TRAVEL
 2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,10,,,R0007582,"GIBSON, ANDREW",IND,,,,New York,NY,10010,18.75,7/16/2013,Credit Card,OTHER,PARKING
 2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,11,,,R0009314,"GIBSON, ANDREW",IND,,,,New York,NY,10010,5.00,7/29/2013,Cash,OTHER,TRAVEL
 2013,1,1690,P,Lhota,Joseph,J,H,"GIBSON, ANDREW",IND,,,,New York,NY,10010,P,11,,,R0009316,"GIBSON, ANDREW",IND,,,,New York,NY,10010,51.00,8/17/2013,Credit Card,OTHER,TRAVEL
@@ -1170,6 +1171,10 @@
 2013,1,326,P,de Blasio,Bill,,N,"Floyd, Sean",IND,,,,New York,NY,,P,13,,,R0031514,National Reprographics Inc,CORP,,,,New York,NY,10011,84.40,9/6/2013,Credit Card,VOTER,GOTV
 2013,1,326,P,de Blasio,Bill,,N,"Floyd, Sean",IND,,,,New York,NY,,P,13,,,R0031515,Radio Shack,CORP,,,,Brooklyn,NY,11201,43.54,9/7/2013,Credit Card,VOTER,Microphone
 2013,1,326,P,de Blasio,Bill,,N,"Floyd, Sean",IND,,,,New York,NY,,P,13,,,R0031516,Duane Reade,CORP,,,,New York,NY,10016,97.99,9/6/2013,Credit Card,VOTER,Phones
+2013,1,326,P,de Blasio,Bill,,N,"Floyd, Sean",IND,,,,New York,NY,,P,13,,,R0033429,Clear,CORP,,,,Palatine,IL,60055,49.99,9/30/2013,Credit Card,OFFCE,Internet
+2013,1,326,P,de Blasio,Bill,,N,"Floyd, Sean",IND,,,,New York,NY,,P,13,,,R0033430,Clear,CORP,,,,Palatine,IL,60055,49.99,9/30/2013,Credit Card,OFFCE,Internet
+2013,1,326,P,de Blasio,Bill,,N,"Floyd, Sean",IND,,,,New York,NY,,P,13,,,R0033431,Clear,CORP,,,,Palatine,IL,60055,49.99,9/30/2013,Credit Card,OFFCE,Internet
+2013,1,326,P,de Blasio,Bill,,N,"Floyd, Sean",IND,,,,New York,NY,,P,13,,,R0033432,AT & T Mobility,CORP,,,,Atlanta,GA,30353,220.00,9/26/2013,Credit Card,OFFCE,Phones
 2013,1,326,P,de Blasio,Bill,,N,"Foy, Kirsten J",IND,,,,Brooklyn,NY,11221,P,1,,,R0005517,Duane Reade,CORP,,,,New York,NY,10002,69.45,6/11/2010,Credit Card,OTHER,Meeting Supplies
 2013,1,326,P,de Blasio,Bill,,N,"Grybauskas, Stefan",IND,,,,,,,P,6,,,R0016014,Set Mobile Inc,CORP,,,,New York,NY,10036,27.22,12/5/2012,Credit Card,OFFCE,Office Supplies
 2013,1,326,P,de Blasio,Bill,,N,"Gunaratna, Mahen",IND,,,,New Rochelle,NY,10804,P,11,,,R0025954,Fedex,CORP,,,,,,,16.82,8/20/2013,Credit Card,POSTA,postage
@@ -1196,6 +1201,9 @@
 2013,1,326,P,de Blasio,Bill,,N,"Hyers, William",IND,,,,Lexington,KY,40503,P,11,,,R0025877,AT & T Mobility,CORP,,,,Atlanta,GA,30353,26.13,8/8/2013,Credit Card,OFFCE,office phone
 2013,1,326,P,de Blasio,Bill,,N,"Hyers, William",IND,,,,Lexington,KY,40503,P,11,,,R0025889,AT & T Mobility,CORP,,,,Atlanta,GA,30353,26.13,8/8/2013,Credit Card,OFFCE,phones
 2013,1,326,P,de Blasio,Bill,,N,"Hyers, William",IND,,,,Lexington,KY,40503,P,11,,,R0025891,AT & T Mobility,CORP,,,,Atlanta,GA,30353,881.70,8/8/2013,Credit Card,OFFCE,phones
+2013,1,326,P,de Blasio,Bill,,N,"Hyers, William",IND,,,,Lexington,KY,40503,P,13,,,R0033424,Clear,CORP,,,,Palatine,IL,60055,49.99,9/30/2013,Credit Card,OFFCE,Internet
+2013,1,326,P,de Blasio,Bill,,N,"Hyers, William",IND,,,,Lexington,KY,40503,P,13,,,R0033425,Best Buy,CORP,,,,,,,6189.63,9/30/2013,Credit Card,OFFCE,Phones
+2013,1,326,P,de Blasio,Bill,,N,"Hyers, William",IND,,,,Lexington,KY,40503,P,13,,,R0033426,Best Buy,CORP,,,,,,,435.50,9/25/2013,Credit Card,OFFCE,Phones
 2013,1,326,P,de Blasio,Bill,,N,"Hyers, William",IND,,,,Lexington,KY,40503,P,8,,,R0020764,B & H,CORP,,,,New York,NY,10001,2811.42,5/6/2013,Credit Card,OTHER,camera package
 2013,1,326,P,de Blasio,Bill,,N,"Hyers, William",IND,,,,Lexington,KY,40503,P,9,,,R0021663,Red Gravy,CORP,,,,Brooklyn,NY,11201,982.67,6/9/2013,Credit Card,OTHER,event costs
 2013,1,326,P,de Blasio,Bill,,N,"Hyers, William",IND,,,,Lexington,KY,40503,P,9,,,R0021666,Manhattan Permits Office,OTHR,,,,,,,25.00,5/16/2013,Credit Card,OTHER,permit
@@ -1351,6 +1359,8 @@
 2013,1,326,P,de Blasio,Bill,,N,"Motley, Kicy",IND,,,,Brooklyn,NY,11216,P,8,,,R0020729,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,27.16,4/24/2013,Credit Card,OFFCE,office supplies
 2013,1,326,P,de Blasio,Bill,,N,"Motley, Kicy",IND,,,,Brooklyn,NY,11216,P,9,,,R0023140,Carmel Car Service,CORP,,,,,,,92.40,7/7/2013,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Novak, Alison",IND,,,,Brooklyn,NY,11217,P,5,,,R0013428,Paradis,CORP,,,,,,,169.16,5/31/2012,Credit Card,FUNDR,food for event
+2013,1,326,P,de Blasio,Bill,,N,"Offinger, Ross",IND,,,,,,,P,13,,,R0033439,Purity Diner,CORP,,,,Brooklyn,NY,11215,72.40,9/27/2013,Credit Card,FUNDR,Event Costs
+2013,1,326,P,de Blasio,Bill,,N,"Offinger, Ross",IND,,,,,,,P,13,,,R0033440,NYC Taxi & Limosine Commission,CORP,,,,New York,NY,10004,10.50,9/24/2013,Credit Card,FUNDR,Transportation
 2013,1,326,P,de Blasio,Bill,,N,"Padgett, Rachel",IND,,,,Jackson Heights,NY,11372,P,1,,,R0005285,SKNY Realty Corp,CORP,,,,Astoria,NY,11102,600.00,3/12/2010,Check,OFFCE,Broker Fee
 2013,1,326,P,de Blasio,Bill,,N,"Padgett, Rachel",IND,,,,Jackson Heights,NY,11372,P,1,,,R0005288,AM Property II Holding Corp,CORP,,,,New York,NY,10001,432.00,3/22/2010,Check,OFFCE,Rent
 2013,1,326,P,de Blasio,Bill,,N,"Padgett, Rachel",IND,,,,Jackson Heights,NY,11372,P,1,,,R0005291,Brooklyn Bagel,CORP,,,,New York,NY,10001,55.40,4/7/2010,Credit Card,FUNDR,Meeting
@@ -1403,6 +1413,7 @@
 2013,1,326,P,de Blasio,Bill,,N,"Prim, Hayley",IND,,,,Astoria,NY,11102,P,10,,,R0023132,Taxi,CORP,,,,,,,79.17,7/19/2013,Credit Card,OTHER,transportation
 2013,1,326,P,de Blasio,Bill,,N,"Prim, Hayley",IND,,,,Astoria,NY,11102,P,10,,,R0023230,Court Street Office Supply,CORP,,,,Brooklyn,NY,11201,43.54,8/1/2013,Credit Card,OFFCE,Office Supplies
 2013,1,326,P,de Blasio,Bill,,N,"Prim, Hayley",IND,,,,Astoria,NY,11102,P,11,,,R0025967,Xerox,CORP,,,,,,,197.59,8/11/2013,Credit Card,OFFCE,toner
+2013,1,326,P,de Blasio,Bill,,N,"Prim, Hayley",IND,,,,Astoria,NY,11102,P,13,,,R0033443,Con Store Inc,CORP,,,,New York,NY,,13.02,9/22/2013,Cash,FUNDR,Supplies
 2013,1,326,P,de Blasio,Bill,,N,"Prim, Hayley",IND,,,,Astoria,NY,11102,P,6,,,R0014793,Taxi,CORP,,,,,,,20.40,12/12/2012,Credit Card,OTHER,cab to call time
 2013,1,326,P,de Blasio,Bill,,N,"Prim, Hayley",IND,,,,Astoria,NY,11102,P,6,,,R0014794,Taxi,CORP,,,,,,,22.10,12/9/2012,Credit Card,OTHER,cab to call time
 2013,1,326,P,de Blasio,Bill,,N,"Prim, Hayley",IND,,,,Astoria,NY,11102,P,6,,,R0014795,Olympic Car Servie,CORP,,,,Queens,NY,,37.00,12/8/2012,Credit Card,OTHER,cab to call time
@@ -3937,7 +3948,7 @@
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,12,,,R0000259,Staples,CORP,,,,Larchmont,NY,10538,42.94,7/20/2013,Credit Card,OFFCE,Ink supply
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,12,,,R0000278,Poor Richards Promos,CORP,,,,Dickson City,PA,18519,1014.97,8/16/2013,Credit Card,OTHER,Campaign Tote Bags
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,12,,,R0000387,Best Buy,CORP,,,,Mount Vernon,NY,10550,54.18,9/5/2013,Credit Card,OFFCE,Computer Storage
-2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,13,,,R0000461,"TIPRIDE III, INC.",CORP,,,,City Island,NY,10464,800.00,9/25/2013,Credit Card,FUNDR,Bronx Boat Tour
+2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,13,,,R0000461,"RIPTIDE III, INC.",CORP,,,,City Island,NY,10464,800.00,9/25/2013,Credit Card,FUNDR,Bronx Boat Tour
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,13,,,R0000462,Master Graphics NYC,CORP,,,,Bronx,NY,10461,353.85,9/25/2013,Credit Card,LITER,Tri-fold Flyer
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,13,,,R0000463,Master Graphics NYC,CORP,,,,Bronx,NY,10461,353.85,9/24/2013,Credit Card,LITER,Brochure
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,13,,,R0000465,Community Newspaper Group,CORP,,,,Bronx,NY,10465,454.00,9/24/2013,Credit Card,PRINT,Newspaper Ads
