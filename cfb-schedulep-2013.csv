@@ -548,6 +548,8 @@
 2013,1,1757,NP,Person,Carl,E,H,Dreamhost.com,CORP,,,,Brea,CA,92821,P,8,,,R0000037,Dreamhost.com,CORP,,,,Brea,CA,92821,29.85,1/21/2013,Credit Card,LITER,2 domain names
 2013,1,1757,NP,Person,Carl,E,H,Metropolitan Transportation Au,OTHR,,,,New York,NY,10004,P,8,,,R0000038,Metropolitan Transportation Au,OTHR,,,,New York,NY,10004,10.66,4/9/2013,Credit Card,OTHER,RT tolls to Queens
 2013,1,1757,NP,Person,Carl,E,H,NYC Board of Elections,OTHR,,,,New York,NY,10004,P,8,,,R0000039,NYC Board of Elections,OTHR,,,,New York,NY,10004,200.00,1/22/2013,Check,CMAIL,5 boro voter list
+2013,1,1757,NP,Person,Carl,E,H,"Person, Carl E",CAN,,,,New York,NY,10016,P,14,,,R0000097,Taxi & Limousine Commission,OTHR,,,,New York,NY,10004,25.00,10/17/2013,Cash,OTHER,Taxi NY1 appearance
+2013,1,1757,NP,Person,Carl,E,H,"Person, Carl E",CAN,,,,New York,NY,10016,P,14,,,R0000098,Taxi & Limousine Commission,OTHR,,,,New York,NY,10004,20.00,10/17/2013,Cash,OTHER,Taxi return aftr NY1
 2013,1,1757,NP,Person,Carl,E,H,Taxi & Limousine Commission,OTHR,,,,New York,NY,10004,P,8,,,R0000040,Taxi & Limousine Commission,OTHR,,,,New York,NY,10004,46.00,4/11/2013,Cash,CMAIL,taxi pickup LIST
 2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,11,,,R0002961,NYC Taxi,CORP,,,,,,,25.10,8/13/2013,Credit Card,OTHER,Transportation
 2013,1,1796,P,Hidary,Jack,D,H,"Aronhime, Daniel",IND,,,,New York,NY,10025,P,11,,,R0002965,NYC Taxi,CORP,,,,,,,27.00,7/31/2013,Credit Card,OTHER,Transportation
@@ -3955,6 +3957,8 @@
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,13,,,R0000463,Master Graphics NYC,CORP,,,,Bronx,NY,10461,353.85,9/24/2013,Credit Card,LITER,Brochure
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,13,,,R0000465,Community Newspaper Group,CORP,,,,Bronx,NY,10465,454.00,9/24/2013,Credit Card,PRINT,Newspaper Ads
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,13,,,R0000479,Day Care News,CORP,,,,Bronx,NY,10465,1783.00,9/28/2013,Credit Card,PRINT,Newspaper Ads
+2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,14,,,R0000518,Community Newspaper Group,CORP,,,,Bronx,NY,10465,350.00,10/2/2013,Credit Card,PRINT,newspaper Ad
+2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,14,,,R0000523,"RIPTIDE III, INC.",CORP,,,,City Island,NY,10464,5200.00,10/5/2013,Credit Card,FUNDR,Boat Ride
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,8,,,R0000015,FedEX,CORP,,,,New Rochelle,NY,10801,170.42,5/11/2013,Cash,LITER,Printing at FedEX
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,8,,,R0000016,Staples,CORP,,,,Larchmont,NY,10538,383.04,5/11/2013,Cash,OFFCE,Office Supplies
 2013,5,1342,P,Nestler,Walter,G,I,"Nestler, Walter G",CAN,,,,Bronx,NY,10473,P,9,,,R0000087,"J&R Tours, Ltd.",CORP,,,,Mt. Vernon,NY,10550,790.00,5/17/2013,Credit Card,OTHER,Bus Tour of 5/17
@@ -4973,6 +4977,8 @@
 2013,5,311,P,Levine,Mark,D,J,"Max, Lynn",IND,,,,New York,NY,10025,P,9,,,R0001285,Staples,CORP,,,,New York,NY,10024,16.33,5/14/2013,Credit Card,CMAIL,Envelopes
 2013,5,311,P,Levine,Mark,D,J,"Max, Lynn",IND,,,,New York,NY,10025,P,9,,,R0001286,USPS,CORP,,,,New York,NY,10025,110.40,5/14/2013,Credit Card,CMAIL,Stamps
 2013,5,311,P,Levine,Mark,D,J,"Poggi-Krekeler, Jessica",IND,,,,New York,NY,10033,P,9,,,R0001330,Costco Wholesale,CORP,,,,New York,NY,10035,147.69,6/2/2013,Credit Card,OTHER,Food for event
+2013,5,332,P,Simon,Lew,M,J,"Lopez, Melody",IND,,,,Yonkers,NY,10705,P,14,,,R0000814,US Post Office,OTHR,,,,Rockaway Park,NY,11694,165.60,10/11/2013,Credit Card,CMAIL,stamps
+2013,5,332,P,Simon,Lew,M,J,Red Horse Strategies,CORP,,,,Brooklyn,NY,11201,P,14,,,R0000859,US Post Office,OTHR,,,,Rockaway Park,NY,11694,118.01,10/8/2013,Credit Card,CMAIL,postage
 2013,5,332,P,Simon,Lew,M,J,"Sullivan, Kevin",IND,,,,Howard Beach,NY,11414,P,13,,,R0000732,Staples,CORP,,,,Howard Beach,NY,11414,399.53,9/26/2013,Other,OFFCE,Printer
 2013,5,337,P,Van Bramer,James,G,K,"Hendrick, Daniel M",IND,,,,Sunnyside,NY,11104,P,3,,,R0001195,Dell,CORP,,,,,,,445.29,6/24/2011,Credit Card,OFFCE,computer
 2013,5,337,P,Van Bramer,James,G,K,"Hendrick, Daniel M",IND,,,,Sunnyside,NY,11104,P,4,,,R0001601,Manducatis Rustica Vig.,CORP,,,,Long Island City,NY,11101,2000.00,12/23/2011,Credit Card,OTHER,Holiday Reception
