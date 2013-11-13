@@ -4782,21 +4782,21 @@
 2013,5,1691,P,Tillard,Conrad,,H,"Tillard, Conrad B",CAN,,,,Brooklyn,NY,11233,P,8,,,R0000306,USPS,OTHR,,,,Brooklyn,NY,11233,62.00,3/11/2013,Cash,OFFCE,Mailbox Service
 2013,5,1691,P,Tillard,Conrad,,H,"Tillard, Tamecca",IND,,,,Brooklyn,NY,11233,P,10,,,R0000590,AR James Media NY,OTHR,,,,Allentown,NJ,08501,1350.00,6/12/2013,Credit Card,PRINT,Billboards
 2013,5,1693,P,Kellner,Micah,Z,H,"Livingston, Joshua",IND,,,,New York,NY,10065,P,13,,,R0001464,Staples,CORP,,,,New York,NY,10028,201.83,9/6/2013,Credit Card,OTHER,Office Supplies
-2013,5,1694,P,Menchaca,Carlos,,H,"Boyle, Sarah",IND,,,,Brooklyn,NY,11221,P,11,,,R0001399,Duane Reade,CORP,,,,Brooklyn,NY,11201,7.60,8/7/2013,Cash,OFFCE,Envelopes
-2013,5,1694,P,Menchaca,Carlos,,H,"Boyle, Sarah",IND,,,,Brooklyn,NY,11221,P,11,,,R0001401,City Discount 99Cent Store,CORP,,,,Brooklyn,NY,11220,4.21,8/8/2013,Cash,OFFCE,explanation
-2013,5,1694,P,Menchaca,Carlos,,H,"Estrada, David",IND,,,,Brooklyn,NY,11218,P,10,,,R0001409,A1A Wireless of NY Corp,CORP,,,,Brooklyn,NY,11220,1200.00,7/17/2013,Credit Card,OFFCE,12 Cell Phones/Plans
-2013,5,1694,P,Menchaca,Carlos,,H,"Estrada, David",IND,,,,Brooklyn,NY,11218,P,7,,,R0000264,Authorize.net,CORP,,,,American  Fork,UT,84003,173.75,3/1/2013,Credit Card,OFFCE,credit card svcs
-2013,5,1694,P,Menchaca,Carlos,,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,10,,,R0001406,dunkin donuts,CORP,,,,Brooklyn,NY,11231,31.57,8/3/2013,Credit Card,OTHER,volunteer food
-2013,5,1694,P,Menchaca,Carlos,,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,11,,,R0001404,U.S. Post Office,CORP,,,,Brooklyn,NY,11231,198.00,8/6/2013,Credit Card,POSTA,Stamps
-2013,5,1694,P,Menchaca,Carlos,,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,9,,,R0001301,dunkin donuts,CORP,,,,Brooklyn,NY,11231,37.97,6/22/2013,Credit Card,OTHER,volunteer food
-2013,5,1694,P,Menchaca,Carlos,,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,9,,,R0001302,dunkin donuts,CORP,,,,Brooklyn,NY,11231,23.28,6/29/2013,Credit Card,OTHER,volunteer food
-2013,5,1694,P,Menchaca,Carlos,,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,9,,,R0001303,Little Caesars,CORP,,,,Brooklyn,NY,11232,19.60,7/7/2013,Credit Card,OTHER,volunteer food
-2013,5,1694,P,Menchaca,Carlos,,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,9,,,R0001304,Little Caesars,CORP,,,,Brooklyn,NY,11232,16.33,7/10/2013,Credit Card,OTHER,volunteer foodl
-2013,5,1694,P,Menchaca,Carlos,,H,"Menchaca, Carlos",CAN,,,,Brooklyn,NY,11231,P,10,,,R0001412,New York MTA,CORP,,,,,,,113.00,4/19/2013,Credit Card,OTHER,Transportation
-2013,5,1694,P,Menchaca,Carlos,,H,"Menchaca, Carlos",CAN,,,,Brooklyn,NY,11231,P,8,,,R0001063,U.S. Post Office,CORP,,,,Brooklyn,NY,11231,27.60,4/19/2013,Cash,OFFCE,Stamps/Postage
-2013,5,1694,P,Menchaca,Carlos,,H,"Menchaca, Carlos",CAN,,,,Brooklyn,NY,11231,P,9,,,R0001061,Taxi Service (Brooklyn),CORP,,,,Brooklyn,NY,11231,220.00,5/16/2013,Cash,OTHER,Taxi
-2013,5,1694,P,Menchaca,Carlos,,H,"Menchaca, Carlos",CAN,,,,Brooklyn,NY,11231,P,9,,,R0001062,Fairway Market,CORP,,,,Brooklyn,NY,11231,51.88,6/1/2013,Cash,OFFCE,Food
-2013,5,1694,P,Menchaca,Carlos,,H,"Menchaca, Carlos",CAN,,,,Brooklyn,NY,11231,P,9,,,R0001064,Duane Reade,CORP,,,,Brooklyn,NY,11201,18.89,6/1/2013,Cash,OFFCE,glue/posterboard
+2013,5,1694,P,Menchaca,Carlos,R,H,"Boyle, Sarah",IND,,,,Brooklyn,NY,11221,P,11,,,R0001399,Duane Reade,CORP,,,,Brooklyn,NY,11201,7.60,8/7/2013,Cash,OFFCE,Envelopes
+2013,5,1694,P,Menchaca,Carlos,R,H,"Boyle, Sarah",IND,,,,Brooklyn,NY,11221,P,11,,,R0001401,City Discount 99Cent Store,CORP,,,,Brooklyn,NY,11220,4.21,8/8/2013,Cash,OFFCE,explanation
+2013,5,1694,P,Menchaca,Carlos,R,H,"Estrada, David",IND,,,,Brooklyn,NY,11218,P,10,,,R0001409,A1A Wireless of NY Corp,CORP,,,,Brooklyn,NY,11220,1200.00,7/17/2013,Credit Card,OFFCE,12 Cell Phones/Plans
+2013,5,1694,P,Menchaca,Carlos,R,H,"Estrada, David",IND,,,,Brooklyn,NY,11218,P,7,,,R0000264,Authorize.net,CORP,,,,American  Fork,UT,84003,173.75,3/1/2013,Credit Card,OFFCE,credit card svcs
+2013,5,1694,P,Menchaca,Carlos,R,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,10,,,R0001406,dunkin donuts,CORP,,,,Brooklyn,NY,11231,31.57,8/3/2013,Credit Card,OTHER,volunteer food
+2013,5,1694,P,Menchaca,Carlos,R,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,11,,,R0001404,U.S. Post Office,CORP,,,,Brooklyn,NY,11231,198.00,8/6/2013,Credit Card,POSTA,Stamps
+2013,5,1694,P,Menchaca,Carlos,R,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,9,,,R0001301,dunkin donuts,CORP,,,,Brooklyn,NY,11231,37.97,6/22/2013,Credit Card,OTHER,volunteer food
+2013,5,1694,P,Menchaca,Carlos,R,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,9,,,R0001302,dunkin donuts,CORP,,,,Brooklyn,NY,11231,23.28,6/29/2013,Credit Card,OTHER,volunteer food
+2013,5,1694,P,Menchaca,Carlos,R,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,9,,,R0001303,Little Caesars,CORP,,,,Brooklyn,NY,11232,19.60,7/7/2013,Credit Card,OTHER,volunteer food
+2013,5,1694,P,Menchaca,Carlos,R,H,"Luevanos, Ivan",IND,,,,Brooklyn,NY,11221,P,9,,,R0001304,Little Caesars,CORP,,,,Brooklyn,NY,11232,16.33,7/10/2013,Credit Card,OTHER,volunteer foodl
+2013,5,1694,P,Menchaca,Carlos,R,H,"Menchaca, Carlos",CAN,,,,Brooklyn,NY,11231,P,10,,,R0001412,New York MTA,CORP,,,,,,,113.00,4/19/2013,Credit Card,OTHER,Transportation
+2013,5,1694,P,Menchaca,Carlos,R,H,"Menchaca, Carlos",CAN,,,,Brooklyn,NY,11231,P,8,,,R0001063,U.S. Post Office,CORP,,,,Brooklyn,NY,11231,27.60,4/19/2013,Cash,OFFCE,Stamps/Postage
+2013,5,1694,P,Menchaca,Carlos,R,H,"Menchaca, Carlos",CAN,,,,Brooklyn,NY,11231,P,9,,,R0001061,Taxi Service (Brooklyn),CORP,,,,Brooklyn,NY,11231,220.00,5/16/2013,Cash,OTHER,Taxi
+2013,5,1694,P,Menchaca,Carlos,R,H,"Menchaca, Carlos",CAN,,,,Brooklyn,NY,11231,P,9,,,R0001062,Fairway Market,CORP,,,,Brooklyn,NY,11231,51.88,6/1/2013,Cash,OFFCE,Food
+2013,5,1694,P,Menchaca,Carlos,R,H,"Menchaca, Carlos",CAN,,,,Brooklyn,NY,11231,P,9,,,R0001064,Duane Reade,CORP,,,,Brooklyn,NY,11201,18.89,6/1/2013,Cash,OFFCE,glue/posterboard
 2013,5,1696,P,Barron,Inez,D,H,"MC INTOSH, ROSALYN",IND,,,,Brooklyn,NY,11207,P,7,,,R0000072,BEST BUY,CORP,,,,Brooklyn,NY,11239,40.26,3/10/2013,Credit Card,OTHER,PRINTER INK
 2013,5,1696,P,Barron,Inez,D,H,"SCOTT-BRAYBOY, JOYCE",IND,,,,Brooklyn,NY,11208,P,7,,,R0000069,STANLEY 99 FOOD CORP,CORP,,,,Brooklyn,NY,11208,18.23,3/7/2013,Cash,OTHER,"DECORATIONS,TABLECLO"
 2013,5,1696,P,Barron,Inez,D,H,"WASHINGTON, CAROLYN",IND,,,,Brooklyn,NY,11208,P,7,,,R0000075,BJ's WHOLESALE CLUB,CORP,,,,Brooklyn,NY,11239,82.01,3/5/2013,Credit Card,OTHER,"JUICE,CUTLERY"
