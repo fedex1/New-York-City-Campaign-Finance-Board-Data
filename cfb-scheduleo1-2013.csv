@@ -122,6 +122,7 @@
 2013,4,264,P,Katz,Melinda,,O,CORP,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,13,,,R0004460,Carr Marketing Inc.,,,,Encinitas,CA,92024,22581.58,OTHER,Other
 2013,4,264,P,Katz,Melinda,,O,CORP,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,13,,,R0004477,Time Warner Cable Media-NE,,,,New York,NY,10087,8138.75,TVADS,Television Ads
 2013,4,264,P,Katz,Melinda,,O,CORP,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,13,,,R0004478,Time Warner Cable Media-NE,,,,New York,NY,10087,91906.25,TVADS,Television Ads
+2013,4,264,P,Katz,Melinda,,O,CORP,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,15,,,R0004772,Carr Marketing Inc.,,,,Encinitas,CA,92024,4491.84,OTHER,Other
 2013,4,264,P,Katz,Melinda,,O,OTHR,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,13,,,R0004440,Atlas Direct Mail,,,,Long Island City,NY,11101,30216.40,CMAIL,Campaign Mailings
 2013,4,264,P,Katz,Melinda,,O,OTHR,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,13,,,R0004441,Atlas Direct Mail,,,,Long Island City,NY,11101,12714.97,CMAIL,Campaign Mailings
 2013,4,264,P,Katz,Melinda,,O,OTHR,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,13,,,R0004443,Atlas Direct Mail,,,,Long Island City,NY,11101,35781.81,CMAIL,Campaign Mailings
@@ -155,6 +156,12 @@
 2013,4,264,P,Katz,Melinda,,O,OTHR,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,13,,,R0004473,Atlas Direct Mail,,,,Long Island City,NY,11101,3888.60,LITER,Campaign Literature
 2013,4,264,P,Katz,Melinda,,O,OTHR,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,13,,,R0004474,Atlas Direct Mail,,,,Long Island City,NY,11101,1790.00,LITER,Campaign Literature
 2013,4,264,P,Katz,Melinda,,O,OTHR,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,13,,,R0004475,Atlas Direct Mail,,,,Long Island City,NY,11101,525.00,LITER,Campaign Literature
+2013,4,264,P,Katz,Melinda,,O,OTHR,LLC,Red Horse Strategies,,,,Brooklyn,NY,11201,O_1,15,,,R0004719,Atlas Direct Mail,,,,Long Island City,NY,11101,38447.05,CMAIL,Campaign Mailings
+2013,5,1178,P,Greenfield,David,G,J,OTHR,CORP,Westerleigh Concepts,,,,Staten Island,NY,10303,O_1,15,,,R0001982,USPS,,,,,,,1910.03,POSTA,Postage
+2013,5,1178,P,Greenfield,David,G,J,OTHR,CORP,Westerleigh Concepts,,,,Staten Island,NY,10303,O_1,15,,,R0002084,USPS,,,,,,,3657.85,POSTA,Postage
+2013,5,1178,P,Greenfield,David,G,J,OTHR,CORP,Westerleigh Concepts,,,,Staten Island,NY,10303,O_1,15,,,R0002085,USPS,,,,,,,883.86,POSTA,Postage
+2013,5,1178,P,Greenfield,David,G,J,OTHR,CORP,Westerleigh Concepts,,,,Staten Island,NY,10303,O_1,15,,,R0002086,USPS,,,,,,,1561.18,POSTA,Postage
+2013,5,1178,P,Greenfield,David,G,J,OTHR,CORP,Westerleigh Concepts,,,,Staten Island,NY,10303,O_1,15,,,R0002087,USPS,,,,,,,1259.49,POSTA,Postage
 2013,5,1747,P,Voskerichian,Chrissy,,H,CORP,PART,Orchard Design Group,,,,Glen Cove,NY,11542,O_1,12,,,R0000999,William Charles Printing,,,,Plainview,NY,11803,17000.00,CMAIL,Campaign Mailings
 2013,5,1747,P,Voskerichian,Chrissy,,H,CORP,PART,Orchard Design Group,,,,Glen Cove,NY,11542,O_1,12,,,R0001000,Dennis Fatigati Inc.,,,,Huntington,NY,11743,7500.00,PROFL,Professional Services
 ELECTION,OFFICECD,CANDID,CANCLASS,CANDLAST,CANDFIRST,CANDMI,COMMITTEE,C_CODE,REF_C_CODE,ORI_VENDOR,REF_STRNO,REF_STRNAM,REF_APTNO,REF_CITY,REF_STATE,REF_ZIP,SCHEDULE,FILING,PAGENO,SEQUENCENO,REFNO,SUBCONTRACTOR,STRNO,STRNAME,APARTMENT,CITY,STATE,ZIP,AMNT,PURPOSECD,PURPOSE
