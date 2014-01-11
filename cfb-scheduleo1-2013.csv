@@ -162,6 +162,13 @@
 2013,5,1178,P,Greenfield,David,G,J,OTHR,CORP,Westerleigh Concepts,,,,Staten Island,NY,10303,O_1,15,,,R0002085,USPS,,,,,,,883.86,POSTA,Postage
 2013,5,1178,P,Greenfield,David,G,J,OTHR,CORP,Westerleigh Concepts,,,,Staten Island,NY,10303,O_1,15,,,R0002086,USPS,,,,,,,1561.18,POSTA,Postage
 2013,5,1178,P,Greenfield,David,G,J,OTHR,CORP,Westerleigh Concepts,,,,Staten Island,NY,10303,O_1,15,,,R0002087,USPS,,,,,,,1259.49,POSTA,Postage
+2013,5,1713,P,Maisel,Alan,,H,OTHR,CORP,Branford Communications Inc.,,,,Brooklyn,NY,11201,O_1,15,,,R0001225,USPS,,,,,,,5620.36,POSTA,Postage
+2013,5,1713,P,Maisel,Alan,,H,OTHR,CORP,Branford Communications Inc.,,,,Brooklyn,NY,11201,O_1,15,,,R0001226,USPS,,,,,,,10650.63,POSTA,Postage
+2013,5,1713,P,Maisel,Alan,,H,OTHR,CORP,Branford Communications Inc.,,,,Brooklyn,NY,11201,O_1,15,,,R0001227,USPS,,,,,,,2810.18,POSTA,Postage
+2013,5,1713,P,Maisel,Alan,,H,OTHR,CORP,Branford Communications Inc.,,,,Brooklyn,NY,11201,O_1,15,,,R0001228,USPS,,,,,,,4195.06,POSTA,Postage
+2013,5,1713,P,Maisel,Alan,,H,OTHR,CORP,Branford Communications Inc.,,,,Brooklyn,NY,11201,O_1,15,,,R0001229,USPS,,,,,,,2214.09,POSTA,Postage
+2013,5,1713,P,Maisel,Alan,,H,OTHR,CORP,Branford Communications Inc.,,,,Brooklyn,NY,11201,O_1,15,,,R0001230,USPS,,,,,,,437.67,POSTA,Postage
+2013,5,1713,P,Maisel,Alan,,H,OTHR,CORP,Branford Communications Inc.,,,,Brooklyn,NY,11201,O_1,15,,,R0001231,Atlas Direct Mail,,,,Long Island City,NY,11101,30833.96,CMAIL,Campaign Mailings
 2013,5,1747,P,Voskerichian,Chrissy,,H,CORP,PART,Orchard Design Group,,,,Glen Cove,NY,11542,O_1,12,,,R0000999,William Charles Printing,,,,Plainview,NY,11803,17000.00,CMAIL,Campaign Mailings
 2013,5,1747,P,Voskerichian,Chrissy,,H,CORP,PART,Orchard Design Group,,,,Glen Cove,NY,11542,O_1,12,,,R0001000,Dennis Fatigati Inc.,,,,Huntington,NY,11743,7500.00,PROFL,Professional Services
 ELECTION,OFFICECD,CANDID,CANCLASS,CANDLAST,CANDFIRST,CANDMI,COMMITTEE,C_CODE,REF_C_CODE,ORI_VENDOR,REF_STRNO,REF_STRNAM,REF_APTNO,REF_CITY,REF_STATE,REF_ZIP,SCHEDULE,FILING,PAGENO,SEQUENCENO,REFNO,SUBCONTRACTOR,STRNO,STRNAME,APARTMENT,CITY,STATE,ZIP,AMNT,PURPOSECD,PURPOSE
